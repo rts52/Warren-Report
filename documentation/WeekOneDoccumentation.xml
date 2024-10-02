@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--week one-->
+<date d="9/27/2024">
+    <add user="ryan"> Did initial commit</add>
+    <add user="ryan"> Added files for organization</add>
+    <add user="ryan"> Added required doccuments </add>
+    <add user="jack"> Updated the readme.md</add>
+    <add user="jack"> Updated the readme.md again </add>
+    <add user="ryan"> Moved the images file to the docs folder</add>
+    <add user="ryan"> Merged branch 'main' of https://github.com/rts52/Warren-Report</add>
+    <add user="ryan"> Moved images to the docs folder</add>
+</date>
