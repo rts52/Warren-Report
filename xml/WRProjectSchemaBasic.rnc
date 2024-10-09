@@ -1,0 +1,11 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start=root
+root=element root{text|person|place|event|date}
+
+person=element person{id,text}
+place=element place{id,text}
+event=element event{id,text}
+date=element date{id,text}
+
+id=attribute id{text}
