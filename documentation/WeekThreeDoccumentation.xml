@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--week three-->
+<date d="10/23/2024">
+    <decision>Decided to use <link1>https://www.jfklibrary.org/learn/about-jfk/jfk-in-history</link1>
+        <link2>https://www.archives.gov/research/jfk/warren-commission-report</link2> 
+        <txtfile>chapter 5, chapter 7, appendix 13</txtfile></decision>
+    <add user="lex">added the jfk txt file to sources</add>
+    <decision user="dylan">chapter 5</decision>
+    <decision user="ryan">chapter 7</decision>
+    <decision user="lex">appendix 13</decision>
+</date>
