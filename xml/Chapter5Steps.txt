@@ -1,0 +1,20 @@
+PAGES
+Step 1a. use ^[page]+ [0-9]+ to find all the page numbers 
+1b. used replace <page pageNumber="\0">\0</page>, can probably be done more efficiently to avoid step 1c
+1c. find "[page]+  and replace with " (there is a space after the + here)
+!!make sure to add page elements to the schema!!
+
+TIMES
+Step 2a. use [0-9]+:[0-9]+ [(ap)]\.m\ and  [0-9]+ [(ap)]\.m\. to locate all times in chapter 5
+2b. Wrap using <time>\0</time> (could potentially add an attribute later) 
+
+PEOPLE
+Step 3a. Locate all persons of interest: key people: Oswald, President Kennedy,
+3b. For Oswald, use Oswald['s]* to locate but also find lee harvey (to which there are 5 in this specific chapter), I wrapped using <person perid="oswald">\0</person> then manually added Lee Harvey into the 5 sections where the full name was mentioned (I opted to go manual markup here because of how little it was mentioned) 
+3c. For Kennedy, he shows up as either President Kennedy, just Kennedy
+
+TEXT
+Step 4a. search \n\n then replace with </text>\n<text>\0
+4b. Manually add <text> to the top line and </text> to the bottom line
+UNNESSARY INFO
+use \nReturn to top\n and replace with nothing to remove all the remove to tops in the chapter
