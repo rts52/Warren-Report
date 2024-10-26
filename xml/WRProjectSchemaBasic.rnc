@@ -1,16 +1,16 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start=root
-root=element root{text|person|place|event|date|qoute}
+root=element root{(text|person|place|event|date|qoute)*}
 
 person=element person{perid,text}
 place=element place{plaid,text}
 event=element event{eveid,text}
 date=element date{daid,text}
-qoute=element qoute{speaker, text}
+qoute=element qoute{speaker,(text|person|place|event|date)*}
 
 perid=attribute perid{text}
-plaid=attribute perid{text}
-eveid=attribute perid{text}
-daid=attribute perid{text}
+plaid=attribute plaid{text}
+eveid=attribute eveid{text}
+daid=attribute daid{text}
 speaker=attribute speaker{text}

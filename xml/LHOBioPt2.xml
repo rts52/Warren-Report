@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--To be merged with LHOBioPt.1-->
+<!--I would of liked to have refined this further, but it will suit the projects needs ~Daniel-->
+<?xml-model href="WRProjectSchemaBasic.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+ <person perid="Robert-Oswald">Robert</person> took his wife and children to Love Field, the Dallas
+ airport, to meet <person perid="Lee-Harvey-Oswald">Lee</person> and Marina and their baby, <person
+  perid="June-Lee-Oswald">"June Lee</person>. He testified that the most noticeable change in his
+ brother&apos;s appearance was that he had become rather bald; he seemed also to be somewhat thinner
+ than he had been in 1959. <person perid="Robert-Oswald">Robert</person> thought that his brother
+ had picked up <qoute speaker="Robert-Oswald">something of an accent</qoute> but, except for these
+ changes was <qoute speaker="Robert-Oswald">the same boy</qoute> whom he had known before. <person
+  perid="Lee-Harvey-Oswald">Lee</person> commented on the absence of newspaper reporters and seemed
+ to <person perid="Robert-Oswald">Robert</person> to be disappointed that none had appeared. Later
+ on, <person perid="Lee-Harvey-Oswald">Lee</person> was anxious to avoid publicity. <person
+  perid="Robert-Oswald">Robert</person> drove <person perid="Marina-and-Lee-Harvey-Oswald">the
+  Oswalds</person> to his home at <place plaid="1501-West-Seventh-Street">7313 Davenport
+  Street</place>. For a few days, <person perid="Lee-Harvey-Oswald">Lee</person> seemed tense, but
+ the brothers got along well, and to <person perid="Robert-Oswald">Robert</person> it was <qoute
+  speaker="Robert-Oswald">more or less ... [as if <person perid="Lee-Harvey-Oswald">Lee</person>]
+  had not been to Russia</qoute>; they were <qoute speaker="Robert">just together again.</qoute>
+ They did not discuss politics, according to <person perid="Robert-Oswald">Robert</person> because
+ of a <qoute speaker="Robert-Oswald">tacit agreement</qoute> between them. <person
+  perid="Lee-Harvey-Oswald">Lee</person> indicated to his brother that he hoped to have his
+ undesirable discharge from the Marines corrected. <person perid="Robert-Oswald">Robert</person> and
+ his wife <qoute speaker="Robert">took to Marina and <person perid="June-Lee-Oswald"
+  >June</person>,</qoute> and enjoyed showing Marina <qoute speaker="Robert">things that she had
+  never seen before.</qoute> Marina rested and took care of her baby, and when she could, helped in
+ the household. She testified that, apart from a trip to the library, <person
+  perid="Lee-Harvey-Oswald">Lee</person> spent about a week <qoute speaker="Marina">"merely
+  talking.</qoute> On <date daid="June-18">June 18</date>, 4 days after he arrived in Fort Worth,
+  <person perid="Lee-Harvey-Oswald">Oswald</person> went to the office of Mrs. Pauline Virginia
+ Bates, a public stenographer whose name he had found in the telephone directory, and asked her to
+ type a manuscript from the <qoute speaker="Lee-Harvey-Oswald">scraps of paper,</qoute> on which he
+ had recorded his impressions of the Soviet Union. Intrigued by his tale that he had just returned
+ from the Soviet Union and had smuggled his notes out of that country, she agreed to type the notes
+ for $1 per page or $2 an hour, 50 cents less than her usual hourly rate. On that day and the
+ succeeding 2 days, Mrs. Bates spent 8 hours typing for <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> while he remained in her office helping her with the notes and translating
+ portions of them which were in Russian. At the end of each session he collected his notes and as
+ much of the manuscript as she had done and took them away with him. On <date daid="June-20">June
+  20</date>, he gave Mrs. Bates $10 for the 10 completed pages; he told her that he had no more
+ money and refused to accept her offer to postpone pay-merit or continue the work for nothing.
+ Oswald told Mrs. Bates that there was an engineer in Fort Worth who wanted to help him publish his
+ notes. On <date daid="June-19">June 19</date>, he had called Peter Gregory, a petroleum engineer
+ who was born in Siberia and taught Russian at the Fort Worth Public Library as a <qoute
+  speaker="unspecified">civic enterprise</qoute>. He asked if Gregory could give him a letter
+ testifying to his ability to read and speak Russian, so that he could obtain work as an interpreter
+ or translator. Gregory suggested that <person perid="Lee-Harvey-Oswald">Oswald</person> come to his
+ office, where Gregory opened a Russian book at random and asked <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> to read from it. <person perid="Lee-Harvey-Oswald">Oswald</person> read well, and
+ Gregory gave him the letter he wanted. Gregory and <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> had lunch together and discussed <person perid="Lee-Harvey-Oswald"
+  >Oswald</person>&apos;s life in the Soviet Union, but, according to Gregory&apos;s testimony,
+ nothing was said about publishing <person perid="Lee-Harvey-Oswald">Oswald</person>&apos;s
+ manuscript. About a week later, Gregory and his son Paul, a college student, visited <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> at <person perid="Robert-Oswald">Robert
+  Oswald</person>&apos;s home and arranged for Marina to give Paul lessons in Russian during the
+ summer. On <date daid="June-26">June 26</date>, <person perid="Lee-Harvey-Oswald">Oswald</person>
+ was interviewed by FBI agents in Fort Worth. One of the agents who interviewed him described him as
+ tense and <qoute speaker="unspecified">drawn up</qoute>; he said that <person
+  perid="Lee-Harvey-Oswald">Oswald</person>
+ <qoute speaker="unspecified">exhibited an arrogant attitude ... and [was] inclined to be just a
+  little insolent.</qoute>
+ <person perid="Lee-Harvey-Oswald">Oswald</person> declined to say why he had gone to Russia, saying
+ that he refused to <qoute speaker="Lee-Harvey-Oswald">relive the past.</qoute> He said that he had
+ not attempted to obtain Soviet citizenship, had not been approached by Soviet officials for
+ information about his experiences in the Marines, and had not offered them such information.
+ Marina&apos;s Soviet passport required her to notify the Soviet Embassy in Washington of her
+ address in this country, and <person perid="Lee-Harvey-Oswald">Oswald</person> told the agents that
+ he planned to contact the Embassy for this purpose within a few days. He promised to notify the FBI
+ if he were contacted by Soviet agents <qoute speaker="Lee-Harvey-Oswald">under suspicious
+  circumstances or otherwise.</qoute>
+ <person perid="Lee-Harvey-Oswald">Oswald</person> told his brother about the interview, saying that
+ it had been <qoute speaker="Lee-Harvey-Oswald">just fine.</qoute> Oswald and his family remained
+ with <person perid="Robert-Oswald">Robert</person> for about a month. While they were there his
+ mother moved to Fort Worth from Crowell, Tex., and sometime in July they moved into her apartment
+ at <place plaid="1501-West-Seventh-Street">1501 West Seventh Street</place>. <person
+  perid="Marguerite-Oswald">Mrs. Oswald</person> testified that she had visited them at <person
+  perid="Robert-Oswald">Robert</person>&apos;s house in June and moved to Fort Worth because she
+ thought that the house was too crowded and wanted to help them. <person perid="Marguerite-Oswald"
+  >Mrs. Oswald</person> described the period when her son and his family lived with her as <qoute
+  speaker="">a very happy month</qoute>; according to her testimony, she and her son and
+ daughter-in-law got along well. She mentioned that she not only helped Marina keep house and care
+ for the baby but also aided her son in his efforts to find employment. Marina testified, however,
+ that <person perid="Lee-Harvey-Oswald">Lee</person> did not get along well with his mother and that
+ he decided after several weeks that they should move to their own apartment. He did not file a
+ change-of-address card at the post office when the family moved to West Seventh Street, as he did
+ when they made their next move, so he may have contemplated from the beginning that they would stay
+ with his mother for only a short while. Around the middle of August, <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> moved to a one-bedroom furnished
+ apartment at<place plaid="2703-Mercedes-Street">2703 Mercedes Street</place>, for which they paid
+ $59.50 in advance for 1 month&apos;s rent. In the third week in July, <person
+  perid="Lee-Harvey-Oswald">Oswald</person> had obtained a job as a sheet metal worker with the
+ Louv-R-Pak Division of the Leslie Welding Co., a manufacturer of louvers and ventilators, to which
+ he had been referred by the Texas Employment Commission. On his application for employment, filled
+ out several days before, he wrote falsely that he had experience as a sheet metal worker and
+ machinist in the Marines and had been honorably discharged. He usually worked 8 or 9 hours a day,
+ for which he was paid $1.25 an hour. Marina testified that <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> did not like his work, but he was regarded as a good employee and remained with
+ the company until October, when he quit. On the job, he kept to himself and was considered
+ uncommunicative. <person perid="Marguerite-Oswald">Mrs. Oswald</person> visited her son and his
+ family at their apartment and tried to help them get settled; she testified that she bought some
+ clothes for Marina and a highchair for the baby but that <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> told her that he did not want her to buy <qoute speaker="">things for his wife
+  that he himself could not buy.</qoute> Finally, <person perid="Lee-Harvey-Oswald">Oswald</person>
+ apparently decided that he did not want his mother to visit the apartment anymore and he became
+ incensed when his wife permitted her to visit despite his instructions. After he moved to Dallas in
+ October, <person perid="Lee-Harvey-Oswald">Oswald</person> did not see his mother or communicate
+ with her in any way until she came to see him after the assassination. Witnesses have described the
+ Mercedes Street apartment as <qoute speaker="">decrepit</qoute> and very poorly furnished; there
+ was no telephone service. Acquaintances observed that Marina and the baby were poorly clothed, that
+  <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> had little food, and that at
+ first there was not a bed for the baby. On <date daid="August-16">August 16</date>, the FBI again
+ interviewed <person perid="Lee-Harvey-Oswald">Oswald</person>. This interview took place in the
+ back seat of a car in front of his home and covered substantially the same material as the previous
+ interview. <person perid="Lee-Harvey-Oswald">Oswald</person> again denied having made any deal with
+ representatives of the Soviet Union. He protested his undesirable discharge from the Marines, and
+ stated that his wife was registered at the Soviet Embassy. He still refused to discuss why he had
+ gone to the Soviet Union, but he was less hostile than he had been during the previous interview.
+ According to his wife, however, he was very upset by the interest the FBI showed in him. <person
+  perid="Marina-and-Lee-Harvey-Oswald">The Oswalds</person> became acquainted with a growing number
+ of people of the Russian-speaking community in the Dallas-Fort Worth area, who were tied together
+ socially by a common origin, language, and religion. The group was not restricted to people from
+ Russia but was composed primarily of people from Eastern European countries. <person
+  perid="Marina-and-Lee-Harvey-Oswald">The Oswalds</person>&apos; initial contact with this group
+ was through Peter Gregory. Marina gave conversational Russian lessons to Paul Gregory 2 days a week
+ during August and early September, for which she was paid $35. Most of the lessons took place at
+ the Mercedes Street apartment and <person perid="Lee-Harvey-Oswald">Oswald</person> was generally
+ present. In addition, Paul Gregory occasionally took <person perid="Marina-and-Lee-Harvey-Oswald"
+  >the Oswalds</person> shopping; after they became friendly, he had a number of discussions with
+ Oswald, some of them politically oriented. Sometime around <date daid="August-25">August 25</date>,
+ Peter Gregory invited <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> and several
+ members of the Russian community to his house for dinner. One of the guests was George Bouhe, a
+ Dallas accountant and a leader of the Russian community. He was very interested in meeting and
+ conversing with Marina, because she had spent much of her life in Leningrad, which was his
+ birthplace. Also present was Mrs. Anna Meller, the Russian- born wife of a Dallas department store
+ employee. Near the end of August, <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person>
+ met Declan Ford, a consulting geologist in the Dallas area, and his Russian-born wife at Mrs.
+ Meller&apos;s home. <person perid="Marina-and-Lee-Harvey-Oswald">The Oswalds</person> were also
+ introduced to Mrs. Elena Hall, who was born in Tehran, Iran, of Russian parentage. She worked in a
+ dental laboratory and at this time was divorced from her former husband John Hall, whom she
+ subsequently remarried. In order to obtain dental aid for Marina, George Bouhe had brought her to
+ Mrs. Hall&apos;s house. In early September, <person perid="Marina-and-Lee-Harvey-Oswald">the
+  Oswalds</person> met Alexander Kleinlerer, another member of the Russian group, who was then
+ courting Mrs. Hall. Mrs. Max Clark was introduced to Marina during this period by George Bouhe and
+ Anna Meller. Max Clark met <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> at a
+ later time. At about the same time, they were visited by George De Mohrenschildt, a petroleum
+ engineer born in Russia. who had heard of them from one of the Russian-speaking group. Later on,
+  <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> met his wife, Jeanne, and his
+ daughter and son-in-law, Gary and Alexandra Taylor. Most of the members of the Russian community
+ were interested in <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> not only
+ because they needed help, but also because they could provide the latest information about what was
+ happening in Russia. Some members of the group were at first apprehensive about them because the
+ apparent ease with which they had left Russia seemed suspicious. Nevertheless, many of the group
+ provided small amounts of money, groceries, clothing, and furniture for <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person>; George Bouhe, Anna Meller, and Elena
+ Hall were the primary contributors, although others provided help in the form of transportation and
+ groceries. These acquaintances occasionally visited <person perid="Marina-and-Lee-Harvey-Oswald"
+  >the Oswalds</person>, and <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> in
+ turn visited some of them in Dallas. It was evident that <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> did not appreciate the help of the Russian community. At least once he flew into
+ a rage and shouted that he did not need any of the things that people were giving to him. Some felt
+ that he resented the gifts because he could not give his wife what the others were providing;903 he
+ apparently was critical of them also because he felt that they were overly concerned with improving
+ themselves economically. Oswald became increasingly unpopular with his Russian-speaking
+ acquaintances, partly because of his resentment of their assistance. Alexander Kleinlerer stated
+ that none of them cared for <person perid="Lee-Harvey-Oswald">Oswald</person>
+ <qoute speaker="">because of his political philosophy, his criticism of the United States, his
+  apparent lack of interest in anyone but himself and because of his treatment of Marina.</qoute>
+ Some of them believed that <person perid="Lee-Harvey-Oswald">Oswald</person> was mentally
+ disturbed. However, they felt sorry for Marina and the child and continued to help. On a weekend
+ afternoon early in October, <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> were
+ visited by his mother and a number of people from the Russian community, including George Bouhe,
+ Anna Meller, the Halls, the De Mohrenschildts, and the Taylors. <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> had apparently decided to look for a new job, and discussed his lack of job
+ prospects and the fact that his rent was overdue. He was advised to seek employment in the Dallas
+ area. Elena Hall invited Marina to move into her house in Fort Worth until <person
+  perid="Lee-Harvey-Oswald">Oswald</person> found a job in Dallas. She accepted the proposal, and
+ Mrs. Hall moved Marina. her daughter <person perid="June-Lee-Oswald">June</person>, and the
+ Oswalds&apos; few household goods in a pickup truck belonging to the dental laboratory where she
+ was employed. Oswald worked at the Leslie Welding Co. on Monday, <date daid="October-8">October
+  8</date>, but failed to appear on the following day. He was already in Dallas. He falsely told his
+ wife that he had been discharged, and told George Bouhe that the job had been a temporary one.
+ Sometime later, the company received an undated letter from him stating that he had <qoute
+  speaker="">moved permanently to Dallas,</qoute> and asking that the wages due him be forwarded to
+ him at box <place plaid="box-2915-in-Dallas">2915 in Dallas</place>. He did not tell his mother
+ that he was leaving Fort Worth. While they were in Fort Worth, <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> were having marital problems. Several
+ people noted that Marina had a blackened eye when they visited her at the Mercedes Street
+ apartment. She told her mother-in-law and George Bouhe that her husband had struck her, but said to
+ Anna Meller that she had walked into a door. It seems clear that <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> had in fact hit her. People observed friction between <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> on various occasions, although their
+ disputes became more apparent later. Marina has written that this was a difficult period for them
+ and that her husband was <qoute speaker="">very irritable</qoute> and sometimes some completely
+ trivial thing would <qoute speaker="">drive him into a rage.</qoute> She testified that: ...
+ immediately after coming to the United States <person perid="Lee-Harvey-Oswald">Lee</person>
+ changed. I did not know him as such a man in Russia. ... He helped me as before, but he became a
+ little more of a recluse ... He was very irritable, sometimes for a trifle ... She has denied,
+ however, that their separation was the result of quarrels between them. Marina spent the first few
+ weeks after <person perid="Lee-Harvey-Oswald">Oswald</person>&apos;s departure at Elena Hall&apos;s
+ house in Fort Worth, except for a brief stay at Gary Taylor&apos;s house in Dallas after one of her
+ appointments at the Baylor Dental Clinic. While she was in Dallas, Mrs. De Mohrenschildt brought
+ her to the clinic on <date daid="October-8">October 8</date>, <date daid="October-10">October
+  10</date>, and <date daid="October-15">October 15</date>; George Bouhe had given Mrs. De
+ Mohrenschildt the money to cover the expense of Marina&apos;s dental care. Even before <person
+  perid="Lee-Harvey-Oswald">Oswald</person> went to Dallas, some of his acquaintances were helping
+ him in his effort to find a job there. George De Mohrenschildt directed him to Samuel B. Ballen, a
+ Dallas financial consultant, but no employment resulted. George Bouhe recommended that <person
+  perid="Lee-Harvey-Oswald">Oswald</person> go to the Texas Employment Commission in Dallas; and
+ Anna Meller had her husband ask Mrs. Helen Cunningham, a counselor in the clerical and sales
+ division of the Dallas office of the employment commission, to help <person
+  perid="Lee-Harvey-Oswald">Oswald</person> find a job. <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> first came into the office of the employment commission on <date daid="October-9"
+  >October 9</date>. He was reluctant to accept industrial employment, and was placed in the
+ clerical category and turned over to Mrs. Cunningham for counseling. He indicated that he had an
+ interest in writing. The results of general aptitude tests which he had taken at the Fort Worth
+ employment office had been transmitted to the Dallas office, and indicated that he had some
+ aptitude in this direction and for clerical work. It was noted on his application form that he had
+  <qoute speaker="">outstanding verbal-clerical potential.</qoute> He demonstrated ability to
+ perform many skilled and semi-skilled jobs, and there was some indication that he could do college
+ work. Mrs. Cunningham gave him three special tests: for general clerical work, work as an insurance
+ claims examiner, and drafting work. He scored high on all three. His application form indicated
+ that he did not have a driver&apos;s license, and noted: <qoute speaker="">well-groomed and spoken,
+  business suit, alert replies--expresses self extremely well.</qoute> He told Mrs. Cunningham that
+ he hoped to develop qualifications for responsible junior executive employment by a work-study
+ program at a local college but that this must be delayed because of his immediate financial needs
+ and responsibilities. Mrs. Cunningham concluded that although <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> would be classified for clerical work, she should try to get him any available
+ job, since he badly needed money. He was referred to an architect for an opening as a messenger but
+ was not hired. On <date daid="October-11">October 11</date>, he was referred to
+ Jaggars-Chiles-Stovall Co., a graphic arts company, in response to a call from John Graef, head of
+ the photographic department of the company, who had told the employment commission that he needed a
+ photoprint trainee. <person perid="Lee-Harvey-Oswald">Oswald</person> was enthusiastic about his
+ prospects and apparently made a good impression; Graef picked him over several other applicants. On
+ the following day he began working in his new position as a trainee making prints of advertising
+ material. He worked a 40-hour week at approximately $1.35 per hour; his take-home pay varied from
+ $49 to $74 a week. According to his wife, <qoute speaker="">he liked his work very much.</qoute>
+ Oswald moved into the YMCA on <date daid="October-15">October 15</date>, and stayed there until
+  <date daid="October-19">October 19</date>, paying $2.25 a night. He had used the Taylors&apos;
+ address and telephone number as a place where he could be reached, but on <date daid="October-9"
+  >October 9</date> had also rented post office box <place plaid="box-2915">2915</place> under his
+ own name at the main post office on Ervay Street. On <date daid="October-10">October 10</date>, he
+ filed a change-of-address form indicating that mail for <place plaid="2703-Mercedes-Street">2703
+  Mercedes Street</place> should be forwarded to the box. Marina has written that <person
+  perid="Lee-Harvey-Oswald">Oswald</person> wrote her letters and telephoned her during the
+ separation. On <date daid="October-16">October 16</date>, Mrs Hall brought Marina and <person
+  perid="June-Lee-Oswald">June</person> to Dallas to have <person perid="June-Lee-Oswald"
+  >June</person> baptized. Marina apparently did this surreptitiously, because her husband opposed
+ baptism; they did not contact him in Dallas, but left birthday gifts for him at the Taylors.
+  <person perid="Lee-Harvey-Oswald">Oswald</person> did not appear very disturbed when he found out
+ about the baptism. Two days later, Mrs. Hall had an automobile accident and went to the hospital,
+ where she remained until <date daid="October-26">October 26</date>; Marina remained in the Hall
+ house. Mrs. Max Clark and Alexander Kleinlerer, a friend of Mrs. Hall, checked up to make sure that
+ she was getting along without too much trouble. After <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> left the YMCA on <date daid="October-19">October 19</date>, he moved to a room or
+ apartment somewhere in Dallas, which has not been located. It seems likely, however, that during
+ that time he spent several weekends with Marina at the Hall house. Four days after Mrs. Hall
+ returned from the hospital, she left for New York to visit friends. By the time she returned,
+ Marina had moved to a three-room apartment at <place plaid="604-Elsbeth-Street-in-Dallas">604
+  Elsbeth Street in Dallas</place>, which <person perid="Lee-Harvey-Oswald">Oswald</person> had
+ rented on Saturday, <date daid="November-3">November 3</date>; the landlady stated that he had
+ looked at the apartment about a week before. The monthly rent was $68, in addition to which he had
+ to pay several dollars a month for utilities. He paid the rent plus a $5 deposit on <date
+  daid="November-3">November 3</date>, but probably spent that night with Marina at the Hall house.
+ On Sunday the Taylors helped <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> move
+ their belongings to the Elsbeth Street apartment with a rented trailer. <person
+  perid="Lee-Harvey-Oswald">Oswald</person> had asked Kleinlerer to help them move, and Kleinlerer
+ also was present when they departed. Soon after <person perid="Marina-and-Lee-Harvey-Oswald">the
+  Oswalds</person> were reunited, their marital difficulties started again. While they were moving
+ to Elsbeth Street, Kleinlerer noticed that <person perid="Lee-Harvey-Oswald">Oswald</person>
+ slapped his wife for not having the zipper on her dress completely closed. They argued over his
+ refusal to allow her to smoke. There was a quarrel also when he told the landlady that Marina was
+ from Czechoslovakia; he was angered when Marina, who disapproved of this deception, told the
+ landlady the truth. Although several people tried to help Marina improve her scanty knowledge of
+ English, <person perid="Lee-Harvey-Oswald">Oswald</person> discouraged this, perhaps because he
+ wanted to keep up his Russian. Some witnesses testified that she commented about his sexual
+ abilities. He apparently continued to beat her, and once she suggested to George De Mohrenschildt
+ that she should <qoute speaker="">get away</qoute> from <person perid="Lee-Harvey-Oswald"
+  >Oswald</person>. When De Mohrenschildt criticized <person perid="Lee-Harvey-Oswald"
+  >Oswald</person>&apos;s conduct, <person perid="Lee-Harvey-Oswald">Oswald</person> replied, <qoute
+  speaker="">It is my business.</qoute> Marina testified that when they moved into the Elsbeth
+ Street apartment, her husband became <qoute speaker="">nervous and irritable</qoute> and was very
+ angry over <qoute speaker="">trifles.</qoute> She said that it was sometimes her fault that he beat
+ her, for example when she wrote to an old boyfriend in Russia that she wished she had married him;
+ the letter was returned for postage due, and <person perid="Lee-Harvey-Oswald">Oswald</person> read
+ it. Because of this quarreling, a few of their acquaintances felt that Marina would be better off
+ alone. George Bouhe offered to help her if she promised to leave <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> permanently. Finally, in early November, Marina, helped by the De Mohrenschildts,
+ moved into Anna Meller&apos;s house with the intention not to return to <person
+  perid="Lee-Harvey-Oswald">Oswald</person>. He was apparently quite upset and did not want Marina
+ to leave him. Oswald did not visit his wife at Anna Meller&apos;s house, and for a short time did
+ not even know where she was. According to Marina, he called her after she moved and they met at De
+ Mohrenschildt&apos;s house. He asked her to return home. She insisted that he stop quarreling and
+ that he change his ways. He said that he could not change. Marina would not agree to return home
+ with him and he left. Marina was uncomfortable at the Meller house, where there was very little
+ room. She moved to Katherine Ford&apos;s house where she apparently stayed from <date
+  daid="November-11to17">November 11 to 17</date>. She indicated that she had decided never to
+ return to her husband; it was Mrs. Ford&apos;s impression that Marina was going to stay at other
+ people&apos;s houses until a permanent place could be found for her. When Mr. Ford returned from a
+ business trip on <date daid="November-17">November 17</date>, Marina and <person
+  perid="June-Lee-Oswald">June</person> moved to the home of Mrs. Frank Ray, where they spent the
+ day. Mrs. Ray, the wife of a Dallas advertising man, was also of Russian origin. Since Mrs. Ray had
+ no baby bed, Marina returned to the Fords that evening. On the next day, however, Marina moved her
+ belongings to the Rays&apos; house. That same day, <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> called and asked to visit his wife, whom he had called and written. Mr. Ray
+ picked him up and took him to Marina. Marina testified that at this meeting <person
+  perid="Lee-Harvey-Oswald">Oswald</person> professed his love for her. She stated: <qoute
+  speaker="">I saw him cry ... [he] begged me to come back, asked my forgiveness, and promised that
+  he would try to improve, if only I would come back.</qoute> On another occasion she said: <qoute
+  speaker="">... he cried and you know a woman&apos;s heart--I went back to him. He said he
+  didn&apos;t care to live if I did not return?</qoute> That same day she decided to return to him.
+ Mr. Ray packed her belongings and took her back to the Elsbeth Street apartment. Members of the
+ Russian community who had taken care of Marina so that she would not have to live with <person
+  perid="Lee-Harvey-Oswald">Oswald</person> felt that their efforts had been in vain. George Bouhe
+ was so irritated that he never again tried to help either of <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person>. Contacts between them and members of
+ the Russian community diminished markedly. <person perid="Lee-Harvey-Oswald">Oswald</person> did
+ not care for most of these people and made his feelings apparent. Even the De Mohrenschildts, whom
+ he liked most, saw much less of them. Lydia Dymitruk, another Russian born woman in the Dallas-Fort
+ Worth area, testified that she saw <person perid="Marina-and-Lee-Harvey-Oswald">the
+  Oswalds</person> on only one occasion, and did not care to see them again. She drove Marina and
+  <person perid="June-Lee-Oswald">June</person>, who had a high fever, to the hospital; <person
+  perid="Lee-Harvey-Oswald">Oswald</person> told the hospital that he was unemployed in order to
+ avoid paying for <person perid="June-Lee-Oswald">June</person>&apos;s treatment and later left Mrs.
+ Dymitruk without thanking her. Mrs. Ford testified that Marina had told her that she contemplated
+ suicide during this period because <person perid="Lee-Harvey-Oswald">Oswald</person> was treating
+ her badly and she had no friends; she felt that she had <qoute speaker="">no way out.</qoute>
+ Marina acknowledged to the Commission that she had such thoughts. In an effort to renew family
+ ties, <person perid="Robert-Oswald">Robert Oswald</person> wrote to <person
+  perid="Lee-Harvey-Oswald">Lee</person> and John Pic on <date daid="November-17">November
+ 17</date>, inviting them and their families to Thanksgiving dinner. <person
+  perid="Lee-Harvey-Oswald">Lee</person> accepted the invitation. He and Marina traveled to Fort
+ Worth by bus on Thanksgiving Day, and John Pic and <person perid="Robert-Oswald">Robert</person>
+ met them at the station. Pic had not seen his half-brother for 10 years. He observed, as many
+ others have also attested, that <person perid="Lee-Harvey-Oswald">Lee</person> seemed to be a good
+ father and to take an active interest in <person perid="June-Lee-Oswald">June</person>. After
+ dinner, Marina phoned Paul Gregory, who later drove <person perid="Marina-and-Lee-Harvey-Oswald"
+  >the Oswalds</person> to his house for sandwiches and then took them to the bus station for the
+ return trip to Dallas. Thereafter, <person perid="Robert-Oswald">Robert</person> spoke to his
+ brother once by telephone and received a post card and a letter from him, but he eventually lost
+ contact with <person perid="Lee-Harvey-Oswald">Lee</person> and did not see him again until after
+ the assassination. Despite his disillusionment with Soviet life, <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> kept up his interest in Russia. He wrote to the Soviet Embassy in Washington for
+ information on how to subscribe to Russian periodicals and for <qoute speaker="">any periodicals or
+  bulletins which you may put out for the benefit of your citizens living, for a time, in the
+  U.S.A.</qoute> He subsequently subscribed to several Russian journals. In <date
+  daid="December-1962">December 1962</date>, the Soviet Embassy received a card in Russian, signed
+  <qoute speaker="">Marina and <person perid="Lee-Harvey-Oswald">Lee Oswald</person>,</qoute> which
+ conveyed New Year&apos;s greetings and wishes for <qoute speaker="">health, success and all of the
+  best</qoute> to the employees at the Embassy. <person perid="Marina-and-Lee-Harvey-Oswald">The
+  Oswalds</person> continued to correspond with acquaintances in Russia. Soon after his return to
+ this country, <person perid="Lee-Harvey-Oswald">Oswald</person> had started to correspond with the
+  <person perid="Communist-Party-U.S.A.">Communist Party, U.S.A.</person>, and the Socialist Workers
+ Party. He subscribed to the Worker in <date daid="August-1962">August 1962</date>. He wrote for
+ additional literature from these organizations, and attempted to join the Socialist Workers Party,
+ which, however, had no branch in Texas. He sent samples of his photographic work to the Socialist
+ Workers Party, the Worker, and the Hall-Davis Defense Committee, and offered to aid them in
+ printing and photographic work in connection with posters; these offers were not accepted. He
+ continued to read a great deal on a variety of subjects. George Bouhe testified that <person
+  perid="Lee-Harvey-Oswald">Oswald</person>&apos;s fare consisted of books by Marx, Lenin, <qoute
+  speaker="">and similar things.</qoute> Marina said that he read books of a historical nature,
+ including H. G. Wells&apos; two volume <qoute speaker="">Outline of History,</qoute> and
+ biographies of Hitler, Kennedy, and Khrushchev. Despite <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person>&apos; break with the Russian community,
+ De Mohrenschildt, knowing that they would be alone during the Christmas season, asked the Fords
+ whether he could bring <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> to a party
+ celebrating the Russian Christmas at the Fords&apos; home; the Fords assented. The party was
+ attended by many members of the Russian community. <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> spoke at length with Yaeko Okui, a Japanese woman who had been brought to the
+ party by Lev Aronson, first cellist of the Dallas Symphony Orchestra; she told Federal
+ investigators that she never saw <person perid="Lee-Harvey-Oswald">Oswald</person> again. <person
+  perid="Marina-and-Lee-Harvey-Oswald">The Oswalds</person> were not invited to three other Russian
+ Christmas season gatherings which occurred during the next few days. Marina visited the De
+ Mohrenschildts several times after Christmas. They invited both <person perid="Lee-Harvey-Oswald"
+  >Lee</person> and Marina to a small dinner party in February 1963; also present were Everett
+ Glover, a chemist employed in Dallas, and his roommate Volkmar Schmidt. On February 22, Glover had
+ a gathering at his house, one of the purposes of which was to permit his friends, many of whom were
+ studying Russian, to meet <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person>. They
+ were the objects of much attention. Marina conversed at length with another guest named Ruth Paine,
+ who had recently separated from her husband, Michael Paine, a research engineer at the Bell
+ Helicopter plant in Fort Worth. Mrs. Paine, who was studying Russian, obtained Marina&apos;s
+ address and shortly thereafter wrote Marina asking to see her. Marina responded by inviting Mrs.
+ Paine to visit her. <person perid="Marina-and-Lee-Harvey-Oswald">The Oswalds</person> moved out of
+ their Elsbeth Street apartment on <date daid="March-3">March 3</date>, 1963, to an upstairs
+ apartment several blocks away at <place plaid="214-West-Neely-Street">214 West Neely
+ Street</place>. <person perid="Lee-Harvey-Oswald">Oswald</person> inquired about the apartment in
+ response to a <qoute speaker="">For Rent</qoute> sign; the rent was $60 per month, not including
+ utilities. They moved without assistance, carrying their belongings in their hands and in a baby
+ stroller. Marina preferred the Neely Street apartment because it had a porch and was, she felt,
+ more suitable for <person perid="June-Lee-Oswald">June</person>. Aware of <person
+  perid="Lee-Harvey-Oswald">Oswald</person>&apos;s difficulties in obtaining employment, George
+ Bouhe had advised him as early as <date daid="10/1962">October/1962</date> to attend a night school
+ in Dallas. On <date daid="January-14">January 14</date>, <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> enrolled in a typing course in the night school of Crozier Technical High School,
+ and started attending on <date daid="January-28">January 28</date>. The class ran from 6:15 to 7:15
+ p.m. on Mondays, Tuesday, and Thursdays. Although <person perid="Lee-Harvey-Oswald">Oswald</person>
+ reviewed a typing textbook at home, he attended the course irregularly and stopped going altogether
+ on about <date daid="March-28">March 28</date>. Ruth Paine and Marina started to exchange visits in
+ March. Mrs. Paine invited <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> for
+ dinner, and on <date daid="April-20">April 20</date> she took them on a picnic. When <person
+  perid="Lee-Harvey-Oswald">Oswald</person> was not present, the two women frequently discussed
+ their respective marital problems, and Marina disclosed to Mrs. Paine that she was pregnant. Marina
+ wrote of these meetings: One day we were invited to a friend&apos;s house, where I met Ruth Paine,
+ who was studying Russian here in America and wanted to improve her conversational knowledge. We
+ began to see each other. Ruth would come to see me with her children. This was very good for both
+ me and for <person perid="June-Lee-Oswald">June</person>. She was growing up alone and becoming
+ terribly wild, so the company of other children was good for her. Sometimes we went out on picnics
+ at a nearby lake. <person perid="Lee-Harvey-Oswald">Lee</person> loved to fish, and we would look
+ and rejoice if he caught a little fish. Several times we went to visit Ruth who lived in Irving.
+ Using the name of <person perid="Lee-Harvey-Oswald-Alias">A. J. Hidell, Oswald</person> had ordered
+ a Smith &amp; Wesson .38 revolver from Los Angeles on a form which he dated <date daid="January-27"
+  >January 27</date>. On <date daid="March-12">March 12</date>, he ordered a rifle from Klein&apos;s
+ Sporting Goods in Chicago under the name of <person perid="Lee-Harvey-Oswald-Alias">A. Hidell.
+  Oswald</person> used the name <qoute speaker="">Alek James Hidell</qoute> on identification cards
+ which he probably produced at Jaggars-Chiles-Stovall. One of his fellow employees taught him
+ various photographic techniques, which he could have used to prepare not only these cards, but also
+ the samples of his work which he sent to various organizations. Both weapons were shipped on <date
+  daid="March-20">March 20</date>. <person perid="Lee-Harvey-Oswald">Oswald</person> kept the rifle
+ in a small storeroom at the Neely Street apartment. He spent long periods of time in the storeroom,
+ which he told Marina she was not to enter. He told her that he intended to use the rifle for hunt-
+ ing and that he practiced with it. She saw him leave with it once, and clean it several times. He
+ also posed for two pictures, taken by Marina in the backyard of the Neely apartment, in which he
+ held his rifle and copies of the Worker and the Militant and the revolver was strapped to his belt.
+ He gave one of the pictures to his wife and asked her to keep it for <person
+  perid="June-Lee-Oswald">June</person>. Over the weekend of <date daid="March-9-10">March
+  9-10</date>, <person perid="Lee-Harvey-Oswald">Oswald</person> photographed the alley which runs
+ behind the home of Gen. Edwin Walker, and probably at about the same time he photographed the rear
+ of Walker&apos;s home and a nearby railroad track and right-of-way. He prepared and studied a
+ notebook in which he outlined a plan to shoot General Walker, and he looked at bus schedules. He
+ went to the Walker residence on the evening of <date daid="April-6">April 6</date> or 7, planning
+ to make his attack. However, he changed his plans, hid his rifle nearby, and determined to act on
+ the following Wednesday, <date daid="April-10">April 10</date>, when a nearby church was planning a
+ meeting which, <person perid="Lee-Harvey-Oswald">Oswald</person> reasoned, would create a diversion
+ that would help him escape. On Wednesday, <person perid="Lee-Harvey-Oswald">Oswald</person> left a
+ note for Marina telling her what to do if he were apprehended. He retrieved his rifle and fired at
+ Walker, but the bullet narrowly missed Walker&apos;s head. <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> secreted his rifle again and took the bus home. When <person
+  perid="Lee-Harvey-Oswald">Oswald</person> told Marina what he had done, she became angry and made
+ him promise never to repeat such an act. She testified that she kept his letter, intending to give
+ it to the authorities if he repeated his attempt. He told Marina that he was sorry he had missed
+ Walker and said that the shooting of Walker would have been analogous to an assassination of
+ Hitler. Several days later, the De Mohrenschildts visited <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person>, bringing an Easter present for <person
+  perid="June-Lee-Oswald">June</person>. During the visit, Jeanne De Mohrenschildt saw the rifle and
+ told her husband about it. Without any knowledge of the truth, De Mohrenschildt jokingly intimated
+ that <person perid="Lee-Harvey-Oswald">Oswald</person> was the one who had shot at Walker. <person
+  perid="Lee-Harvey-Oswald">Oswald</person> apparently concluded that Marina had told De
+ Mohrenschildt of his role in the attempt and was visibly shaken. On <date daid="April-6">April
+  6</date>, <person perid="Lee-Harvey-Oswald">Oswald</person> was dropped by Jaggars-Chiles-Stovall
+ because, in his supervisor&apos;s opinion, he could not do the work, although he was trying; in
+ addition, he did not get along with his fellow employees. The fact that he brought a Russian
+ newspaper to work may also have been of some significance. Marina testified that her husband, who
+ had always worried about his job security at Jaggars-Chiles-Stovall, was quite upset by the loss of
+ his job since he had liked the work. Oswald again resorted to the Texas Employment Commission. On
+  <date daid="April-8">April 8</date>, he informed the Commission that he was seeking employment but
+ was referred to no employers. He stated that he had been laid off at Jaggars-Chiles-Stovall due to
+ lack of work." On <date daid="April-12">April 12</date>, he made a claim for unemployment benefits;
+ 4 days later the commission mailed him a determination disapproving his claim because of
+ insufficient wage credits. For a while after <person perid="Marina-and-Lee-Harvey-Oswald">the
+  Oswalds</person> moved into the Neely Street apartment they got along well, but they soon began to
+ quarrel. Oswald was apparently still preventing Marina from learning English, and there is some
+ indication that he continued to beat her. Since February, he had been urging her to return to
+ Russia. Marina wrote several letters to the Russian Embassy requesting a visa to return to Russia.;
+ she testified, however, that <person perid="Lee-Harvey-Oswald">Oswald</person> forced her to write
+ them, and that she never wanted to return to Russia. When Ruth Paine visited <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> at their apartment on <date
+  daid="April-24">April 24</date>, she was surprised to learn that <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> was packed and ready to leave for New Orleans by bus. He explained that he had
+ been unable to find employment in or around Dallas, and that Marina had suggested that he go to New
+ Orleans since he had been born there. Marina has testified that the real reason behind her
+ suggestion was that she wanted to get him out of town because of the Walker incident. Mrs. Paine
+ offered to drive Marina to New Orleans at a later date, and also to have Marina and <person
+  perid="June-Lee-Oswald">June</person> stay with her rather than at the apartment in the meantime.
+  <person perid="Lee-Harvey-Oswald">Oswald</person> helped the women pack Mrs. Paine&apos;s car, and
+ the two women moved everything from the Neely Street apartment to the Paine house in Irving. When
+ he arrived at the bus station in New Orleans, <person perid="Lee-Harvey-Oswald">Oswald</person>
+ telephoned his aunt, Lillian Murret, to ask if he could stay at her home at <place
+  plaid="757-French-Street">757 French Street</place> while he looked for employment. She had been
+ unaware that he had returned from Russia or that he was married and had a child and was surprised
+ to hear from him. She said that she did not have room to accommodate three guests, but that since
+ he was alone he was welcome. Oswald had been born in New Orleans, and on his return showed great
+ interest in finding out what had happened to the other members of his father&apos;s family. He
+ visited the cemetery where his father was buried and called all <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> in the telephone book. By this method he
+ located one relative, <person perid="Hazel-Oswald">Mrs. Hazel Oswald</person> of Metairie, La., the
+ widow of <person perid="William Stout Oswald">William Stout Oswald</person>, his father&apos;s
+ brother. He visited her at her home; she gave him a picture of his father and told him that as far
+ as she knew the rest of the family was dead. On <date daid="April-26">April 26</date>, <person
+  perid="Lee-Harvey-Oswald">Oswald</person> began his search for employment. He went to the
+ employment office of the Louisiana Department of Labor and stated that he was qualified as a
+ commercial photographer, shipping clerk, or <qoute speaker="">darkroom man.</qoute> The interviewer
+ noted on <person perid="Lee-Harvey-Oswald">Oswald</person>&apos;s application card: <qoute
+  speaker="">Will travel on limited basis. Will relocate. Min. $1.25 hr. Neat. Suit. Tie.
+  Polite.</qoute> Although the employment commission made a few referrals, <person
+  perid="Lee-Harvey-Oswald">Oswald</person> relied primarily upon newspaper advertisements, and
+ applied for a number of positions. Mrs. Murret testified that he would spend the day job hunting,
+ return to her home for supper, watch television, and go to bed. On <date daid="April-29">April
+  29</date>, he filed a request for reconsideration of the employment commission&apos;s disapproval
+ of his unemployment compensation claim. His complaint that he had not been credited for his
+ employment at Jaggars-Chiles-Stovall was ruled valid on <date daid="May-8">May 8</date>, and he was
+ granted maximum benefits of $369, payable at the rate of $33 per week. He filed interstate claims
+ on <date daid="May-7">May 7</date> and 15, and received $33 in response to the latter; the former
+ claim was filed before the expiration of the prescribed wailing period. Not only had <person
+  perid="Lee-Harvey-Oswald">Oswald</person> in fact been working since <date daid="May-10">May
+  10</date>, but he included on his claim sheet, as concerns with which he had sought work,
+ fictitious employers and employers whom he apparently had not contacted. Oswald wrote to Marina:
+  <qoute speaker="">All is well. I am living with Aunt Lillian. She has very kindly taken us in. I
+  am now looking for work. When I find it I will write you.</qoute> And on <date daid="May-3">May
+  3</date>, he wrote to Marina and Ruth Paine: <qoute speaker="">Girls, I still have not found work,
+  but I receive money from the unemployment office in the amount 15 to 20 dollars. They were
+  mistaken in the Dallas office when they refused, but I straightened everything out. Uncle
+  &apos;Dyuz&apos; offered me a loan of $200.00 if needed. Great, eh?!</qoute> On <date daid="May-9"
+  >May 9</date>, responding to a newspaper advertisement, <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> completed an application for employment with William B. Reily Co., Inc., at
+  <place plaid="640-Magazine-Street">640 Magazine Street</place>, an enterprise engaged in the
+ roasting, grinding, canning, bagging, and sale of coffee. On his application form, <person
+  perid="Lee-Harvey-Oswald">Oswald</person> listed as references in addition to John Murret, <qoute
+  speaker=""><person perid="Sgt.-Robert-Hidell">Sgt. Robert Hidell</person></qoute> and <qoute
+  speaker=""><person perid="Lieut. J. Evans">Lieut. J. Evans</person>,</qoute> both apparently
+ fictitious names. His application was approved and he began work on <date daid="May-10">May
+  10</date>, at the rate of $1.50 per hour. His task was the lubrication of the company&apos;s
+ machinery. <person perid="Lee-Harvey-Oswald">Oswald</person> did not enjoy this work, and told his
+ wife and Mrs. Paine that he was working in commercial photography. Also on <date daid="May-9">May
+  9</date>, <person perid="Lee-Harvey-Oswald">Oswald</person> obtained an apartment at <place
+  plaid="4905-Magazine-Street">4905 Magazine Street</place> with the help of Myrtle Evans, who had
+ known him when he was a child. The rent was $65 a month. <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> moved in on <date daid="May-10">May 10</date>, after telephoning Marina on the
+ ninth and asking her to come to New Orleans. Ruth Paine testified that the invitation elated
+ Marina: <qoute speaker="">Papa nas lubet</qoute>--"Daddy loves us," she repeated again and again.
+ Mrs. Paine drove Marina and <person perid="June-Lee-Oswald">June</person> to New Orleans; they left
+ Dallas on <date daid="May-10">May 10</date>, spent the night in Shreveport, and arrived on the
+ 11th. Mrs. Paine stayed with <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> for
+ 8 days; the three of them, with <person perid="June-Lee-Oswald">June</person> and Mrs. Paine&apos;s
+ children, toured the French Quarter. On <date daid="May-14">May 14</date>, Mrs. Paine left New
+ Orleans to return to her home. The Murrets and <person perid="Marina-and-Lee-Harvey-Oswald">the
+  Oswalds</person> exchanged visits from time to time; Marina testified that the Murrets were very
+ good to them. Mrs. Murret&apos;s daughter, Marilyn, took <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> on an outing. But, according to
+ Marina&apos;s testimony, aside from Ruth Paine and Ruth Kloepfer and her daughters, the Murrets
+ were the only social visitors <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person>
+ had. Ruth Kloepfer was a clerk of the Quaker Meeting in New Orleans whom Ruth Paine had written in
+ the hope that she might know some Russian-speaking people who could visit Marina. Mrs. Kloepfer
+ herself visited <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person> but made no
+ attempt to direct any Russian-speaking people to them. On <date daid="July-19">July 19</date>,
+  <person perid="Lee-Harvey-Oswald">Oswald</person> was dismissed by Reily because of inefficiency
+ and inattention to his work. He had spent many of his working hours next door at the Crescent City
+ Garage, where he read gun magazines and discussed guns with one of the owners, Adrian Alba. On the
+ following Monday, <date daid="July-22">July 22</date>, <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> again visited the Louisiana employment office to seek new employment and file a
+ claim for unemployment compensation. Thereafter, he collected unemployment compensation weekly and,
+ although apparently making some effort to obtain another job, again listed a number of fictitious
+ job applications on his unemployment compensation claim forms. He soon gave up his search for
+ employment, and began to spend his days at home reading. He received another setback on <date
+  daid="July-25">July 25</date>, when he was notified that in response to the request for review
+ which he had made in 1962, his undesirable discharge from the Marine Corps had been affirmed.
+ During this period, <person perid="Lee-Harvey-Oswald">Oswald</person> began to evidence thoughts of
+ returning to the Soviet Union or going to Cuba. On <date daid="June-24">June 24</date> he applied
+ for a new passport, which he received on the following day. Apparently at <person
+  perid="Lee-Harvey-Oswald">Oswald</person>&apos;s request, Marina wrote to the Russian Embassy,
+ expressing a desire to return to Russia and indicating that she would be accompanied by her
+ husband. She explained that she wanted to return because of family problems, including the
+ impending birth of her second child. Accompanying her letter was a letter written by <person
+  perid="Lee-Harvey-Oswald">Oswald</person> dated <date daid="July-1">July 1</date>, in which he
+ asked the Embassy to rush an entrance visa for his wife and requested that his visa be considered
+ separately. Marina believed that <person perid="Lee-Harvey-Oswald">Oswald</person> was really
+ planning to go only to Cuba. She testified that <qoute speaker="">his basic desire was to get to
+  Cuba by any means, and that all the rest of it was window dressing for that purpose.</qoute>
+ During the early days of the New Orleans period, <person perid="Marina-and-Lee-Harvey-Oswald">the
+  Oswalds</person>&apos; marriage was more harmonious than it had been previously. Marina wrote: ...
+ our family life in New Orleans was more peaceful. <person perid="Lee-Harvey-Oswald">Lee</person>
+ took great satisfaction in showing me the city where he was born. We often went to the beach, the
+ zoo, and the park. <person perid="Lee-Harvey-Oswald">Lee</person> liked to go and hunt crabs. It is
+ true, that he was not very pleased with his job ... We did not have very much money, and the birth
+ of a new child involved new expenses ... As before, <person perid="Lee-Harvey-Oswald">Lee</person>
+ spent a great deal of time reading. Marina testified, however, that after they had been in New
+ Orleans for a while, <person perid="Lee-Harvey-Oswald">Oswald</person> became depressed and that
+ she once found him alone in the dark crying. She wrote to Ruth Paine that his <qoute speaker=""
+  >love</qoute> had ceased soon after Mrs. Paine had left New Orleans. Mrs. Paine testified,
+ however, that she had noticed friction between <person perid="Marina-and-Lee-Harvey-Oswald">the
+  Oswalds</person> before she left. On <date daid="July-11">July 11</date>, Mrs. Paine wrote Marina
+ that if <person perid="Lee-Harvey-Oswald">Oswald</person> did not wish to live with her any more
+ and preferred that she return to the Soviet Union, she could live at the Paines&apos; house.
+ Although Mrs. Paine had long entertained this idea, this was the first time she explicitly made the
+ invitation. She renewed the invitation on <date daid="July-12">July 12</date>, and again on <date
+  daid="July-14">July 14</date>; she attempted to overcome any feeling which Marina might have that
+ she would be a burden by stating that Marina could help with the housework and help her learn
+ Russian, and that she would also provide a tax advantage. Marina replied that she had previously
+ raised the subject of a separation and that it had led to arguments. She stated that she was happy
+ and that for a considerable period of time <person perid="Lee-Harvey-Oswald">Oswald</person> had
+ been good to her. She attributed this improved attitude to the fact that he was anticipating their
+ second child. Marina turned down Mrs. Paine&apos;s invitation but said that she would take
+ advantage of it if things became worse. Mrs. Paine replied that she was taking a trip north to
+ visit her parents and would visit Marina in New Orleans about <date daid="September-18">September
+  18</date>. She also suggested that Marina come to her house for the birth of the baby. On <date
+  daid="July-6">July 6</date>, Eugene Murret, a cousin of <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> who was studying to be a Jesuit Priest in Mobile, Ala., wrote and asked if
+  <person perid="Lee-Harvey-Oswald">Oswald</person> could come to Mobile and speak at the Jesuit
+ House of Studies about <qoute speaker="">contemporary Russia and the practice of Communism
+  there.</qoute>
+ <person perid="Lee-Harvey-Oswald">Oswald</person> accepted, and on <date daid="July-27">July
+  27</date> he and his family, joined by some of the Murrets, traveled to Mobile; Charles Murret
+ paid the expenses. <person perid="Lee-Harvey-Oswald">Oswald</person> spoke concerning his
+ observations in Russia and conducted a question and answer period; he impressed his listeners as
+ articulate. He indicated that he had become disillusioned during his stay in Russia, and that in
+ his opinion the best political system would be one which combined the best points of capitalism and
+ communism. While he left his listeners with the impression that he was an atheist, he avoided a
+ direct discussion of religion. The group returned to New Orleans on <date daid="July-28">July
+  28</date>. In late May and early June, <person perid="Lee-Harvey-Oswald">Oswald</person> had
+ apparently begun to formulate plans for creating a New Orleans branch of the Fair Play for Cuba
+ Committee. Using the name <qoute speaker="">Lee Osborne</qoute> he ordered a number of printed
+ circulars demanding <qoute speaker="">Hands off Cuba</qoute> in large letters, and application
+ forms and membership cards for the proposed chapter. On <date daid="August-5">August 5</date>, he
+ visited a store managed by Carlos Bringuier, a Cuban refugee and avid opponent of Castro and the
+ New Orleans delegate of the Cuban student directorate. <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> indicated an interest in joining the struggle against Castro. He told Bringuier
+ that he had been a marine and was trained in guerrilla warfare, and that he was willing not only to
+ train Cubans to fight Castro but also to join the fight himself. The next day <person
+  perid="Lee-Harvey-Oswald">Oswald</person> returned to the store and left his <qoute speaker=""
+  >Guidebook for Marines</qoute> for Bringuier. On <date daid="August-9">August 9</date>, Bringuier
+ saw <person perid="Lee-Harvey-Oswald">Oswald</person> passing out Fair Play for Cuba leaflets.
+ Bringuier and his companions became angry and a dispute resulted. <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> and the three Cuban exiles were arrested for disturbing the peace. <person
+  perid="Lee-Harvey-Oswald">Oswald</person> spent the night in jail and was interviewed the next day
+ by a lieutenant of the New Orleans Police Department. At <person perid="Lee-Harvey-Oswald"
+  >Oswald</person>&apos;s request, an FBI agent also interviewed him. <person
+  perid="Lee-Harvey-Oswald">Oswald</person> maintained that he was a member of the New Orleans
+ branch of the Fair Play for Cuba Committee which, he claimed, had 35 members. He stated also that
+ he had been in touch with the president of that organization, <person
+  perid="Lee-Harvey-Oswald-Alias">A. J. Hidell. Oswald</person> was in fact the only member of the
+  <qoute speaker="">New Orleans branch,</qoute> which had never been chartered by the National Fair
+ Play for Cuba Committee. Later that day <person perid="Lee-Harvey-Oswald">Oswald</person> was
+ released on bail, and 2 days later he pleaded guilty to the charges against him and paid a $10
+ fine. The charges against the Cuban exiles were dismissed. Marina testified that the arrest upset
+  <person perid="Lee-Harvey-Oswald">Lee</person> and that he <qoute speaker="">became less active,
+  he cooled off a little</qoute> after it. On <date daid="August-16">August 16</date>, Oswald,
+ assisted by at least one other person who was a hired helper, again passed out Fair Play for Cuba
+ literature, this time in front of the International Trade Mart. That night, television newscasts
+ ran pictures of <person perid="Lee-Harvey-Oswald">Oswald</person>&apos;s activities. (This hindered
+  <person perid="Lee-Harvey-Oswald">Oswald</person>&apos;s subsequent attempts to obtain employment
+ in New Orleans.) Bringuier sent one of his friends to <person perid="Lee-Harvey-Oswald"
+  >Oswald</person>&apos;s home to pose as a Castro sympathizer and attempt to obtain information
+ about Oswald, but <person perid="Lee-Harvey-Oswald">Oswald</person> apparently saw through the
+ ruse. William Stuckey, a radio broadcaster with a program called <qoute speaker="">Latin Listening
+  Post,</qoute> had long been looking for a member of the Fair Play for Cuba Committee to appear on
+ his program. He learned about <person perid="Lee-Harvey-Oswald">Oswald</person> from Bringuier, and
+ visited <person perid="Lee-Harvey-Oswald">Oswald</person> on <date daid="August-17">August
+  17</date>. Later that day, Stuckey recorded an interview with <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> which was cut to about 5 minutes and played back on the show that evening. Two
+ days later, Stuckey asked the news director of the station if he could run the entire tape, but the
+ director felt that a debate with a local opponent of Castro would be of greater public interest.
+ Consequently, Stuckey arranged for a debate between <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> and Bringuier on a 25-minute daily public affairs program called <qoute
+  speaker="">Conversation Carte Blanche,</qoute> which took place on <date daid="August-21">August
+  21</date>. <person perid="Lee-Harvey-Oswald">Oswald</person> defended the Castro regime and
+ discussed Marxism. He was put on the defensive when his defection to Russia was brought up, and
+ Stuckey later testified that he thought that the program had finished the Fair Play for Cuba
+ Committee in New Orleans. However, Stuckey also testified that <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> seemed to be a clean-cut and intelligent person who conducted himself very well
+ during the interviews and debates. Oswald wrote several times to <person perid="V.T.-Lee">V. T.
+  Lee</person>, then national director of the Fair Play for Cuba Committee, telling him, sometimes
+ in exaggerated terms, of his activities. He wrote also to the Communist Party and asked whether, in
+ view of his prior defection, he should <qoute speaker="">continue to fight, handicapped as it were,
+  by ... [his] past record, [and] compete with anti-progressive forces, above-ground or ... should
+  always remain in the background, i.e., underground.</qoute> The Party replied that <qoute
+  speaker="">often it is advisable for some people to remain in the background, not
+  underground.</qoute> And although <person perid="Lee-Harvey-Oswald">Oswald</person> wrote four
+ letters to <person perid="V.T.-Lee">V. T. Lee</person> during the summer, there is no evidence that
+  <person perid="Lee-Harvey-Oswald">Oswald</person> heard from him after <date daid="May-29">May
+  29</date>. Ruth Paine arrived in New Orleans on <date daid="September-20">September 20</date>, and
+ spent three nights with <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person>. During
+ this stay, Mrs. Paine found relations between them much improved. Nonetheless, it was decided that
+ Marina would go back with her to Irving for the birth of the baby. Marina and Mrs. Paine toured
+ Bourbon Street while <person perid="Lee-Harvey-Oswald">Oswald</person> stayed home and did some
+ packing for Marina&apos;s return to Texas. On Sunday, <date daid="September-22">September
+ 22</date>, <person perid="Lee-Harvey-Oswald">Oswald</person> and Mrs. Paine finished loading the
+ station wagon with <person perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person>&apos;
+ household belongings. Return to Top <place plaid="Mexico-City">MEXICO CITY</place>
+ <person perid="Marina-Oswald">Marina Oswald</person> testified that sometime in August her husband
+ first told her of his plan to go to Mexico and from there to Cuba, where he planned to stay; he had
+ given up a plan to hijack an airplane and fly directly to Cuba, which plan Marina consistently
+ opposed. On <date daid="September-17">September 17</date>, he obtained from the Mexican consulate
+ general in New Orleans a <qoute speaker="">Tourist Card,</qoute> FM-8 No. 24085, good for one
+ journey into Mexico for no longer than 15 days. Typed in the blank, <qoute speaker="">Appelidos y
+  nombre</qoute> was <qoute speaker="">Lee, Harvey Oswald,</qoute>
+ <qoute speaker="">Fotogrofo</qoute>; the intended destination was shown as Mexico City. (The comma
+ between <qoute speaker="">Lee</qoute> and <qoute speaker="">Harvey</qoute> seems to have been an
+ error.)1101 On the application <person perid="Lee-Harvey-Oswald">Oswald</person> stated that he was
+ employed at <qoute speaker="Lee-Harvey-Oswald">640 Rampart</qoute>; he was in fact unemployed. (See
+ Commission Exhibits Nos. 2478, 2481, p. 300.) Marina and <person perid="June-Lee-Oswald"
+  >June</person> departed with Mrs. Ruth Paine for Irving on the morning of <date
+  daid="September-23">September 23</date>. Before she left, <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> told Marina that she should not tell anyone about his impending trip to Mexico.
+ Marina kept this secret until after the assassination. On the previous day, <person
+  perid="Lee-Harvey-Oswald">Oswald</person>&apos;s landlord had seen Mrs. Paine&apos;s car being
+ packed and had asked <person perid="Lee-Harvey-Oswald">Oswald</person> whose rent was about 15 days
+ overdue, whether he was leaving. <person perid="Lee-Harvey-Oswald">Oswald</person> told him that
+ Marina was leaving temporarily but that he would remain. A neighbor testified that on the evening
+ of <date daid="September-24">September 24</date>, he saw Oswald, carrying two pieces of luggage,
+ hurriedly leave the Magazine Street apartment and board a bus. Though uncertain of the exact date,
+ a city busdriver recalls that at the same time of day and at the same location he picked up a man
+ who was carrying two suitcases of different sizes and helped him place them so that they would not
+ disturb the other passengers. The driver remembers that the man asked directions to the Greyhound
+ bus station. He discharged the passenger at an intersection where he could board a Canal Street car
+ and transfer to another bus which would go past the Greyhound and Continental Trailways stations.
+ The landlord found <person perid="Lee-Harvey-Oswald">Oswald</person>&apos;s apartment vacant on
+  <date daid="September-25">September 25</date>. Oswald appears to have taken with him a
+ Spanish-English dictionary; his address book; his <date daid="1963">1963 passport</date> and old
+ passport; his correspondence with the Communist Party and with the Soviet Embassy in Washington,
+ some of which was in Russian; proof of his marriage; newspaper clippings concerning his arrest and
+ his interest in the activities of the Fair Play for Cuba Committee (activities which, Marina
+ testified, he had undertaken because he thought that they would help him when he got to Cuba);
+ evidence that he was the <qoute speaker="">Director</qoute> of the New Orleans chapter of the
+ Committee; and various other cards, such as a work card, which he had obtained in Russia. He took
+ also several sheets of notepaper on which he had written a summary of important events in his life
+ which he presumably intended to call to the attention of Cuban and Soviet officials in Mexico City
+ to convince them to let him enter Cuba. On these sheets he had recorded facts about his Marine
+ service, including the dates of his enlistment and discharge, the places where he had served, and
+ the diplomas that he had received from military school. Recorded also were notes on his stay in the
+ Soviet Union, his early interest in Communist literature, his ability to speak Russian, his
+ organization of the New Orleans chapter of the Fair Play for Cuba Committee, his contact with
+ police authorities in connection with his work for the Committee, and his experience in <qoute
+  speaker="">street agitation,</qoute> as a <qoute speaker="">radio speaker and lecturer,</qoute>
+ and as a photographer. The two pieces of luggage which <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> took with him were a small, blue, zipper bag and a large, olive-colored bag, both
+ made of cloth. He carried the smaller bag with him throughout the trip, but, at least from Nuevo
+ Laredo to Mexico City, checked the larger one through to his destination. Oswald remained in New
+ Orleans until <date daid="September-25">September 25</date>. His precise whereabouts on the night
+ of <date daid="September-24">September 24</date> are uncertain, but in view of his limited
+ finances, he probably returned to the apartment to sleep after checking his luggage at a bus
+ station or spent the night at an inexpensive hotel or roominghouse. Some time after 5 a. m. on
+  <date daid="September-25">September 25</date>, he collected a Texas unemployment compensation
+ check for $33 at his New Orleans post office box. He cashed the check between 8 a.m. and noon at a
+ store about six blocks from his apartment on Magazine Street. This gave him about $200 for the trip
+ to Mexico. He left New Orleans by bus, probably on Continental Trailways Bus No. 5121, departing
+ New Orleans at 12:20 p.m. on <date daid="September-25">September 25</date>, and scheduled to arrive
+ in Houston at 10:50 p.m.; that bus is the only one on which <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> could have left New Orleans after noon on <date daid="September-25">September
+  25</date> and arrived in Houston before midnight. Sometime in the evening he called the home of
+ Horace Elroy Twiford, a member of the Socialist Labor Party who had received <person
+  perid="Lee-Harvey-Oswald">Oswald</person>&apos;s name from the party&apos;s headquarters in New
+ York and sent him a copy of its official publication, the <qoute speaker="">Weekly People.</qoute>
+ Mrs. Twiford, who answered the telephone, believes that the call was made locally, before 10 p.m.
+ It may have been made from Beaumont or some other stop on the route; however, in view of the bus
+ schedule, it probably was made in Houston later than Mrs. Twiford remembered. <person
+  perid="Lee-Harvey-Oswald">Oswald</person> told Mrs. Twiford that he was a member of the Fair Play
+ for Cuba Committee and that he hoped to see her husband for a few hours that evening before he flew
+ to Mexico. He wanted also to find out how Twiford had obtained his name and address. Mrs. Twiford
+ told <person perid="Lee-Harvey-Oswald">Oswald</person> that her husband, a merchant seaman, was at
+ sea but would be happy to see him at some other time; she offered to take a message. Oswald said
+ that he could not await her husband&apos;s return because he was flying to Mexico. The Twifords
+ have stated that they had no other contact with <person perid="Lee-Harvey-Oswald">Oswald</person>.
+ An employee of the U.S. Selective Service System has stated that an individual calling himself
+  <qoute speaker="">Harvey Oswald</qoute> appeared at her office in Austin, Tex., immediately after
+ lunch on <date daid="September-25">September 25</date>, and discussed with her the possibility of
+ rectifying his undesirable discharge from the Marine Corps. Despite the employee&apos;s
+ reputability and apparent sincerity, all of the information which she furnished with respect to
+  <person perid="Lee-Harvey-Oswald">Oswald</person>&apos;s appearance and conversation could have
+ been derived from news media, consciously or unconsciously, by the time she told the FBI her story.
+ Other persons in Austin who, according to the employee&apos;s testimony, should also have observed
+  <person perid="Lee-Harvey-Oswald">Oswald</person> failed to corroborate her testimony. No other
+ evidence tending to show that <person perid="Lee-Harvey-Oswald">Oswald</person> was in Austin at
+ this time has been discovered. The telephone call which <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> made to the Twifords on the evening of <date daid="September-25">September
+  25</date>, indicates that he was either in Houston or on his way there when he made it, since the
+ purpose of the call was to make an appointment to see Twiford in Houston that evening. <person
+  perid="Lee-Harvey-Oswald">Oswald</person> could not have left New Orleans on <date
+  daid="September-25">September 25</date>, been in Austin 521 miles away by early afternoon, and
+ returned 162 miles to Houston by night unless he traveled by air; airline records contain no
+ indication that <person perid="Lee-Harvey-Oswald">Oswald</person> was on such flights. It is very
+ unlikely that he had with him enough money beyond what he needed for the trip to Mexico City to
+ take such flights, and the poor state of his finances at this time plus his well-established
+ frugality make it extremely unlikely that he would have considered it worthwhile to do so even if
+ he could. There is no evidence that <person perid="Lee-Harvey-Oswald">Oswald</person> was in such a
+ hurry to reach Mexico that he would have felt it necessary to travel by airplane rather than a less
+ expensive means of travel. He took a bus from Houston to Mexico City, lived very inexpensively
+ there, and took a bus back to Dallas; there is no apparent reason why he would have interrupted
+ such an inexpensive trip to fly to Austin and then to Houston. He told a passenger whom he met on
+ the next leg of his trip that he had come from New Orleans, and made no reference to Austin. On
+  <date daid="September-26">September 26</date>, <person perid="Lee-Harvey-Oswald">Oswald</person>
+ boarded Continental Trailways bus No. 5133 in Houston and departed at 2:35 a.m. for Laredo, Tex.,
+ via Corpus Christi and Alice. Two British tourists, Dr. and Mrs. John B. McFarland, who boarded No.
+ 5133 in Houston, noticed <person perid="Lee-Harvey-Oswald">Oswald</person> when they awoke at about
+ 6 a.m. <person perid="Lee-Harvey-Oswald">Oswald</person> told them that he was going to Cuba via
+ Mexico City, and they inferred from conversation with him that he had left New Orleans early in the
+ afternoon of <date daid="September-25">September 25</date> and that he was going to Cuba via Mexico
+ City. He said also that he was secretary of the New Orleans branch of the Fair Play for Cuba
+ Committee and that he hoped to see Fidel Castro in Cuba. The bus was scheduled to arrive in Laredo
+ at approximately 1:20 p.m. Oswald crossed the border from Laredo to Nuevo Laredo, Mexico, between
+ 1:30 and 2 p.m. From Nuevo Laredo, he traveled to Mexico City aboard bus No. 516 of the Flecha Roja
+ Bus Line, which departed at 2:15 p.m. and was scheduled to arrive in Mexico City at 9:45 a.m. on
+ the following day; he held baggage claim check No. 320435. He was seen on the bus by the McFarlands
+ and by two Australian girls who boarded the bus on the evening of <date daid="September-26"
+  >September 26</date> at Monterrey. He occupied the seat next to an elderly Englishman, who told
+ the girls that the young man sitting next to him apparently had been to Mexico before. The man next
+ to <person perid="Lee-Harvey-Oswald">Oswald</person> was probably Albert Osborne, a native of the
+ British Isles who has worked as an itinerant preacher in the Southern United States and Mexico for
+ many years. Osborne denied that he sat beside Oswald; but in view of his inconsistent and untrue
+ responses to Federal investigators concerning matters not directly related to Oswald, the
+ Commission believes that his denial cannot be credited. It appeared to the other passengers on the
+ bus that Osborne and <person perid="Lee-Harvey-Oswald">Oswald</person> had not previously met;
+ extensive investigation has revealed no other contact between them. In the course of the 20-hour
+ bus trip, <person perid="Lee-Harvey-Oswald">Oswald</person> initiated two conversations with the
+ Australian girls, during which he mentioned his visit to Russia and recommended the Hotel Cuba in
+ Mexico City as a clean and cheap" hotel; he told them, apparently falsely, that he had stayed there
+ on previous occasions. He said that when he had seen them board the bus with their heavy suitcases,
+ he had been under the impression that they were Mexican and had therefore asked the man next to him
+ how to say <qoute speaker="">How can I help you?</qoute> in Spanish. From this they inferred that
+  <person perid="Lee-Harvey-Oswald">Oswald</person> did not speak Spanish, an impression which is
+ shared by every witness who met <person perid="Lee-Harvey-Oswald">Oswald</person> on his trip and
+ is supported by notations which he made on documents that he carried. He got off the bus at every
+ stop and ate large meals, always eating by himself; the girls thought he ate so much because he
+ could not make himself understood in Spanish and had to order by pointing at the menu. The bus
+ arrived in Mexico City 15 minutes late, at 10 a.m. <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> left the bus station by himself and had no known further contact with any of the
+ people with whom he had spoken on the bus. Oswald registered at the Hotel del Comercio within an
+ hour of his arrival in Mexico City. He stayed there throughout his visit. The hotel, located not
+ far from the commercial heart of the city and within four blocks of the bus station, is one of a
+ group of hotels located near the intercity bus terminals and has perhaps the best appearance of the
+ group. It is known by personnel in other hotels that the owner of the Hotel del Comercio can
+ understand and speak a little English. <person perid="Lee-Harvey-Oswald">Oswald</person> registered
+ as <qoute speaker="">Lee, Harvey Oswald,</qoute> and gave his occupation as <qoute speaker=""
+  >photo.</qoute> He had room 18 which cost $1.28 per day. After he had registered, <person
+  perid="Lee-Harvey-Oswald">Oswald</person> turned promptly to the task of obtaining permission to
+ enter Cuba. Mexican officials would not permit a U.S. citizen without a Cuban visa to board a plane
+ for Cuba even if he had an American passport, but would permit passage if he had a visa even though
+ the passport proscribed travel to Cuba. <person perid="Lee-Harvey-Oswald">Oswald</person> had a
+  <date daid="1963">1963</date> American passport (stamped invalid for travel to Cuba)1154 but had
+ neither a regular Cuban visa nor an intransit visa which would permit a short stay in Cuba on his
+ way to Russia or some other country. His address book contained the telephone number and address of
+ a Cuban airline, but there is evidence that he never visited its office. He visited the Cuban
+ Embassy on Friday, <date daid="September-27">September 27</date> and spoke with Senora Silvia
+ Tirado de Duran, a Mexican citizen employed there. Senora Duran later made a signed statement to
+ the Mexican police that Oswald: ... applied for a visa to Cuba in transit to Russia and based his
+ application on his presentation of his passport in which it was recorded that, he had been living
+ in the latter country for a period of three years, his work permit from that same country written
+ in the Russian language and letters in the same language, as well as proof of his being married to
+ a woman of Russian nationality and being the apparent Director in the city of New Orleans of the
+ organization called <qoute speaker="">Fair Play for Cuba</qoute> with the desire that he should be
+ accepted as a <qoute speaker="">friend</qoute> of the Cuban Revolution ... He apparently also
+ stated that he was a member of the Communist Party and displayed documents which he claimed to be
+ evidence of his membership. He said that he intended to go to Cuba on <date daid="September-30"
+  >September 30</date> and to remain there for 2 weeks, or longer if possible, and then go on to
+ Russia. Senora Duran took down the relevant date and filled out the appropriate application.
+  <person perid="Lee-Harvey-Oswald">Oswald</person> left the Embassy but was to return in the
+ afternoon. Then, or possibly even before his initial visit to the Cuban Embassy <person
+  perid="Lee-Harvey-Oswald">Oswald</person> went to the Soviet Embassy where he spoke with either
+ Pavel Antonovich Yatskov or Valeriy Vladimirovich Kostikov. They are both consular officials
+ serving also as agents of the KGB. <person perid="Lee-Harvey-Oswald">Oswald</person> later said
+ that he had dealt with <qoute speaker="">Kostin,</qoute> undoubtedly a reference to Kostikov. He
+ was unable to obtain a Soviet visa then. Marina said that the officials at the Soviet Embassy
+  <qoute speaker="">refused to have anything to do with him.</qoute> Oswald returned to the Cuban
+ Embassy later that afternoon, this time bringing with him passport photographs which he may have
+ obtained in the United States. Senora Duran telephoned the Soviet Embassy to inquire about the
+ status of <person perid="Lee-Harvey-Oswald">Oswald</person>&apos;s Russian visa and was told that
+ there would be a delay of about 4 months. <person perid="Lee-Harvey-Oswald">Oswald</person> became
+  <qoute speaker="">highly agitated and angry,</qoute> particularly when he learned that he could
+ not obtain an intransit visa to Cuba before he acquired a Russian visa. Senora Duran called the
+ Cuban consul, then Eusibio Azque, to speak to him. The discussion between <person
+  perid="Lee-Harvey-Oswald">Oswald</person> and Azque developed into a heated argument, which ended
+ when Azque told <person perid="Lee-Harvey-Oswald">Oswald</person> that in his opinion people like
+  <person perid="Lee-Harvey-Oswald">Oswald</person> were harming the Cuban Revolution and that so
+ far as Azque was concerned, he would not give <person perid="Lee-Harvey-Oswald">Oswald</person> a
+ visa. Senora Duran wrote her name and the phone number of the Embassy on a piece of paper which she
+ gave to <person perid="Lee-Harvey-Oswald">Oswald</person> in case he wished to contact her again.
+ He copied this information into his address book. Senora Duran forwarded the Cuban visa application
+ to Havana ;1168 the Cuban Ministry of Foreign Affairs replied on <date daid="October-15">October
+  15</date> that the visa could be issued only after <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> had obtained a Russian visa. (See Commission Exhibit, No. 2564, p. 303.) Oswald
+ contacted the Russian and Cuba Embassies again during his stay in Mexico. He had no greater success
+ than he had before. Marina testified that when he returned to Texas, he was convinced that his trip
+ had been a failure and disappointed at having been unable to go to Cuba. A month later, in a
+ painstakingly composed letter to the Soviet Embassy in Washington, <person
+  perid="Lee-Harvey-Oswald">Oswald</person> ascribed his failure to <qoute speaker="">a gross breach
+  of regulations</qoute> on the part of the Cuban Embassy. <qoute speaker="">Of corse,</qoute> he
+ wrote, <qoute speaker="">the Soviet Embassy was not at fault, they were, as I say
+  unprepared.</qoute> The hotel maid said that <person perid="Lee-Harvey-Oswald">Oswald</person>
+ generally was gone by the time she arrived at 9 a.m. The night watchman said he usually returned at
+ about midnight, which is not unusual, in view of the late hour at which Mexico City&apos;s evening
+ activities begin. He ate several lunches at a small restaurant immediately adjacent to the hotel,
+ coming to the restaurant shortly after 2 p.m., and ordering food by pointing to the menu,
+ apparently with some consideration of cost; he spent between 40 and 48 cents for each meal. He ate
+ the soup of the day, rice, and either meat or eggs, but refused dessert and coffee; the waitress
+ concluded that <person perid="Lee-Harvey-Oswald">Oswald</person> did not realize that the items
+ which he refused were included in the price of the lunch. He was seen with no other person either
+ at his hotel or at the restaurant. A hotel guest stated that on one occasion he sat down at a table
+ with <person perid="Lee-Harvey-Oswald">Oswald</person> because there was no empty table in the
+ restaurant, but that neither spoke to the other because of the language barrier. Although the
+ Soviet and Cuban Embassies are within two blocks of each other, they are some distance from <person
+  perid="Lee-Harvey-Oswald">Oswald</person>&apos;s hotel. He must, therefore, have traversed a
+ substantial portion of the city on more than one occasion. Marina testified that he told her that
+ he had seen a bullfight, which would normally have been on Sunday afternoon, and that he had
+ visited museums and done some sightseeing. He apparently also saw one or more motion pictures,
+ either American with Spanish subtitles or Mexican with English subtitles. From notations in his
+ Spanish-English dictionary and on his guide map of Mexico City, it appears that <person
+  perid="Lee-Harvey-Oswald">Oswald</person> intended to attend a jai alai game but he almost
+ certainly did not do so. He purchased several postcards depicting bullfights and tourist
+ attractions, which he brought back to Marina. She had told him be- fore he left that she would like
+ Mexican silver bracelets as a souvenir, and he brought her a silver bracelet inscribed with her
+ name. Marina suspected, almost certainly correctly, that the bracelet, of Japanese origin, did not
+ come from Mexico. No such jewelry is known to be sold in or around Mexico City, because of a high
+ duty but the bracelet is of a type commonly sold in 5-and-10-cent stores in Dallas. <person
+  perid="Lee-Harvey-Oswald">Oswald</person> did not buy the Mexican phonograph records which Marina
+ had requested, despite the notation, <qoute speaker="">records,</qoute> which he had placed in his
+ dictionary. On Monday, <date daid="September-30">September 30</date>, <person
+  perid="Lee-Harvey-Oswald">Oswald</person> began to prepare for his return to the United States. He
+ appeared at the Agencia de Viages, Transportes Chihuahuenses, and purchased international exchange
+ orders costing $20.30 for travel on a Transportes del Norte bus from Mexico City to Laredo and by
+ Greyhound bus directly from Laredo to Dallas. The travel agency made a reservation for him on
+ Transportes del Notre bus No. 332, departing Mexico City at 8:30 a.m. on <date daid="October-2"
+  >October 2</date>. The seat, No. 12, was reserved in the name of the travel agency, which recorded
+ the reservation in the name of <qoute speaker="">H. O. Lee.</qoute> The employee who made the
+ reservation testified that he probably wrote the name that way because he was copying from <person
+  perid="Lee-Harvey-Oswald">Oswald</person>&apos;s tourist card, which read <qoute speaker=""
+   ><person perid="Lee-Harvey-Oswald">Lee, Harvey Oswald</person>.</qoute> (The manifest for
+ Transportes Frontera bus No. 340, leaving Mexico City for Monterrey and Nuevo Laredo at 1 p.m. on
+ Wednesday, <date daid="October-2">October 2</date>, 1963, contains the name <qoute speaker=""
+  >Oswld</qoute> [sic], which apparently was added to the manifest after the trip; in any event,
+  <person perid="Lee-Harvey-Oswald">Oswald</person> did not take bus 340.) On <date daid="October-1"
+  >October 1</date>, <person perid="Lee-Harvey-Oswald">Oswald</person> paid his hotel bill through
+ that night. The hotel night watchman remembers helping <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> obtain a taxicab at about 6:30 or 7 on the following morning. Transportes del
+ Norte bus No. 332 left as scheduled at about 8:30 a.m.; at Monterrey the passengers were shifted to
+ a relief bus, No. 373, scheduled to depart for Laredo at 10 p.m. that evening. Fellow passengers
+ recall that <person perid="Lee-Harvey-Oswald">Oswald</person> was pulled off the bus by Mexican
+ officials at the border, because of some alleged irregularity in his Mexican tourist papers; one
+ passenger overheard him mumbling complaints about the Mexican immigration officials when he
+ returned to the bus. They remember also that <person perid="Lee-Harvey-Oswald">Oswald</person> was
+ hurriedly <qoute speaker="">gulping</qoute> down a banana after the bus reached customs, perhaps
+ because he believed that he could not take fruit into the United States. (Marina has testified that
+ her husband liked bananas and frequently ate them.)1201 One of the passengers testified that
+  <person perid="Lee-Harvey-Oswald">Oswald</person> annoyed him by keeping his overhead light on to
+ read after 10 p.m. He may have conversed with an elderly woman on the bus, but he was not traveling
+ with her. At about 1:35 a.m. on <date daid="October-3">October 3</date>, <person
+  perid="Lee-Harvey-Oswald">Oswald</person> crossed the International Bridge from Nuevo Laredo into
+ Texas. He traveled from Laredo to Dallas via San Antonio, on Greyhound bus No. 1265, substantially
+ following Interstate Route 35 for the entire trip leaving Laredo at 3 a.m. and arriving in Dallas
+ at about 2:20 p.m. on the same day. <place plaid="Dallas">DALLAS</place> Oswald did not contact his
+ wife immediately when he returned to Dallas. He went to the office of the employment commission,
+ where he filed an unemployment compensation claim and announced that he was again looking for work.
+ He spent the night at the YMCA, where he registered as a serviceman in order to avoid paying the
+ membership fee. On the following day, he applied for a job as a typesetter trainee at the Padgett
+ Printing Co. He made a favorable impression on the department foreman, but the plant superintendent
+ called Jaggars-Chiles-Stovall and decided not to hire <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> because of the unfavorable responses which his inquiries produced. Later that
+ day, <person perid="Lee-Harvey-Oswald">Oswald</person> telephoned Marina and asked her to have Mrs.
+ Paine pick him up in Dallas. Marina refused, and he hitchhiked out to the Paine home, where he
+ spent part or all of the weekend. Marina testified that although her husband <qoute speaker=""
+  >changed for the better</qoute> and treated her better after his Mexican trip, she did not want to
+ live with him because she was pregnant and thought it would be better <qoute speaker="">to be with
+  a woman who spoke English and Russian.</qoute> On Monday, <date daid="October-7">October 7</date>,
+ Mrs. Paine drove <person perid="Lee-Harvey-Oswald">Oswald</person> to the bus station, and he
+ returned to Dallas to look for a job and a place to live. Oswald thought that the YMCA was too
+ expensive for him, and intended to rent a room. He inquired about a room at <place
+  plaid="1026-North-Beckley">1026 North Beckley</place>, where he lived later, but on <date
+  daid="October-7">October 7</date> there were no vacancies. He next responded to a <qoute
+  speaker="">For Rent</qoute> sign at a rooming house at <place plaid="621-Marsalis-Street">621
+  Marsalis Street</place>. He obtained a room, for which he paid the weekly rent of $7 in advance,
+ and moved in on the same day. He immediately resumed his job-hunting, relying partially on
+ referrals by the employment commission. He spent much of the time when he was not looking for work
+ in his room. He telephoned his wife daily. She wrote: <qoute speaker="">Lee called twice a day, was
+  worried about my health and about <person perid="June-Lee-Oswald">June</person>.</qoute> On
+ Friday, <person perid="Lee-Harvey-Oswald">Oswald</person> told his landlady, Mrs. Mary Bledsoe,
+ that he was going to Irving for the weekend but would return the following week. She refused to
+ rent the room to him for another week because she didn&apos;t like him. Oswald spent the weekend of
+  <date daid="October-12-13">October 12-13</date> at Mrs. Paine&apos;s home, during which time she
+ gave him a driving lesson. He told her that he had received the last of the unemployment checks due
+ him, and that it had been smaller than the previous ones. Mrs. Paine testified that <person
+  perid="Lee-Harvey-Oswald">Oswald</person> was extremely discouraged because his wife was expecting
+ a baby, he had no job prospects in sight, and he no longer had any source of income. On Monday,
+ Mrs. Paine drove <person perid="Lee-Harvey-Oswald">Oswald</person> into Dallas, since she had other
+ business there. He picked up his bag from Mrs. Bledsoe&apos;s roominghouse and later that day
+ rented a room at <place plaid="1026-North-Beckley-Avenue">1026 North Beckley Avenue</place> from
+ Mrs. A. C. Johnson for $8 a week. He registered as <person perid="Lee-Harvey-Oswald-Alias">O. H.
+  Lee</person> and moved in immediately. <person perid="Lee-Harvey-Oswald">Oswald</person> felt that
+ this room was more comfortable than the previous one, particularly because he had television and
+ refrigerator privileges. He apparently continued to spend most of his evenings in his room. He
+ borrowed books from the library and had subscriptions to various periodicals, including Time, the
+ Worker, the Militant, and some Russian periodicals. On that Monday, Mrs. Paine mentioned <person
+  perid="Marina-and-Lee-Harvey-Oswald">the Oswalds</person>&apos; financial and employment problems
+ to neighbors whom she was visiting. Mrs. Linnie Mac Randle, who was also present, remarked that she
+ thought that her younger brother, Buell Wesley Frazier, who worked at the Texas School Book
+ Depository, had said that there was a job opening there. When Marina heard of this, she asked Mrs.
+ Paine to call the Depository to see if there was an opening. Mrs. Paine called Roy S. Truly,
+ superintendent of the Depository, who indicated that he would talk to <person
+  perid="Lee-Harvey-Oswald">Oswald</person> if he would apply in person. When <person
+  perid="Lee-Harvey-Oswald">Oswald</person> telephoned the Paine house on Monday evening, Mrs. Paine
+ told him about this possibility. On the next day, <person perid="Lee-Harvey-Oswald">Oswald</person>
+ was interviewed by Truly and hired in a temporary capacity. He began work on Wednesday, <date
+  daid="October-16">October 16</date>. His duties were to fill book orders; his hours were 8 a.m. to
+ 4:45 p.m., for which he received $1.25 an hour. Both <person perid="Marina-and-Lee-Harvey-Oswald"
+  >the Oswalds</person> were elated with the new job, although it apparently required little skill
+ or experience and he indicated that he still hoped to obtain a better job. He did a satisfactory
+ job at the Depository, but he kept to himself and very few of his fellow employees got to know him.
+ During his first week at work, <person perid="Lee-Harvey-Oswald">Oswald</person> became acquainted
+ with Frazier, with whom he arranged to ride to Irving on weekends. On Friday, <date
+  daid="October-18">October 18</date>, Frazier drove him from work to the Paine home; since it was
+ his birthday, Marina and Ruth Paine had arranged a small celebration. On Sunday, he stayed with
+  <person perid="June-Lee-Oswald">June</person> and the Paine children, while Mrs. Paine drove
+ Marina to Parkland Hospital where she gave birth to a second daughter, Rachel. He went to work on
+ Monday, but that evening visited Marina in the hospital and spent the night in Irving. Marina
+ wrote: Monday evening <person perid="Lee-Harvey-Oswald">Lee</person> visited me in the hospital. He
+ was very happy at the birth of another daughter and even wept a little. He said that two daughters
+ were better for each other--two sisters. He stayed with me about two hours. Oswald returned to
+ Dallas the next morning. Oswald wrote to Arnold Johnson of the <person
+  perid="Communist-Party-U.S.A.">Communist Party, U.S.A.</person>, that on the evening of <date
+  daid="October-23">October 23</date>, he had attended an <qoute speaker="">ultra right</qoute>
+ meeting headed by Gen. Edwin A. Walker. Two evenings later, he accompanied Michael Paine to a
+ meeting of the American Civil Liberties Union, held at Southern Methodist University. At this
+ meeting, a statement was made to the effect that members of the John Birch Society should not be
+ considered anti-Semitic; <person perid="Lee-Harvey-Oswald">Oswald</person> rose and stated that at
+ the meeting which he had attended 2 days earlier, he had heard a number of anti-Semitic and
+ anti-Catholic statements. Later in the evening, <person perid="Lee-Harvey-Oswald">Oswald</person>
+ became involved in a discussion with several people, including Frank Krystinik, who was employed
+ with Paine at the Bell Helicopter plant. During this conversation, <person
+  perid="Lee-Harvey-Oswald">Oswald</person> expressed Marxist views and declared that he was a
+ Marxist, although denying that he was a Communist. He admitted that the United States was superior
+ to the Soviet Union in the area of civil liberties and praised President Kennedy for his work in
+ that connection. Krystinik testified that he got the impression that <person
+  perid="Lee-Harvey-Oswald">Oswald</person> did not fully understand the views he was expounding.
+ Throughout that week <person perid="Lee-Harvey-Oswald">Oswald</person> telephoned his wife to
+ inquire about her health and that of the baby. He spent the weekend at the Paine home, to which
+ Marina and Rachel had returned during the week. On Friday, <date daid="November-1">November
+  1</date>, he obtained post office box No. 6225 at the <place
+  plaid="Terminal-Annex-Post-Office-Station">Terminal Annex Post Office Station</place>. He
+ indicated that the box would also be used to receive mail for the Fair Play for Cuba Committee and
+ the American Civil Liberties Union. Once again he spent the weekend in Irving. Throughout this
+ period, the FBI had been aware of the whereabouts of <person perid="Marina-and-Lee-Harvey-Oswald"
+  >the Oswalds</person>. There was a record in the Dallas office of the FBI that <person
+  perid="Lee-Harvey-Oswald">Oswald</person> subscribed to the Worker, engaged in Fair Play for Cuba
+ Committee activities and had traveled to Mexico. An FBI agent visited the Paine home on November
+ and, accompanied by another agent, again on <date daid="November-5">November 5</date>, and spoke
+ briefly with Mrs. Paine. On neither occasion was <person perid="Lee-Harvey-Oswald">Oswald</person>
+ present. Ruth Paine noted the agent&apos;s name and telephone number and, in accordance with her
+ husband&apos;s instructions, Marina noted the license number of the agent&apos;s automobile, all of
+ which was subsequently reported to <person perid="Lee-Harvey-Oswald">Oswald</person>. Both Mrs.
+ Paine and Marina testified that <person perid="Lee-Harvey-Oswald">Oswald</person> was troubled by
+ the FBI&apos;s interest in him. He declared that the FBI was <qoute speaker="">trying to
+  inhibit</qoute> his activities, and wrote the Soviet Embassy in Washington: The Federal Bureu of
+ Investigation is not now interested in my activities in the progressive organization <qoute
+  speaker="">Fair Play for Cuba Committee</qoute> of which I was secretary in New Orleans (state
+ Louisiana) since I no longer reside in that state. However, the F.B.I. has visted us here in
+ Dallas, Texas, on <date daid="November-1">November 1</date>st. Agent James P. Hasty warned me that
+ if I engaged in F.P.C.C. activities in Texas the F.B.I. will again take an <qoute speaker=""
+  >interest</qoute> in me. This agent also &apos;suggested&apos; to Marina Nichilayeva that she
+ could remain in the United States under F.B.I. &apos;protection&apos;, that is, she could defect
+ from the Soviet Union, of couse, I and my wife strongly protested these tactics by the notorious
+ F.B.I. Please inform us of the arrival of our Soviet entrance visa&apos;s as soon as they come.
+ (See Commission Exhibit 15, p. 311.) Marina testified that the statements, both by and to the FBI
+ agents, to which her husband referred in this letter, were in fact never made. The following
+ Friday, <date daid="November-8">November 8</date>, <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> as usual drove to the Paine house with Frazier. On Saturday Mrs. Paine took him
+ to the Texas Drivers&apos; License Examining Station, but because it was an election day the
+ station was closed. <person perid="Lee-Harvey-Oswald">Oswald</person> stayed at the Paines through
+ Monday, <date daid="November-11">November 11</date>, which was Veterans Day. During the weekend,
+ Mrs. Paine gave <person perid="Lee-Harvey-Oswald">Oswald</person> a second driving lesson. Oswald
+ did not go to Irving on the next weekend. His wife had asked him not to come because Michael Paine,
+ with whom <person perid="Lee-Harvey-Oswald">Oswald</person> did not get along, would be there to
+ celebrate his daughter&apos;s birthday. Also, she felt that because he had stayed for 3 days the
+ preceding weekend, he would abuse Mrs. Paine&apos;s hospitality if he returned so soon. <person
+  perid="Lee-Harvey-Oswald">Oswald</person> telephoned Marina on Saturday afternoon and said that he
+ had returned to the drivers&apos; license examining station that morning but had not waited because
+ there was a long line. On Sunday, <date daid="November-17">November 17</date>, at Marina&apos;s
+ request, Ruth Paine telephoned <person perid="Lee-Harvey-Oswald">Oswald</person> at the Beckley
+ Avenue number, which he had given to Marina. When she asked for him, she was told that no one by
+ that name lived at the address, which greatly surprised her. On the next day, <person
+  perid="Lee-Harvey-Oswald">Oswald</person> telephoned his wife. When she indicated that she had
+ been upset by the fact that there had been no <person perid="Lee-Harvey-Oswald">Lee Oswald</person>
+ at the number which she had asked Mrs. Paine to call <person perid="Lee-Harvey-Oswald"
+  >Oswald</person> became angry; he said that he was using a fictitious name and that she should not
+ have called the Beckley Avenue number. He did not telephone on the following day, which was
+ unusual. On the morning of Thursday, <date daid="November-21">November 21</date>, <person
+  perid="Lee-Harvey-Oswald">Oswald</person> asked Frazier to take him to Irving when he went home
+ that evening, saying that he wanted to pick up some curtain rods. His arrival was a surprise
+ because he generally asked Mrs. Paine&apos;s permission before arriving for a visit. The women
+ thought that he had come to Irving because he felt badly about arguing with his wife about the use
+ of the fictitious name. He said that he was lonely, because he had not come the preceding weekend,
+ and told Marina that he <qoute speaker="">wanted to make his peace</qoute> with her. He spent the
+ time before dinner on the lawn playing with his daughter. However, when he attempted to talk to his
+ wife she would not answer, which upset him. He asked her to live with him in Dallas, and she
+ refused. After supper, <person perid="Lee-Harvey-Oswald">Oswald</person> watched television while
+ the women cleaned the house and prepared their children for bed. He retired early in the evening at
+ about 9. </root>

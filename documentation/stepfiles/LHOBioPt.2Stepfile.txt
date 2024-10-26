@@ -1,0 +1,138 @@
+Copied from Warren Report Archive Appendix 13 Page 714 to Page 740
+
+Delete Bottom Disclaimer
+
+Find/Replace Settings
+Scope: All
+Case Sensitive
+Wrap Around
+Regular Expression
+
+Find
+1.& 
+2.>
+3.<
+4.'
+Replace
+1.&amp; 
+2.&gt; 
+3.&lt;
+4.&apos;
+
+Find
+Page .+
+Delete
+
+Find
+\n[\n]+
+Replace
+\n
+
+Settings Dot matches all, on
+Find
+"(.+?)"
+Manually add missing end qoute.
+Replace
+<qoute speaker="">\1</qoute>
+Manually remove "" around: "Just Fine"
+
+Settings Dot matches all, off
+Find
+([\n., ])[1]*\d\d\d([ \n])
+Go through results and manually add <place plaid=""></place> and <date daid=""></date> elements.
+ex:<place plaid="1501-West-Seventh-Street">1501 West Seventh Street</place>
+   <place plaid"box-2915-in-Dallas>"2915 in Dallas</place>
+   <date daid="10/1962">October/1962</date>
+   <qoute speaker="Lee-Harvey-Oswald">640 Rampart</qoute>
+   <date daid="1963">1963 passport</date>
+   add _ before any numbers that can't be put in any of those catagories, and are not formating.
+FindAll
+Replace
+\1\2
+
+Find
+_
+Delete
+
+Find
+ [ ]+
+Replace
+ 
+
+Find
+1.Robert Oswald
+2.Robert
+Replace
+<person perid="Robert-Oswald">\0</person>
+
+Manually change tags around Sgt. Robert Hidell
+Manually add tags to Lieut. J. Evans
+
+Find
+Lee
+Manually add tags to the names not refering to Lee harvey Oswald adding a _ to denote that you don't want it changed
+-Ex:June _Lee
+Also add tags that cover his whole name
+-Ex:<person perid="Lee-Harvey-Oswald">_Lee, Harvey _Oswald</person>
+Replace
+<person perid="Lee-Harvey-Oswald">\0</person>
+Find
+([Tt]he) Oswalds
+Replace
+<person perid="Marina-and-Lee-Harvey-Oswald">\1 _Oswalds</person>
+
+Find
+(Mrs\.) Oswald
+Replace
+<person perid="Marguerite-Oswald">\1 _Oswald</person>
+
+Find
+([/n ])(Oswald)([\n '\.\),-])
+Manually add elements to include entire name for Aliases and tags for his Relatives. adding _Oswald
+ex:<person perid="Lee-Harvey-Oswald-Alias">A. J. Hidell, _Oswald</person>
+Findall
+Replace
+\1<person perid="Lee-Harvey-Oswald">\2</person>\3
+
+Find
+\n([A-Z]+[ A-Z]*)\n
+Replace
+\n<place plaid="\1">\1</place>\n
+Manually make Atribute propercase and replace space with hyphon
+
+Find
+Communist Party, U.S.A.
+Replace
+<person perid="Communist-Party-U.S.A.">\0</person>
+
+Find
+1.(January) ([\d]+[-\d]*)
+2.(Febuary) ([\d]+[-\d]*)
+3.(March) ([\d]+[-\d]*)
+4.(April) ([\d]+[-\d]*)
+5.(May) ([\d]+[-\d]*)
+6.(June) ([\d]+[-\d]*)
+7.(July) ([\d]+[-\d]*)
+8.(August) ([\d]+[-\d]*)
+9.(September) ([\d]+[-\d]*)
+10.(October) ([\d]+[-\d]*)
+11.(November) ([\d]+[-\d]*)
+Manually add 11 to 17 
+12.(December) ([\d]+[-\d]*)
+Replace
+<date datid="\1-\2">\0</date>
+
+Find
+1. (June)
+Manually add tags when referenced or full name
+Add _ if refering to month
+Replace
+ <person perid="June-Lee-Oswald">_\1</person>
+
+Find
+_
+Delete
+
+Manually add <root></root> element
+Convert to XML
+Fix Errors
