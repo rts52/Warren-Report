@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cuban_missile_crisis>
+    <overview>
+        <date>October 1962</date>
+        <duration>13 days</duration>
+        <event>American U-2 spy plane discovers Soviet nuclear missile sites in Cuba</event>
+        <key_leaders>
+            <leader>John F. Kennedy</leader>
+            <leader>Nikita Khrushchev</leader>
+        </key_leaders>
+        <risk>Possibility of nuclear war</risk>
+        <outcome>Peaceful resolution</outcome>
+    </overview>
+    
+    <kennedy_response>
+        <action>Secret meetings with advisors</action>
+        <decision>Place naval blockade (quarantine) around Cuba</decision>
+        <objective>Prevent Soviet military supplies from reaching Cuba</objective>
+        <demand>Removal of Soviet missiles from Cuba and destruction of missile sites</demand>
+    </kennedy_response>
+    
+    <kennedy_address>
+        <date>October 22, 1962</date>
+        <medium>Televised address</medium>
+        <content>
+            <message>Announced naval blockade and demands for missile removal</message>
+            <tone>Firm, but aimed at avoiding escalation</tone>
+        </content>
+        <link>JFKWHA-142-001</link>
+    </kennedy_address>
+    
+    <soviet_response>
+        <leader>Nikita Khrushchev</leader>
+        <action>Negotiation for a peaceful resolution</action>
+        <agreement>
+            <soviets>Remove missiles from Cuba</soviets>
+            <us>Promise not to invade Cuba</us>
+            <secret_deal>Remove US missiles from Turkey (kept secret for 25 years)</secret_deal>
+        </agreement>
+        <consequence>Escalation of the Soviet military arsenal, but no nuclear war</consequence>
+    </soviet_response>
+    
+    <resolution>
+        <date>October 1962</date>
+        <outcome>End of the Cuban Missile Crisis</outcome>
+        <key_elements>
+            <element>Soviet missile removal from Cuba</element>
+            <element>US pledge not to invade Cuba</element>
+            <element>Secret removal of US missiles from Turkey</element>
+        </key_elements>
+        <arms_race>Continued escalation despite resolution</arms_race>
+    </resolution>
+    
+    <aftermath>
+        <year>1963</year>
+        <actions>
+            <action>Commencement address at American University</action>
+            <message>Urged reexamination of Cold War myths and stereotypes, and called for a strategy of peace</message>
+        </actions>
+        <teletype_hotline>
+            <year>1963</year>
+            <description>Establishment of a direct communication link ("Hotline") between the Kremlin and the White House</description>
+        </teletype_hotline>
+        <nuclear_test_ban>
+            <date>July 25, 1963</date>
+            <treaty>Limited Nuclear Test Ban Treaty signed</treaty>
+            <goal>Reduce nuclear arms testing</goal>
+        </nuclear_test_ban>
+    </aftermath>
+    
+    <kennedy_message>
+        <quote>“For, in the final analysis, our most basic common link is that we all inhabit this small planet. We all breathe the same air. We all cherish our children's future. And we are all mortal.”</quote>
+        <date>June 1963</date>
+    </kennedy_message>
+</cuban_missile_crisis>
