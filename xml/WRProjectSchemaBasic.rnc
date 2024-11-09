@@ -1,16 +1,37 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
-start=root
-root=element root{(text|person|place|event|date|qoute)*}
+start=wrstart
+wrstart=element wrstart{(text|person|place|event|date|quote|page|starter|sections|header)*}
 
-person=element person{perid,text}
+header=element header{text}
+person=element person{(text|perid)*}
 place=element place{plaid,text}
-event=element event{eveid,text}
+event=element event{eveid*,(description|text)*}
 date=element date{daid,text}
-qoute=element qoute{speaker,(text|person|place|event|date)*}
+quote=element quote{speaker*,(text|person|place|event|date|spokesperson|content)*}
+page=element page{(text|number|characters|discussion|exhibits|texts)*}
+sections=element sections{section+}
+starter=element starter{(texts|quote)*}
+characters=element characters{character+}
+discussion=element discussion{(texts|quotes|section|summary|characters|quote|exhibits|handbill|events)*}
+exhibits=element exhibits{exhibit+}
+events=element events{event*}
 
+quotes=element quotes{quote+}
 perid=attribute perid{text}
 plaid=attribute plaid{text}
 eveid=attribute eveid{text}
 daid=attribute daid{text}
 speaker=attribute speaker{text}
+number=attribute number{text}
+section=element section{(text|title|texts)*}
+texts=element texts{text,handbill*}
+character=element character{text}
+title=attribute title{text}
+summary=element summary{content}
+content=element content{text}
+exhibit=element exhibit{(commissionExhibit|description)*}
+commissionExhibit=element commissionExhibit{text}
+description=element description{text}
+spokesperson=element spokesperson{text}
+handbill=element handbill{content}

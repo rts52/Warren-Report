@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kennedy_assassination>
-    <campaign_travel>
+<wrstart>
+    <topic subject="campaign_travel">
         <date>November 21, 1963</date>
         <locations>
             <location>Texas</location>
@@ -16,9 +16,9 @@
                 <description>Campaign stops for military preparedness and economic growth, with a breakfast at the Fort Worth Chamber of Commerce</description>
             </event>
         </events>
-    </campaign_travel>
+    </topic>
     
-    <morning_in_fort_worth>
+    <topic subject="morning_in_fort_worth">
         <date>November 22, 1963</date>
         <location>Texas Hotel, Fort Worth</location>
         <weather>Light rain</weather>
@@ -28,9 +28,9 @@
         <breakfast>
             <description>President speaks to the Fort Worth Chamber of Commerce about military preparedness</description>
         </breakfast>
-    </morning_in_fort_worth>
+    </topic>
     
-    <on_to_dallas>
+    <topic subject="on_to_dallas">
         <date>November 22, 1963</date>
         <location>Dallas, Texas</location>
         <event>
@@ -39,9 +39,9 @@
         <details>
             <description>The motorcade is in an open convertible, with the plastic top removed due to the clear weather.</description>
         </details>
-    </on_to_dallas>
+    </topic>
     
-    <assassination>
+    <topic subject="assassination">
         <date>November 22, 1963</date>
         <time>12:30 p.m.</time>
         <location>Dealey Plaza, Dallas, Texas</location>
@@ -53,9 +53,9 @@
                 <result>President Kennedy is pronounced dead at 1:00 p.m. A priest administers the last rites.</result>
             </hospital>
         </incident>
-    </assassination>
+    </topic>
     
-    <transition_of_power>
+    <topic subject="transition_of_power">
         <date>November 22, 1963</date>
         <time>2:38 p.m.</time>
         <location>Love Field, Dallas</location>
@@ -63,25 +63,25 @@
             <description>Vice President Lyndon B. Johnson is sworn in as President aboard Air Force One</description>
             <officiator>US District Court Judge Sarah Hughes</officiator>
         </event>
-    </transition_of_power>
+    </topic>
     
-    <lee_harvey_oswald>
+    <topic subject="lee_harvey_oswald">
         <date>November 22, 1963</date>
         <location>Dallas, Texas</location>
         <incident>
             <description>Lee Harvey Oswald is arrested for the assassination of President Kennedy and the murder of Patrolman J.D. Tippit.</description>
         </incident>
-    </lee_harvey_oswald>
+    </topic>
     
-    <jack_ruby>
+    <topic subject="jack_ruby">
         <date>November 24, 1963</date>
         <event>
             <description>Jack Ruby, a nightclub owner, shoots and kills Lee Harvey Oswald while he is being transferred to the county jail.</description>
             <consequence>Oswald dies two hours later at Parkland Hospital.</consequence>
         </event>
-    </jack_ruby>
+    </topic>
     
-    <president_kennedy_funeral>
+    <topic subject="president_kennedy_funeral">
         <date>November 25, 1963</date>
         <location>Arlington National Cemetery</location>
         <event>
@@ -90,9 +90,8 @@
         <final_grave_site>
             <description>President Kennedy is buried at Arlington National Cemetery, with an eternal flame lit by his widow Jacqueline Kennedy and his brothers Robert and Edward.</description>
         </final_grave_site>
-    </president_kennedy_funeral>
-    
-    <warren_commission>
+    </topic>
+    <topic subject="warren_commission">
         <date>November 29, 1963</date>
         <event>
             <description>President Lyndon B. Johnson appoints the Warren Commission to investigate the assassination of President Kennedy.</description>
@@ -101,9 +100,9 @@
         <findings>
             <summary>The Warren Commission concludes that Lee Harvey Oswald acted alone in the assassination.</summary>
         </findings>
-    </warren_commission>
+    </topic>
     
-    <house_select_committee_on_assassinations>
+    <topic subject="house_select_committee_on_assassinations">
         <date>1976</date>
         <event>
             <description>The US House of Representatives establishes the House Select Committee on Assassinations to re-investigate the Kennedy assassination.</description>
@@ -111,13 +110,13 @@
         <findings>
             <summary>The Committee finds a "high probability" of two gunmen firing at President Kennedy, though this conclusion is later challenged.</summary>
         </findings>
-    </house_select_committee_on_assassinations>
+    </topic>
     
-    <assassination_records_collection>
+    <topic subject="assassination_records_collection">
         <date>1992</date>
         <legislation>
             <description>The President John F. Kennedy Assassination Records Collection Act mandates the declassification and release of assassination-related documents.</description>
             <location>National Archives and Records Administration</location>
         </legislation>
-    </assassination_records_collection>
-</kennedy_assassination>
+    </topic>
+</wrstart>

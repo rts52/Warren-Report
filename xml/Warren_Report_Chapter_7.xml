@@ -1,249 +1,248 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="WRProjectSchemaBasic.rnc" type="application/relax-ng-compact-syntax"?>
-<root>
-<Chapter n="7">
-    <Title>Lee Harvey Oswald: Background and Possible Motives</Title>
-    <Sections>
-        <Section>Introduction</Section>
-        <Section>The Early Years</Section>
-        <Section>New York City</Section>
-        <Section>Return to New Orleans and Joining the Marine Corps</Section>
-        <Section>Interest in Marxism</Section>
-        <Section>Defection to the Soviet Union</Section>
-        <Section>Return to United States</Section>
-        <Section>Personal Relations</Section>
-        <Section>Employment</Section>
-        <Section>Attack on General Walker</Section>
-        <Section>Political Activities</Section>
-        <Section>Interest in Cuba</Section>
-        <Section>Possible Influence of Anti-Kennedy Sentiment in Dallas</Section>
-        <Section>Relationship with Wife</Section>
-        <Section>The Unanswered Questions</Section>
-        <Section>Conclusion</Section>
-    </Sections>
-    <Discussion>
-        <Text>
+<wrstart>
+    <header>Lee Harvey Oswald: Background and Possible Motives</header>
+    <sections>
+    <section>Introduction</section>
+    <section>The Early Years</section>
+    <section>New York City</section>
+    <section>Return to New Orleans and Joining the Marine Corps</section>
+    <section>Interest in Marxism</section>
+    <section>Defection to the Soviet Union</section>
+    <section>Return to United States</section>
+    <section>Personal Relations</section>
+    <section>Employment</section>
+    <section>Attack on General Walker</section>
+    <section>Political Activities</section>
+    <section>Interest in Cuba</section>
+    <section>Possible Influence of Anti-Kennedy Sentiment in Dallas</section>
+    <section>Relationship with Wife</section>
+    <section>The Unanswered Questions</section>
+    <section>Conclusion</section>
+    </sections>
+    <starter>
+    <texts>
             THE EVIDENCE reviewed above identifies Lee Harvey Oswald as the assassin of President Kennedy and indicates that he acted alone in that event. There is no evidence that he had accomplices or that he was involved in any conspiracy directed to the assassination of the President. There remains the question of what impelled Oswald to conceive and to carry out the assassination of the President of the United States. The Commission has considered many possible motives for the assassination, including those which might flow from Oswald's commitment to Marxism or communism, the existence of some personal grievance, a desire to effect changes in the structure of society or simply to go down in history as a well publicized assassin. None of these possibilities satisfactorily explains Oswald's act if it is judged by the standards of reasonable men. The motives of any man, however, must be analyzed in terms of the character and state of mind of the particular individual involved. For a motive that appears incomprehensible to other men may be the moving force of a man whose view of the world has been twisted, possibly by factors of which those around him were only dimly aware. Oswald's complete state of mind and character are now outside of the power of man to know. He cannot, of course, be questioned or observed by those charged with the responsibility for this report or by experts on their behalf. There is, however, a large amount of material available in his writings and in the history of his life which does give some insight into his character and, possibly, into the motives for his act.
-        </Text>
-        <Quote>
-            <Speaker>Commission</Speaker>
-            <Content>Since Oswald is dead, the Commission is not able to reach any definite conclusions as to whether or not he was "sane" under prevailing legal standards. Under our system of justice no forum could properly make that determination unless Oswald were before it. It certainly could not be made by this Commission which, as has been pointed out above, ascertained the facts surrounding the assassination but did not draw conclusions concerning Oswald's legal guilt.</Content>
-        </Quote>
-        <Quote>
-            <Speaker>Commission</Speaker>
-            <Content>Indications of Oswald's motivation may be obtained from a study of the events, relationships and influences which appear to have been.</Content>
-        </Quote>
-    </Discussion>
+    </texts>
+    <quote>
+            <spokesperson>Commission</spokesperson>
+            <content>Since Oswald is dead, the Commission is not able to reach any definite conclusions as to whether or not he was "sane" under prevailing legal standards. Under our system of justice no forum could properly make that determination unless Oswald were before it. It certainly could not be made by this Commission which, as has been pointed out above, ascertained the facts surrounding the assassination but did not draw conclusions concerning Oswald's legal guilt.</content>
+    </quote>
+    <quote>
+            <spokesperson>Commission</spokesperson>
+            <content>Indications of Oswald's motivation may be obtained from a study of the events, relationships and influences which appear to have been.</content>
+    </quote>
+    </starter>
     
-    <Page number="376">
-        <Characters>
-            <Character>Lee Oswald</Character>
-            <Character>Marina Oswald</Character>
-        </Characters>
+    <page number="376">
+    <characters>
+            <character>Lee Oswald</character>
+            <character>Marina Oswald</character>
+    </characters>
         
-        <Discussion>
-            <Text>
+    <discussion>
+            <texts>
                 significant in shaping his character and in guiding him. Perhaps the most outstanding conclusion of such a study is that Oswald was profoundly alienated from the world in which he lived. His life was characterized by isolation, frustration, and failure. He had very few, if any, close relationships with other people and he appeared to have great difficulty in finding a meaningful place in the world. He was never satisfied with anything. When he was in the United States he resented the capitalist system which he thought was exploiting him and others like him. He seemed to prefer the Soviet Union and he spoke highly of Cuba. When he was in the Soviet Union, he apparently resented the Communist Party members, who were accorded special privileges and who he thought were betraying communism, and he spoke well of the United States. He accused his wife of preferring others to himself and told her to return to the Soviet Union without him but without a divorce. At the same time he professed his love for her and said that he could not get along without her. Marina Oswald thought that he would not be happy anywhere, "Only on the moon, perhaps."
-            </Text>
-            <Quote>
-                <Speaker>Marina Oswald</Speaker>
-                <Content>Only on the moon, perhaps.</Content>
-            </Quote>
-            <Text>
+            </texts>
+            <quote>
+                <spokesperson>Marina Oswald</spokesperson>
+                <content>Only on the moon, perhaps.</content>
+            </quote>
+            <texts>
                 While Oswald appeared to most of those who knew him as a meek and harmless person, he sometimes imagined himself as "the Commander" and, apparently seriously, as a political prophet--a man who said that after 20 years he would be prime minister. His wife testified that he compared himself with great readers of history. Such ideas of grandeur were apparently accompanied by notions of oppression. He had a great hostility toward his environment, whatever it happened to be, which he expressed in striking and sometimes violent acts long before the assassination. There was some quality about him that led him to act with an apparent disregard for possible consequences. He defected to the Soviet Union, shot at General Walker, tried to go to Cuba and even contemplated hijacking an airplane to get there. He assassinated the President, shot Officer Tippit, resisted arrest and tried to kill another policeman in the process.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 Oswald apparently started reading about communism when he was about 15. In the Marines, he evidenced a strong conviction as to the correctness of Marxist doctrine, which one associate described as "irrevocable," but also as "theoretical"; that associate did not think that Oswald was a Communist. Oswald did not always distinguish between Marxism and communism. He stated several times that he was a Communist but apparently never joined any Communist Party.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 His attachment to Marxist and Communist doctrine was probably, in some measure, an expression of his hostility to his environment. While there is doubt about how fully Oswald understood the doctrine which he so often espoused, it seems clear that his commitment to Marxism was an important factor influencing his conduct during his adult years. It was an obvious element in his decision to go to Russia and later to Cuba and it probably influenced his decision to shoot at General Walker. It was a factor which contributed to his character.
-            </Text>
-        </Discussion>
-    </Page>
+            </texts>
+    </discussion>
+    </page>
     
-    <Page number="377">
-        <Characters>
-            <Character>Lee Harvey Oswald</Character>
-            <Character>Marguerite Oswald</Character>
-            <Character>Robert</Character>
-            <Character>John Pic</Character>
-            <Character>Edwin A. Ekdahl</Character>
-        </Characters>
+    <page number="377">
+    <characters>
+            <character>Lee Harvey Oswald</character>
+            <character>Marguerite Oswald</character>
+            <character>Robert</character>
+            <character>John Pic</character>
+            <character>Edwin A. Ekdahl</character>
+    </characters>
         
-        <Discussion>
-            <Text>
+    <discussion>
+            <texts>
                 and thereby might have influenced his decision to assassinate President Kennedy.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 The discussion below will describe the events known to the Commission which most clearly reveals the formation and nature of Oswald's character. It will attempt to summarize the events of his early life, his experience in New York City and in the Marine Corps, and his interest in Marxism. It will examine his defection to the Soviet Union in 1959, his subsequent return to the United States and his life here after June of 1962. The review of the latter period will evaluate his personal and employment relations, his attempt to kill General Walker, his political activities, and his unsuccessful attempt to go to Cuba in late September of 1963. Various possible motives will be treated in the appropriate context of the discussion outlined above.
-            </Text>
-            <Section title="The Early Years">
-                <Text>
+            </texts>
+            <section title="The Early Years">
+                <texts>
                     Significant in shaping the character of Lee Harvey Oswald was the death of his father, a collector of insurance premiums. This occurred 2 months before Lee was born in New Orleans on October 18, 1939. That death strained the financial fortunes of the remainder of the Oswald family. It had its effect on Lee's mother, Marguerite, his brother Robert, who had been born in 1934, and his half-brother John Pic, who had been born in 1932 during Marguerite's previous marriage. It forced Marguerite Oswald to go to work to provide for her family. Reminding her sons that they were orphans and that the family's financial condition was poor, she placed John Pic and Robert Oswald in an orphans' home. From the time Marguerite Oswald returned to work until December 26, 1942, when Lee too was sent to the orphans' home, he was cared for principally by his mother's sister, by babysitters and by his mother, when she had time for him.
-                </Text>
-                <Text>
+                </texts>
+                <texts>
                     Marguerite Oswald withdrew Lee from the orphans' home and took him with her to Dallas when he was a little over 4 years old. About 6 months later she also withdrew John Pic and Robert Oswald. Apparently that action was taken in anticipation of her marriage to Edwin A. Ekdahl, which took place in May of 1945. In the fall of that year John Pic and Robert Oswald went to a military academy where they stayed, except for vacations, until the spring of 1948. Lee Oswald remained with his mother and Ekdahl, to whom he became quite attached. John Pic testified that he thought Lee found in Ekdahl the father that he never had. That situation, however, was short-lived, for the relations between Marguerite Oswald and Ekdahl were stormy and they were finally divorced, after several separations and reunions, in the summer of 1948.
-                </Text>
-                <Text>
+                </texts>
+                <texts>
                     After the divorce Mrs. Oswald complained considerably about how unfairly she was treated, dwelling on the fact that she was a widow with three children. John Pic, however, did not think her position was worse than that of many other people. In the fall of 1948 she told John Pic and Robert Oswald that she could not afford to send them back to the military school and she asked Pic to quit school.
-                </Text>
-            </Section>
-        </Discussion>
-    </Page>
+                </texts>
+            </section>
+    </discussion>
+    </page>
     
-    <Page number="378">
-        <Characters>
-            <Character>Lee Oswald</Character>
-            <Character>Marguerite Oswald</Character>
-            <Character>Pic</Character>
-            <Character>Robert</Character>
-            <Character>John Pic</Character>
-            <Character>Mrs. Lillian Murret</Character>
-        </Characters>
+    <page number="378">
+    <characters>
+            <character>Lee Oswald</character>
+            <character>Marguerite Oswald</character>
+            <character>Pic</character>
+            <character>Robert</character>
+            <character>John Pic</character>
+            <character>Mrs. Lillian Murret</character>
+    </characters>
  
-        <Discussion>
-            <Text>
+    <discussion>
+            <texts>
                 entirely to help support the family, which he did for 4 months in the fall of 1948. In order to supplement their income further she falsely swore that Pic was 17 years old so that he could join the Marine Corps Reserves. Pic did turn over part of his income to his mother, but he returned to high school in January of 1949, where he stayed until 3 days before he was scheduled to graduate, when he left school in order to get into the Coast Guard. Since his mother did not approve of his decision to continue school he accepted the responsibility for that decision himself and signed his mother's name to all his own excuses and report cards.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 Pic thought that his mother overstated her financial problems and was unduly concerned about money. Referring to the period after the divorce from Ekdahl, which was apparently caused in part by Marguerite's desire to get more money from him, Pic said: "Lee was brought up in this atmosphere of constant money problems, and I am sure it had quite an effect on him, and also Robert." Marguerite Oswald worked in miscellaneous jobs after her divorce from Ekdahl. When she worked for a time as an insurance saleslady, she would sometimes take Lee with her, apparently leaving him alone in the car while she transacted her business. When she worked during the school year, Lee had to leave an empty house in the morning, return to it for lunch and then again at night, his mother having trained him to do that rather than to play with other children.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 An indication of the nature of Lee's character at this time was provided in the spring of 1950, when he was sent to New Orleans to visit the family of his mother's sister, Mrs. Lillian Murret, for 2 or 3 weeks. Despite their urgings, he refused to play with the other children his own age. It also appears that Lee tried to tag along with his older brothers but apparently was not able to spend as much time with them as he would have liked, because of the age gaps of 5 and 7 years, which became more significant as the children grew older.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 Whatever problems may have been created by Lee's home life in Louisiana and Texas, he apparently adjusted well enough there to have had an average, although gradually deteriorating, school record with no behavior or truancy problems. That was not the case, however, after he and his mother moved to New York in August of 1952, shortly before Lee's 13th birthday. They moved shortly after Robert joined the Marines; they lived for a time with John Pic who was stationed there with the Coast Guard. Relations soon became strained, however, so in late September Lee and his mother moved to their own apartment in the Bronx. Pic and his wife would have been happy to have kept Lee, however, who was becoming quite a disciplinary problem for his mother, having struck her on at least one occasion.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 The short-lived stay with the Pics was terminated after an incident in which Lee allegedly pulled out a pocket knife during an argument.
-            </Text>
-        </Discussion>
-    </Page>
+            </texts>
+    </discussion>
+    </page>
     
-    <Page number="379">
-        <Characters>
-            <Character>Lee Oswald</Character>
-            <Character>Marguerite Oswald</Character>
-            <Character>John Carro</Character>
-            <Character>Dr. Renatus Hartogs</Character>
-            <Character>Mrs. Evelyn D Siegel</Character>
-            <Character>Mrs. Pic</Character>
-        </Characters>
+    <page number="379">
+    <characters>
+            <character>Lee Oswald</character>
+            <character>Marguerite Oswald</character>
+            <character>John Carro</character>
+            <character>Dr. Renatus Hartogs</character>
+            <character>Mrs. Evelyn D Siegel</character>
+            <character>Mrs. Pic</character>
+    </characters>
         
-        <Discussion>
-            <Text>
+    <discussion>
+            <texts>
                 and threatened to use it on Mrs. Pic. When Pic returned home, Mrs. Oswald tried to play down the event but Mrs. Pic took a different view and asked the Oswalds to leave. Lee refused to discuss the matter with Pic, whom he had previously idolized, and their relations were strained thereafter.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 On September 30, 1952, Lee enrolled in P.S. 117, a junior high school in the Bronx, where the other children apparently teased him because of his "western" clothes and Texas accent. He began to stay away from school, preferring to read magazines and watch television at home by himself. This continued despite the efforts of the school authorities and, to a lesser extent, of his mother to have him return to school. Truancy charges were brought against him alleging that he was "beyond the control of his mother insofar as school attendance is concerned." Oswald was remanded for psychiatric observation to Youth House, an institution in which children are kept for psychiatric observation or for detention pending court appearance or commitment to a child-caring or custodial institution such as a training school.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 He was in Youth House from April 16 to May 7, 1953, during which time he was examined by its Chief Psychiatrist, Dr. Renatus Hartogs, and interviewed and observed by other members of the Youth House staff.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 Marguerite Oswald visited her son at Youth House, where she recalled that she waited in line "with Puerto Ricans and Negroes and everything." She said that her pocketbook was searched "because the children in this home were such criminals, dope fiends, and had been in criminal offenses, that anybody entering this home had to be searched in case the parents were bringing cigarettes or narcotics or anything." She recalled that Lee cried and said, "Mother, I want to get out of here. There are children in here who have killed people, and smoke. I want to get out." Marguerite Oswald said that she had not realized until then in what kind of place her son had been confined.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 On the other hand, Lee told his probation officer, John Carro, that "while he liked Youth House he miss[ed] the freedom of doing what he wanted. He indicated that he did not miss his mother." Mrs. Evelyn D Siegel, a social worker who interviewed both Lee and his mother while Lee was confined in Youth House, reported that Lee "confided that the worse thing about Youth House was the fact that he had to be with other boys all the time, was disturbed about disrobing in front of them, taking showers with them etc."
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 Contrary to reports that appeared after the assassination, the psychiatric examination did not indicate that Lee Oswald was a potential assassin, potentially dangerous, that "his outlook on life had strongly paranoid overtones" or that he should be institutionalized. Dr. Hartogs did find Oswald to be a tense, withdrawn, and evasive boy who intensely disliked talking about himself and his feelings. He noted that Lee liked to give the impression that he did not care for other people but preferred to keep to himself, so that he was not bothered and did not have to make the effort of communicating.
-            </Text>
-        </Discussion>
-    </Page>
+            </texts>
+    </discussion>
+    </page>
     
     <page number="380">
-    <Discussion>
-        <Characters>
-            <Character>Lee Oswald</Character>
-            <Character>Dr. Hartogs</Character>
-            <Character>Mrs. Siegel</Character>
-        </Characters>
-        <Quotes>
-            <Quote>
-                <Speaker>Lee Oswald</Speaker>
-                <Content>I don't want a friend and I don't like to talk to people.</Content>
-            </Quote>
-            <Quote>
-                <Speaker>Lee Oswald</Speaker>
-                <Content>I dislike everybody.</Content>
-            </Quote>
-            <Quote>
-                <Speaker>Dr. Hartogs</Speaker>
-                <Content>This 13 year old well built boy has superior mental resources and functions only slightly below his capacity level in spite of chronic truancy from school.</Content>
-            </Quote>
-            <Quote>
-                <Speaker>Mrs. Siegel</Speaker>
-                <Content>He always felt like a burden that she simply just had to tolerate.</Content>
-            </Quote>
-        </Quotes>
-        <Text>
+    <discussion>
+    <characters>
+            <character>Lee Oswald</character>
+            <character>Dr. Hartogs</character>
+            <character>Mrs. Siegel</character>
+    </characters>
+    <quotes>
+            <quote>
+                <spokesperson>Lee Oswald</spokesperson>
+                <content>I don't want a friend and I don't like to talk to people.</content>
+            </quote>
+            <quote>
+                <spokesperson>Lee Oswald</spokesperson>
+                <content>I dislike everybody.</content>
+            </quote>
+            <quote>
+                <spokesperson>Dr. Hartogs</spokesperson>
+                <content>This 13 year old well built boy has superior mental resources and functions only slightly below his capacity level in spite of chronic truancy from school.</content>
+            </quote>
+            <quote>
+                <spokesperson>Mrs. Siegel</spokesperson>
+                <content>He always felt like a burden that she simply just had to tolerate.</content>
+            </quote>
+    </quotes>
+    <texts>
             Wald's withdrawn tendencies and solitary habits were thought to be the result of "intense anxiety, shyness, feelings of awkwardness and insecurity." He was reported to have said he was also described as having a "Vivid fantasy life, turning around the topics of omnipotence and power, through which he tries to compensate for his present shortcomings and frustrations." Dr. Hartogs summarized his report by stating: Lee has to be diagnosed as "personality pattern disturbance with schizoid features and passive--aggressive tendencies." Lee has to be seen as an emotionally, quite disturbed youngster who suffers under the impact of really existing emotional isolation and deprivation, lack of affection, absence of family life and rejection by a self involved and conflicted mother. Dr. Hartogs recommended that Oswald be placed on probation on condition that he seek help and guidance through a child guidance clinic. There, he suggested, Lee should be treated by a male psychiatrist who could substitute for the lack of a father figure. He also recommended that Mrs. Oswald seek "psychotherapeutic guidance through contact with a family agency." The possibility of commitment was to be considered only if the probation plan was not successful. Lee's withdrawal was also noted by Mrs. Siegel, who described him as a "seriously detached, withdrawn youngster." She also noted that there was "a rather pleasant, appealing quality about this emotionally starved, affectionless youngster which grows as one speaks to him." She thought that he had detached himself from the world around him because "no one in it ever met any of his needs for love." She observed that since Lee's mother worked all day, he made his own meals and spent all his time alone because he didn't make friends with the boys in the neighborhood. She thought that he "withdrew into a completely solitary and detached existence where he did as he wanted and he didn't have to live by any rules or come into contact with people." Mrs. Siegel concluded that Lee "just felt that his mother never gave a damn for him." Lee confirmed some of those observations by saying that he felt almost as if there were a veil between him and other people through which they could not reach him, but that he preferred the veil to remain intact. He admitted to fantasies about being powerful and sometimes hurting and killing people, but refused to elaborate on them. He took the position that such matters were his own business.
-        </Text>
-    </Discussion>
+    </texts>
+    </discussion>
     </page>
     
     <page number="381">
-        <Discussion>
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Irving Sokolow</Character>
-                <Character>Carro</Character>
-                <Character>Mrs. Siegel</Character>
-                <Character>Mrs. Oswald</Character>
-                <Character>Dr. Hartogs</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Irving Sokolow</Speaker>
-                    <Content>The Human Figure Drawings are empty, poor characterizations of persons approximately the same age as the subject.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I liked to be by myself because I had too much difficulty in making friends.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Carro</Speaker>
-                    <Content>Lee was disruptive in class after he returned to school on a regular basis in the fall of 1953.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Mrs. Siegel</Speaker>
-                    <Content>Mrs. Oswald was a smartly dressed, gray haired woman, very self-possessed and alert and superficially affable, but essentially a defensive, rigid, self-involved person.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Irving Sokolow</character>
+                <character>Carro</character>
+                <character>Mrs. Siegel</character>
+                <character>Mrs. Oswald</character>
+                <character>Dr. Hartogs</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Irving Sokolow</spokesperson>
+                    <content>The Human Figure Drawings are empty, poor characterizations of persons approximately the same age as the subject.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I liked to be by myself because I had too much difficulty in making friends.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Carro</spokesperson>
+                    <content>Lee was disruptive in class after he returned to school on a regular basis in the fall of 1953.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Mrs. Siegel</spokesperson>
+                    <content>Mrs. Oswald was a smartly dressed, gray haired woman, very self-possessed and alert and superficially affable, but essentially a defensive, rigid, self-involved person.</content>
+                </quote>
+            </quotes>
+            <texts>
                 A psychological human figure-drawing test corroborated the interviewer's findings that Lee was insecure and had limited social contacts. Irving Sokolow, a Youth House psychologist, reported that the drawings reflected a considerable amount of impoverishment in the social and emotional areas. He appears to be a somewhat insecure youngster exhibiting much inclination for warm and satisfying relationships to others. There is some indication that he may relate to men more easily than to women in view of the more mature conceptualization. He appears slightly withdrawn and in view of the lack of detail within the drawings, this may assume a more significant characteristic. He exhibits some difficulty in relationship to the maternal figure suggesting more anxiety in this area than in any other. Lee scored an IQ of 118 on the Wechsler Intelligence Scale for Children. According to Sokolow, this indicated a "present intellectual functioning in the upper range of bright normal intelligence." Sokolow said that although Lee was "presumably disinterested in school subjects he operates on a much higher than average level." On the Monroe Silent Reading Test, Lee's score indicated no retardation in reading speed and comprehension; he had better than average ability in arithmetical reasoning for his age group. Lee told Carro, his probation officer, that he liked to be by himself because he had too much difficulty in making friends. The reports of Carro and Mrs. Siegel also indicate an ambivalent attitude toward authority on Oswald's part. Carro reported that Lee was disruptive in class after he returned to school on a regular basis in the fall of 1953. He had refused to salute the flag and was doing very little, if any, work. It appears that he did not want to do any of the things which the authorities suggested in their efforts to bring him out of the shell into which he appeared to be retreating. He told Mrs. Siegel that he would run away if sent to a boarding school. On the other hand, he also told her that he wished his mother had been more firm with him in her attempts to get him to return to school. The reports of the New York authorities indicate that Lee's mother gave him very little affection and did not serve as any sort of substitute for a father. Furthermore, she did not appear to understand her own relationship to Lee's psychological problems. After her interview with Mrs. Oswald, Mrs. Siegel described her as a smartly dressed, gray haired woman, very self-possessed and alert and superficially affable, but essentially a defensive, rigid, self-involved person who had real difficulty in accepting and relating to people and who had little understanding of Lee's behavior and of the protective shell he has drawn around himself. Dr. Hartogs reported that Mrs. Oswald did not understand that Lee's withdrawal was a form of violent but silent protest against his neglect by her and represents his reac-
-            </Text>
-        </Discussion>
+            </texts>
+    </discussion>
     </page>
     
     <page number="382">
-        <Discussion>
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Carro</Character>
-                <Character>John Pic</Character>
-                <Character>Mrs. Siegel</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>Well, I've got to live with her. I guess I love her.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>John Pic</Speaker>
-                    <Content>Lee slept with my mother until I joined the service in 1950. This would make him approximately 10, well, almost 11 years old.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Carro</Speaker>
-                    <Content>There was nothing that would lead me to believe when I saw him at the age of 12 that there would be seeds of destruction for somebody.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Mrs. Siegel</Speaker>
-                    <Content>Despite his withdrawal, he gives the impression that he is not so difficult to reach as he appears.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Carro</character>
+                <character>John Pic</character>
+                <character>Mrs. Siegel</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>Well, I've got to live with her. I guess I love her.</content>
+                </quote>
+                <quote>
+                    <spokesperson>John Pic</spokesperson>
+                    <content>Lee slept with my mother until I joined the service in 1950. This would make him approximately 10, well, almost 11 years old.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Carro</spokesperson>
+                    <content>There was nothing that would lead me to believe when I saw him at the age of 12 that there would be seeds of destruction for somebody.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Mrs. Siegel</spokesperson>
+                    <content>Despite his withdrawal, he gives the impression that he is not so difficult to reach as he appears.</content>
+                </quote>
+            </quotes>
+            <texts>
                 The factors in Lee Oswald's personality which were noted by those who had contact with him in New York indicate that he had great difficulty in adapting himself to conditions in that city. His usual reaction to the problems which he encountered there was simply withdrawal. Those factors indicated a severe inability to enter into relationships with other people. In view of his experiences when he visited his relatives in New Orleans in the spring of 1950, and his other solitary habits, Lee had apparently been experiencing similar problems before going to New York, and as will be shown below, this failure to adapt to his environment was a dominant trait in his later life.
                 
                 It would be incorrect, however, to believe that those aspects of Lee's personality which were observed in New York could have led anyone to predict the outburst of violence which finally occurred. Carro was the only one of Oswald's three principal observers who recommended that he be placed in a boy's home or similar institution. But Carro was quite specific that his recommendation was based primarily on the adverse factors in Lee's environment—his lack of friends, the apparent unavailability of any agency assistance, and the ineffectualness of his mother—and not on any particular mental disturbance in the boy himself. Carro testified that there was nothing that would lead him to believe when he saw him at the age of 12 that there would be seeds of destruction for somebody. 
@@ -251,28 +250,28 @@
                 Mrs. Siegel concluded her report with the statement that despite his withdrawal, he gives the impression that he is not so difficult to reach as he appears and patient, prolonged effort in a sustained relationship with one therapist might bring results. There are indications that he has suffered serious personality damage but if he can receive help quickly this might be repaired to some extent. 
                 
                 Lee Oswald never received that help. Few social agencies even in New York were equipped to provide the kind of intensive treatment that he needed, and when one of the city's clinics did find room to handle him, for some reason the record does not show, advantage was never taken of the chance afforded to Oswald. When Lee became a disciplinary problem upon his return to school in the fall of 1953, and when his mother failed to cooperate in any way with school authorities, authorities were finally forced to consider placement in a home for boys. Such a placement was postponed, however, perhaps in part at...
-            </Text>
-        </Discussion>
+            </texts>
+    </discussion>
     </page>
     
     <page number="383">
-        <Discussion>
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Edward Voebel</Character>
-                <Character>Mrs. Murret</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Edward Voebel</Speaker>
-                    <Content>He was more bashful about girls than anything else.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Edward Voebel</Speaker>
-                    <Content>He wouldn't start any fights, but if you wanted to start one with him, he was going to make sure that he ended it.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Edward Voebel</character>
+                <character>Mrs. Murret</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Edward Voebel</spokesperson>
+                    <content>He was more bashful about girls than anything else.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Edward Voebel</spokesperson>
+                    <content>He wouldn't start any fights, but if you wanted to start one with him, he was going to make sure that he ended it.</content>
+                </quote>
+            </quotes>
+            <texts>
                 After his return to New Orleans Oswald was teased at school because of the northern accent which he had acquired. He concluded that school had nothing to offer him. His mother exercised little control over him and thought he could decide for himself whether to go on in school. Neighbors and others who knew him at that time recall an introverted boy who read a great deal. He took walks and visited museums, and sometimes rode a rented bicycle in the park on Saturday mornings. Mrs. Murret believes that he talked at length with a girl on the telephone, but no one remembers that he had any dates. 
                 
                 Several witnesses testified that Lee Oswald was not aggressive. He was, however, involved in some fights. Once a group of white boys beat him up for sitting in the Negro section of a bus, which he apparently did simply out of ignorance. Another time, he fought with two brothers who claimed that he had picked on the younger of them, 3 years Oswald's junior. Two days later, "some big guy, probably from a high school--he looked like a tremendous football player" accosted Oswald on the way home from school and punched him in the mouth, making his lip bleed and loosening a tooth. Voebel took Oswald back to the school to attend to his wounds, and their "mild friendship" stemmed from that incident. 
@@ -280,38 +279,38 @@
                 Voebel also recalled that Oswald once outlined a plan to cut the glass in the window of a store on Rampart Street and steal a pistol, but he was not sure then that Oswald meant to carry out the plan, and in fact they never did. In a space for the names of "close friends" on the ninth grade personal history record, Oswald first wrote "Edward Vogel," an obvious misspelling of Voebel's name, and "Arthor Abear," most likely Arthur Hebert, a classmate who has said that he did not know Oswald well. Oswald erased those names, however, and indicated that he had no close friends.
                 
                 It has been suggested that this misspelling of names, apparently on a phonetic basis, was caused by a reading-spelling disability from which Oswald appeared to suffer. Other evidence of the existence of such a disability is provided by the many other misspellings that appear in Oswald's writings, portions of which are quoted below.
-            </Text>
-        </Discussion>
+            </texts>
+    </discussion>
     </page>
     
     <page number="384">
-        <Discussion>
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Palmer McBride</Character>
-                <Character>William E. Wulf</Character>
-                <Character>Marguerite Oswald</Character>
-                <Character>John Pic</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Palmer McBride</Speaker>
-                    <Content>He would like to kill President Eisenhower because he was exploiting the working class.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>William E. Wulf</Speaker>
-                    <Content>He started expounding the Communist doctrine and saying that he was highly interested in communism, that communism was the only way of life for the worker.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marguerite Oswald</Speaker>
-                    <Content>Lee lived for the time that he would become 17 years old to join the Marines--that whole year.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>John Pic</Speaker>
-                    <Content>To get from out and under ... the yoke of oppression from my mother.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Palmer McBride</character>
+                <character>William E. Wulf</character>
+                <character>Marguerite Oswald</character>
+                <character>John Pic</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Palmer McBride</spokesperson>
+                    <content>He would like to kill President Eisenhower because he was exploiting the working class.</content>
+                </quote>
+                <quote>
+                    <spokesperson>William E. Wulf</spokesperson>
+                    <content>He started expounding the Communist doctrine and saying that he was highly interested in communism, that communism was the only way of life for the worker.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marguerite Oswald</spokesperson>
+                    <content>Lee lived for the time that he would become 17 years old to join the Marines--that whole year.</content>
+                </quote>
+                <quote>
+                    <spokesperson>John Pic</spokesperson>
+                    <content>To get from out and under ... the yoke of oppression from my mother.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Oswald started to read Communist literature, which he obtained from the public library. One of his fellow employees, Palmer McBride, stated that Oswald said he would like to kill President Eisenhower because he was exploiting the working class. Oswald praised Khrushchev and suggested that he and McBride join the Communist Party "to take advantage of their social functions." 
                 
                 Oswald also became interested in the New Orleans Amateur Astronomy Association, an organization of high school students. The association's then president, William E. Wulf, testified that he remembered an occasion when Oswald ... started expounding the Communist doctrine and saying that he was highly interested in communism, that communism was the only way of life for the worker, et cetera, and then came out with a statement that he was looking for a Communist cell in town to join but he couldn't find any. 
@@ -323,38 +322,38 @@
                 According to Marguerite Oswald, "Lee lived for the time that he would become 17 years old to join the Marines--that whole year." In John Pic's view, Oswald was motivated to join the Marines in large part by a desire "to get from out and under ... the yoke of oppression from my mother."
                 
                 Oswald's inability or lack of desire to enter into meaningful relationships with other people continued during this period in New Orleans (1954-56). It probably contributed greatly to the general dissatisfaction which he exhibited with his environment, a dissatisfaction which seemed to find expression at this particular point in his life.
-            </Text>
-        </Discussion>
+            </texts>
+    </discussion>
     </page>
     
     <page number="385">
-        <Discussion>
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Kerry Thornley</Character>
-                <Character>Daniel Powers</Character>
-                <Character>John E. Donovan</Character>
-                <Character>Nelson Delgado</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Kerry Thornley</Speaker>
-                    <Content>Definitely the Marine Corps was not what he had expected it to be when he joined.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Daniel Powers</Speaker>
-                    <Content>Always [to be] striving for a relationship, but whenever he did ... his general personality would alienate the group against him.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>John E. Donovan</Speaker>
-                    <Content>Authority, particularly the Marine Corps, ought to be able to recognize talent such as his own, without a given magic college degree, and put them in positions of prominence.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Kerry Thornley</Speaker>
-                    <Content>Oswald's extreme personal sloppiness in the Marine Corps fitted into a general personality pattern of his: to do whatever was not wanted of him.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Kerry Thornley</character>
+                <character>Daniel Powers</character>
+                <character>John E. Donovan</character>
+                <character>Nelson Delgado</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Kerry Thornley</spokesperson>
+                    <content>Definitely the Marine Corps was not what he had expected it to be when he joined.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Daniel Powers</spokesperson>
+                    <content>Always [to be] striving for a relationship, but whenever he did ... his general personality would alienate the group against him.</content>
+                </quote>
+                <quote>
+                    <spokesperson>John E. Donovan</spokesperson>
+                    <content>Authority, particularly the Marine Corps, ought to be able to recognize talent such as his own, without a given magic college degree, and put them in positions of prominence.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Kerry Thornley</spokesperson>
+                    <content>Oswald's extreme personal sloppiness in the Marine Corps fitted into a general personality pattern of his: to do whatever was not wanted of him.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Oswald's intense desire to join the Marines and get away from his surroundings and his mother continued throughout his time in the Marine Corps. His study of Communist literature, which might appear to be inconsistent with his desire to join the Marines, could have been another manifestation of Oswald's rejection of his environment.
                 
                 His difficulty in relating to other people and his general dissatisfaction with the world around him persisted while he was in the Marine Corps. Kerry Thornley, a marine associate, testified that "definitely the Marine Corps was not what he had expected it to be when he joined." He observed that Oswald "seemed to guard against developing real close friendships." 
@@ -368,36 +367,36 @@
                 Nelson Delgado, a fellow Marine, testified that Oswald would "cut up anybody that was high ranking" during these arguments to assert his dominance. His arguments with superiors likely stemmed from a desire to attract attention to himself and to bolster his inflated sense of self-worth.
                 
                 Thornley also observed that Oswald's extreme personal sloppiness in the Marine Corps was consistent with a general personality trend of doing what was not wanted of him. He "seemed to be a person who would go out of his way to get into trouble" and then used the "special treatment" he received as a justification for his behavior.
-            </Text>
-        </Discussion>
+            </texts>
+    </discussion>
     </page>
     
     <page number="386">
-        <Discussion>
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Kerry Thornley</Character>
-                <Character>Daniel Powers</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Kerry Thornley</Speaker>
-                    <Content>Oswald labored under a persecution complex which he strove to maintain.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Daniel Powers</Speaker>
-                    <Content>He was meek and easily led, an individual that you would brainwash.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Daniel Powers</Speaker>
-                    <Content>All the Marine Corps did was to teach you to kill and after you got out of the Marines you might be good gangsters.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Daniel Powers</Speaker>
-                    <Content>Now he was Oswald the man rather than Oswald the rabbit.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Kerry Thornley</character>
+                <character>Daniel Powers</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Kerry Thornley</spokesperson>
+                    <content>Oswald labored under a persecution complex which he strove to maintain.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Daniel Powers</spokesperson>
+                    <content>He was meek and easily led, an individual that you would brainwash.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Daniel Powers</spokesperson>
+                    <content>All the Marine Corps did was to teach you to kill and after you got out of the Marines you might be good gangsters.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Daniel Powers</spokesperson>
+                    <content>Now he was Oswald the man rather than Oswald the rabbit.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Oswald's behavior during his time in the Marine Corps suggested a complex personality. Kerry Thornley observed that Oswald seemed to maintain a persecution complex, feeling that he was being picked on and watched closely due to his supposed subversive activities. Thornley noted that while he wouldn't label Oswald as paranoid, there was a definite tendency in that direction.
                 
                 Daniel Powers described Oswald as meek and easily led, suggesting he could be brainwashed but would stand firm in his beliefs once he embraced them. Powers characterized Oswald as reserved and somewhat frail, giving him the nickname "Ozzie Rabbit." He noted that Oswald read extensively, preferring literature like "Leaves of Grass" by Walt Whitman over typical adventure stories. 
@@ -407,123 +406,126 @@
                 However, this newfound self-assurance led to an incident where Oswald spilled a drink on a sergeant and challenged him to a fight, a confrontation that arose while he was intoxicated. At his court-martial, Oswald argued that he had simply wanted to discuss matters with the sergeant, although he was found guilty of provoking words.
                 
                 Later, Oswald requested a transfer from active duty to the Marine Corps Reserve to care for his mother after her work-related injury. Ultimately, he received an undesirable discharge from the Marine Corps Reserve, which followed a period of inactivity after his transfer.
-            </Text>
-        </Discussion>
+            </texts>
+    </discussion>
     </page>
     
     <page number="387">
-        <Discussion>
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>Governor Connally</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>Lee said that when he would return to the United States he would vote for him [for Governor].</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>He never had anything against [Kennedy].</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>Governor Connally</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>Lee said that when he would return to the United States he would vote for him [for Governor].</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>He never had anything against [Kennedy].</content>
+                </quote>
+            </quotes>
+            <texts>
                 Following his defection to the Soviet Union, Oswald sought to reverse his undesirable discharge from the Marine Corps. He wrote to Secretary of the Navy Connally, expressing his intent to rectify what he perceived as a gross mistake. Although Connally had just resigned to run for Governor of Texas and forwarded Oswald's letter to his successor, it was evident that Oswald understood that Connally was not directly responsible for his discharge, nor did he hold any grievances against President Kennedy or Connally.
                 
                 Marina Oswald testified that her husband spoke well of Kennedy during their time in Russia and did not express any ill will towards him. Despite this, Oswald felt unjustly treated by the military and pursued efforts to have his discharge reconsidered. His dissatisfaction stemmed from the fact that his discharge was unrelated to his conduct while on active duty and that he was unaware of the original discharge proceedings due to his absence.
                 
                 The Commission considered whether Connally could have been Oswald's actual target during the assassination attempt. Marina suggested that her husband might have intended to shoot Connally rather than Kennedy, linking this belief to Oswald's concerns about his discharge. However, the circumstances during the assassination made it almost impossible for Oswald to shoot Connally without hitting Kennedy first, given their positions in the limousine. Oswald would have had more advantageous opportunities to target Connally at different points along the route.
-            </Text>
-        </Discussion>
+            </texts>
+    </discussion>
     </page>
     
-    <Discussion>
-        <page number="388">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Aline Mosby</Character>
-                <Character>Kerry Thornley</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I'm a Marxist, ... I became interested about the age of 15.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Kerry Thornley</Speaker>
-                    <Content>I think you could sit down and argue with him for a number of years ... and I don't think you could have changed his mind on that.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="388">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Aline Mosby</character>
+                <character>Kerry Thornley</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I'm a Marxist, ... I became interested about the age of 15.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Kerry Thornley</spokesperson>
+                    <content>I think you could sit down and argue with him for a number of years ... and I don't think you could have changed his mind on that.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Following his departure from New York to New Orleans, Lee Oswald began reading Communist literature, stating his ideological leanings when he told reporter Aline Mosby, "I'm a Marxist." He became interested around the age of 15 after being handed a pamphlet about saving the Rosenbergs. Oswald's study of Marxism continued during his time in the Marines, where his sympathies towards Marxism and the Soviet Union became well-known among his peers, earning him nicknames such as "comrade" and "Oswaldskovitch."
                 
                 His fascination with the Soviet Union was reflected in his preference to play the red pieces in chess, humorously noting he preferred the "Red Army." Oswald actively studied the Russian language and read Russian-language newspapers, demonstrating a keen interest in Soviet affairs.
                 
                 Kerry Thornley, a fellow Marine, noted that Oswald's belief in Marxism was deeply ingrained, suggesting that no amount of formal debate would sway him from his convictions. Thornley recounted a moment that illustrated Oswald's Marxist sympathies intertwined with his enjoyment of George Orwell's "1984." During a lackluster parade event, Oswald appeared lost in thought, yet the influence of his beliefs remained evident in their conversations.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="389">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Kerry Thornley</Character>
-                <Character>Lieutenant Donovan</Character>
-                <Character>Nelson Delgado</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Kerry Thornley</Speaker>
-                    <Content>Well, comes the revolution you will change all that.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lieutenant Donovan</Speaker>
-                    <Content>There were many grave injustices concerning the affairs in the international situation.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Kerry Thornley</Speaker>
-                    <Content>He looked upon the eyes of future people as some kind of tribunal, and he wanted to be on the winning side...</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="389">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Kerry Thornley</character>
+                <character>Lieutenant Donovan</character>
+                <character>Nelson Delgado</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Kerry Thornley</spokesperson>
+                    <content>Well, comes the revolution you will change all that.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lieutenant Donovan</spokesperson>
+                    <content>There were many grave injustices concerning the affairs in the international situation.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Kerry Thornley</spokesperson>
+                    <content>He looked upon the eyes of future people as some kind of tribunal, and he wanted to be on the winning side...</content>
+                </quote>
+            </quotes>
+            <texts>
                 During a discussion about the parade, Oswald expressed his anger and disdain, prompting Thornley to quip, "Well, comes the revolution you will change all that." Oswald reacted intensely, looking at Thornley as if betrayed and exclaiming, "Not you, too, Thornley," indicating that he was disturbed by the remark, which Thornley later clarified was not meant to criticize Oswald's political beliefs.
                 
                 Lieutenant Donovan noted Oswald's belief in the existence of significant injustices in global affairs, particularly his interest in Latin America and opposition to the Batista regime in Cuba, alongside a sympathy for Castro. However, Donovan stated that he never heard Oswald express a desire to personally eliminate these injustices or openly identify as a Communist. Nelson Delgado remarked that Oswald was a believer in the need for change in the American government, yet he did not advocate for a Communist system.
                 
                 Thornley reflected on Oswald's perception of history, suggesting that he wished to be remembered favorably in the future, as if judged by a tribunal of future generations. This desire for a historical legacy, combined with his present-day discontent, may have influenced Oswald's drastic actions, including his defection, which garnered significant media attention and brought his name into public discourse.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="390">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Kerry Thornley</Character>
-                <Character>William Stuckey</Character>
-                <Character>Robert Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Kerry Thornley</Speaker>
-                    <Content>I think he wanted both if he could have them. If he didn't, he wanted to die with the knowledge that, or with the idea that he was somebody.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>...the conclusive thing that made him decide that Marxism was the answer was his service in Japan.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>...he said living conditions over there convinced him something was wrong with the system, and that possibly Marxism was the answer.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>...he wrote to his brother Robert that the Soviet Union...</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="390">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Kerry Thornley</character>
+                <character>William Stuckey</character>
+                <character>Robert Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Kerry Thornley</spokesperson>
+                    <content>I think he wanted both if he could have them. If he didn't, he wanted to die with the knowledge that, or with the idea that he was somebody.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>...the conclusive thing that made him decide that Marxism was the answer was his service in Japan.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>...he said living conditions over there convinced him something was wrong with the system, and that possibly Marxism was the answer.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>...he wrote to his brother Robert that the Soviet Union...</content>
+                </quote>
+            </quotes>
+            <texts>
                 Oswald's complex motivations for his actions suggest a dual desire for both recognition and a legacy. His interest in Marxism both alienated and attracted individuals around him; while some avoided him, others believed his interest was a means to gain attention. This pattern was evident in his employment struggles upon returning from the Soviet Union. Oswald often cited Marxism as a justification for his social difficulties, which likely stemmed from other underlying issues. His commitment to Marxism influenced significant life choices, such as his defection to the Soviet Union in 1959 and his involvement with the Fair Play for Cuba Committee in 1963.
                 
                 Following his discharge from the Marine Corps in September 1959, ostensibly to care for his mother, Oswald quickly traveled to the Soviet Union to renounce his U.S. citizenship. This act marked a pivotal moment in his life, showcasing his readiness to act on his beliefs in drastic ways.
@@ -531,891 +533,924 @@
                 Although Oswald's Marxism played a crucial role in his defection, personal and psychological factors were also influential. He later noted that his time in Japan prompted his realization that something was fundamentally wrong with the system, which he believed Marxism might address.
                 
                 Conversely, acquaintances suggested that his defection had deeper psychological motivations. After arriving in the Soviet Union, Oswald communicated with his brother Robert, indicating that his motivations were not solely ideological but intertwined with personal quests for identity and belonging.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="391">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Robert Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I have always considered ... to be my own and that I went there only to find freedom. ... I could never have been personally happy in the U.S.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I will never return to the United States which is a country I hate.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>Ask me and I will tell you I fight for communism.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>Happiness is not based on oneself, it does not consist of a small home, of taking and getting, Happiness is taking part in the struggle, where there is no borderline between one's own personal world, and the world in general.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="391">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Robert Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I have always considered ... to be my own and that I went there only to find freedom. ... I could never have been personally happy in the U.S.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I will never return to the United States which is a country I hate.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>Ask me and I will tell you I fight for communism.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>Happiness is not based on oneself, it does not consist of a small home, of taking and getting, Happiness is taking part in the struggle, where there is no borderline between one's own personal world, and the world in general.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Oswald expressed a profound sense of belonging to the Soviet Union, stating it was a place he had always considered his own and that he sought freedom there, contrasting it with his strong feelings of hatred for the United States. He articulated his disdain for the American government in a letter to his brother Robert, explaining his belief that it exploited workers and suppressed their potential through various societal tools.
                 
                 His desire to live in the Soviet Union was accompanied by a strong anti-American sentiment, as shown in his writings. Oswald detailed his belief that the U.S. government was responsible for injustices such as segregation and military interventions, declaring his commitment to communism as a means to address these issues.
                 
                 Oswald’s perspective on happiness highlighted his conviction that true fulfillment came from participating in collective struggles rather than seeking individual material gain. This philosophy was part of what motivated him to defect, as he believed the Soviet Union represented a revolutionary society where he could align his ideals with a greater purpose.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="392">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Robert Oswald</Character>
-                <Character>Richard E. Snyder</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I have been a pro-communist for years and yet I have never met a communist, instead I kept silent and observed, and what I observed plus my Marxist learning brought me here to the Soviet Union.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>In the event of war I would kill any American who put a uniform on in defense of the American government-- any American.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>That in my own mind I have no attachments of any kind in the U.S.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I am shocked!! My dreams! ... I have waited for 2 years to be accepted. My fondest dreams are shattered because of a petty official.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="392">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Robert Oswald</character>
+                <character>Richard E. Snyder</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I have been a pro-communist for years and yet I have never met a communist, instead I kept silent and observed, and what I observed plus my Marxist learning brought me here to the Soviet Union.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>In the event of war I would kill any American who put a uniform on in defense of the American government-- any American.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>That in my own mind I have no attachments of any kind in the U.S.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I am shocked!! My dreams! ... I have waited for 2 years to be accepted. My fondest dreams are shattered because of a petty official.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Oswald expressed his long-standing commitment to communism and his belief that the Soviet Union was his true home, despite having never met a communist before. In a candid conversation with his brother Robert, he declared his willingness to take drastic actions against fellow Americans if war broke out, asserting that he felt no attachments to the United States.
                 
                 Following a series of disappointments in the Soviet Union, including the initial rejection of his application to stay, Oswald’s emotional turmoil led him to attempt suicide. His entries in his "Historic Diary" revealed the depth of his despair and his dramatic response to feeling unwelcome in a place he had idealized.
                 
                 Undeterred by his early setbacks, Oswald took decisive action to renounce his U.S. citizenship by visiting the American Embassy. Richard E. Snyder, an official there, recalled Oswald's confidence and determination as he presented his request to revoke his citizenship, marking a significant step in his commitment to living in the Soviet Union.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="393">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Richard E. Snyder</Character>
-                <Character>Soviet Officials</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I have entered the Soviet Union for the express purpose of applying for citizenship in the Soviet Union, through the means of naturalization.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I affirm that my allegiance is to the Union of Soviet Socialist Republics.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I am a Marxist.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I leave Embassy, elated at this showdown, returning to my hotel I feel now my energies are not spent in vain.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="393">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Richard E. Snyder</character>
+                <character>Soviet Officials</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I have entered the Soviet Union for the express purpose of applying for citizenship in the Soviet Union, through the means of naturalization.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I affirm that my allegiance is to the Union of Soviet Socialist Republics.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I am a Marxist.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I leave Embassy, elated at this showdown, returning to my hotel I feel now my energies are not spent in vain.</content>
+                </quote>
+            </quotes>
+            <texts>
                 After formally renouncing his American citizenship, Oswald expressed his intent to apply for Soviet citizenship, declaring his allegiance to the U.S.S.R. He highlighted his political motivations for this decision, referencing the hardships faced by his mother as a worker. Despite never having held a civilian job, he framed his Marine service as an opportunity to witness "American imperialism," while also revealing a sense of disappointment about not attaining a higher rank.
                 
                 Following his request at the American Embassy, Oswald felt a renewed sense of hope and purpose, believing that his commitment would earn him acceptance in the Soviet Union. Ultimately, Soviet authorities granted him permission to stay, sending him to Minsk to work in a radio and television factory.
                 
                 While Oswald enjoyed a higher standard of living compared to many Soviet citizens, he still found himself envious of those in positions of authority, reminiscent of his experiences in the Marine Corps. This pattern of feeling slighted by others' advantages continued to shape his worldview even after he returned to the United States, where he characterized Communist Party officials as opportunists.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="394">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>Katherine Ford</Character>
-                <Character>Jeanne De Mohrenschildt</Character>
-                <Character>George De Mohrenschildt</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I didn't find what I was looking for.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>As my Russian improves I become increasingly conscious of just what sort of a society I live in.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I am starting to reconsider my desire about staying.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="394">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>Katherine Ford</character>
+                <character>Jeanne De Mohrenschildt</character>
+                <character>George De Mohrenschildt</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I didn't find what I was looking for.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>As my Russian improves I become increasingly conscious of just what sort of a society I live in.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I am starting to reconsider my desire about staying.</content>
+                </quote>
+            </quotes>
+            <texts>
                 During his time in Minsk, Oswald faced personal difficulties that contrasted with Marina's assertion of good relationships in the Soviet Union. Katherine Ford, a member of the Russian community in Dallas, recounted that Marina claimed everyone in Russia "hated him." Jeanne De Mohrenschildt noted that Oswald expressed disappointment upon returning, stating he "didn't find what I was looking for." George De Mohrenschildt speculated that Oswald's initial novelty wore off, leading to his disgust with life in the Soviet Union.
                 
                 Oswald's own "Historic Diary" provides insight into his growing unease. He noted feeling uncomfortable about his surroundings and increasingly aware of the societal conditions he experienced. His entries reflected discontent with compulsory activities, such as mass gymnastics and political meetings, which he found burdensome. By January 1961, he expressed a desire to leave, citing drab work conditions and a lack of recreational activities.
                 
                 Less than 18 months after his defection and shortly before meeting Marina Prusakova, Oswald began negotiations with the U.S. Embassy in Moscow to return to the United States.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="395">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>Immediately after coming to the United States Lee changed. I did not know him as such a man in Russia.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>In general, our family life began to deteriorate after we arrived in America.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="395">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>Immediately after coming to the United States Lee changed. I did not know him as such a man in Russia.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>In general, our family life began to deteriorate after we arrived in America.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Lee Oswald's return to the United States marked a profound psychological shift. He was not yet 20 when he left with high hopes, and just shy of 23 when he returned, disillusioned. His attempt to renounce his U.S. citizenship symbolized a dramatic rejection of his past life, and coming back underscored the failure of his most significant act.
                 
                 Marina Oswald observed notable changes in her husband post-return, stating, "immediately after coming to the United States Lee changed. I did not know him as such a man in Russia." She noted that while he continued to help her, he became more reclusive and irritable, describing him as "very unrestrained and very explosive" from November 19, 1962, to March 1963. She reflected on how their family life deteriorated, attributing it to Lee's increasing irritability and hot-tempered nature.
                 
                 Comparing Oswald's writings from the Soviet Union to those after his return reveals a significant decline in coherence. His work "The Collective," written in the Soviet Union, was a clear description of his experiences in the radio and television factory, indicating a more organized mindset. In contrast, his autobiographical sketch reflected a troubled upbringing and hints at the psychological turmoil he faced upon returning to the U.S.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="396">
-            <Text>
+    
+    <page number="396">
+    <discussion>
+            <texts>
                 This page reproduces photographs of Lee Harvey Oswald.
-            </Text>
-            <Exhibits>
-                <Exhibit>
-                    <CommissionExhibit>2891</CommissionExhibit>
-                    <Description>Oswald in Minsk.</Description>
-                </Exhibit>
-                <Exhibit>
-                    <CommissionExhibit>2892</CommissionExhibit>
-                    <Description>Oswald in Minsk.</Description>
-                </Exhibit>
-                <Exhibit>
-                    <CommissionExhibit>2788</CommissionExhibit>
-                    <Description>Oswald taken after his return from the Soviet Union.</Description>
-                </Exhibit>
-            </Exhibits>
-        </page>
-    </Discussion>
+            </texts>
+            <exhibits>
+                <exhibit>
+                    <commissionExhibit>2891</commissionExhibit>
+                    <description>Oswald in Minsk.</description>
+                </exhibit>
+                <exhibit>
+                    <commissionExhibit>2892</commissionExhibit>
+                    <description>Oswald in Minsk.</description>
+                </exhibit>
+                <exhibit>
+                    <commissionExhibit>2788</commissionExhibit>
+                    <description>Oswald taken after his return from the Soviet Union.</description>
+                </exhibit>
+            </exhibits>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="397">
-            <Characters>
-                <Character>Lee Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>No man, having known, having lived, under the Russian Communist and American capitalist system, could possibly make a choice between them, there is no choice, one offers oppression the other poverty. Both offer imperialistic injustice, tinted with two brands of slavery.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>It is immature to take the sort of attitude which says "a curse on both your houses!"</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="397">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>No man, having known, having lived, under the Russian Communist and American capitalist system, could possibly make a choice between them, there is no choice, one offers oppression the other poverty. Both offer imperialistic injustice, tinted with two brands of slavery.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>It is immature to take the sort of attitude which says "a curse on both your houses!"</content>
+                </quote>
+            </quotes>
+            <texts>
                 In the USMC he abandoned his American life to seek a new life in the USSR. Full of optimism and hope he stood in Red Square in the fall of 1959 vowing to see his chosen course through; after, however, two years and a lot of growing up, I decided to return to the USA. "The Collective" contrasts sharply with material which Oswald seems to have written after he left the Soviet Union, which appears to be more an expression of his own psychological condition than of a reasoned analysis. The latter material expresses great hostility to both communism and capitalism. He wrote that to a person knowing both of those systems, "there can be no mediation between those systems as they exist today and that person. He must be opposed to their basic foundations and representatives."
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="398">
-            <Characters>
-                <Character>Lee Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>The emplacement of a separate, democratic, pure communist society ... but one with union-communes, democratic socializing of production and without regard to the twisting apart of Marxism by other powers.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>The Communist Party of the United States has betrayed itself! It has turned itself into the traditional lever of a foreign power to overthrow the government of the United States; not in the name of freedom or high ideals, but in servile conformity to the wishes of the Soviet Union.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="398">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>The emplacement of a separate, democratic, pure communist society ... but one with union-communes, democratic socializing of production and without regard to the twisting apart of Marxism by other powers.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>The Communist Party of the United States has betrayed itself! It has turned itself into the traditional lever of a foreign power to overthrow the government of the United States; not in the name of freedom or high ideals, but in servile conformity to the wishes of the Soviet Union.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Oswald's decided rejection of both capitalism and communism seemed to place him in a situation in which he could not live with satisfaction either in the United States or in the Soviet Union. While "resoulfulness and patient working towards the aforesaid goal's are preferred rather than loud and useless manifestations of protest," Oswald noted that these tactics might prove to be too limited in the near future. He expressed a profound disdain for both systems, describing the crimes committed by the Soviets and the failures of the Communist Party in the U.S.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="399">
-            <Characters>
-                <Character>Lee Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I have often wondered why it is that the communist, anarchist capitalist and even the fascist and anarchist elements in America always profess patriotism toward the land and the people, if not the government; although their ideals must surely lead to the bitter destruction of all and everything.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>As a mark of disgust and protest against American political policies in foreign countries, my personal sign of discontent and horror at the misguided line of reasoning of the U.S. Government.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>No of course not, I have never even known a communist, outside of the ones in the USSR but you can't help that.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="399">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I have often wondered why it is that the communist, anarchist capitalist and even the fascist and anarchist elements in America always profess patriotism toward the land and the people, if not the government; although their ideals must surely lead to the bitter destruction of all and everything.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>As a mark of disgust and protest against American political policies in foreign countries, my personal sign of discontent and horror at the misguided line of reasoning of the U.S. Government.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>No of course not, I have never even known a communist, outside of the ones in the USSR but you can't help that.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Oswald demonstrated his thinking in connection with his return to the United States by preparing two sets of identical questions he thought he might face at a press conference. His first answers reflected his true feelings, expressing disgust with American policies, while his second set of answers seemed crafted to avoid harm as he resumed life in the U.S. This duality illustrates his ambivalence toward both his past and his new life.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="400">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>George De Mohrenschildt</Character>
-                <Character>Jeanne De Mohrenschildt</Character>
-                <Character>Peter Gregory</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I hate America and I do not want them to become 'Americanized' and that my plans were to go back to Russia.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Jeanne De Mohrenschildt</Speaker>
-                    <Content>Oswald was very, very disagreeable and disappointed.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Jeanne De Mohrenschildt</Speaker>
-                    <Content>Marina had a hundred dresses given to her ... he objected to that lavish help, because Marina was throwing it into his face.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="400">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>George De Mohrenschildt</character>
+                <character>Jeanne De Mohrenschildt</character>
+                <character>Peter Gregory</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I hate America and I do not want them to become 'Americanized' and that my plans were to go back to Russia.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Jeanne De Mohrenschildt</spokesperson>
+                    <content>Oswald was very, very disagreeable and disappointed.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Jeanne De Mohrenschildt</spokesperson>
+                    <content>Marina had a hundred dresses given to her ... he objected to that lavish help, because Marina was throwing it into his face.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Despite his expressed hatred for the Soviet Union, Oswald remained interested in it after returning to the U.S. He wrote to the Soviet Embassy seeking information about subscriptions to Russian periodicals and even requested a visa for his return to the Soviet Union. His personal relations were strained; he had no close friends in Texas and often displayed resentment towards the help his wife received from her Russian-American community.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="401">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>George De Mohrenschildt</Character>
-                <Character>George Bouhe</Character>
-                <Character>Robert Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>George De Mohrenschildt</Speaker>
-                    <Content>If somebody did that to me, a lousy trick like that, to take my wife away, and all the furniture, I would be mad as hell, too.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I didn't have a mother, but later admitted that I did but that I didn't love her very much.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="401">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>George De Mohrenschildt</character>
+                <character>George Bouhe</character>
+                <character>Robert Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>George De Mohrenschildt</spokesperson>
+                    <content>If somebody did that to me, a lousy trick like that, to take my wife away, and all the furniture, I would be mad as hell, too.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I didn't have a mother, but later admitted that I did but that I didn't love her very much.</content>
+                </quote>
+            </quotes>
+            <texts>
                 The relationship between Oswald and Marina became strained, with Bouhe wanting to "liberate" her from Oswald. After a brief separation, Marina returned to Oswald, but communication with the Russian community ceased. Oswald also severed ties with his mother and brother, expressing disdain for his family, which he viewed as examples of the exploited under capitalism. His attitude toward family and relationships shifted as he adjusted to life after his return from the Soviet Union.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="402">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>Marguerite Oswald</Character>
-                <Character>Employment Counselor</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marguerite Oswald</Speaker>
-                    <Content>He strongly put me in my place about buying things for his wife that he himself could not buy.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="402">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>Marguerite Oswald</character>
+                <character>Employment Counselor</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marguerite Oswald</spokesperson>
+                    <content>He strongly put me in my place about buying things for his wife that he himself could not buy.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Marguerite Oswald tried to help her son and his family settle into their new apartment but faced strong objections from Lee, particularly regarding her purchases for Marina. After moving to Dallas in October 1962, Lee cut off all communication with his mother until after the assassination. In April 1963, he sought to learn about his family background by visiting relatives in New Orleans, contrasting with his earlier disinterest in his father. Oswald struggled to find stable employment, partially due to his lack of skills and potentially due to how he presented his past to employers. He did manage to secure a job as a sheet metal worker but left voluntarily after a few months.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="403">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>Employment Counselor</Character>
-                <Character>Employer</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Employment Counselor</Speaker>
-                    <Content>Oswald made qualifying marks in 19 of 23 categories included on the general aptitude examination and scored 127 on the verbal test.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="403">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>Employment Counselor</character>
+                <character>Employer</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Employment Counselor</spokesperson>
+                    <content>Oswald made qualifying marks in 19 of 23 categories included on the general aptitude examination and scored 127 on the verbal test.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Oswald demonstrated considerable aptitude according to his employment counselor, qualifying for many job types and showing outstanding verbal and clerical potential. He began working as a trainee at a commercial photography firm in Dallas but struggled with efficiency and interpersonal relations, leading to conflicts with colleagues. His discharge in April 1963 was hastened by his difficulties and the incident involving a Russian language newspaper. After moving to New Orleans in April 1963, he found work as a greaser and oiler of coffee processing machines at the William B. Reily Co.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="404">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>Mrs. Paine</Character>
-                <Character>Placement Interviewer</Character>
-                <Character>General Walker</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Placement Interviewer</Speaker>
-                    <Content>It was determined that we should not undertake to furnish employment references for him.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="404">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>Mrs. Paine</character>
+                <character>Placement Interviewer</character>
+                <character>General Walker</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Placement Interviewer</spokesperson>
+                    <content>It was determined that we should not undertake to furnish employment references for him.</content>
+                </quote>
+            </quotes>
+            <texts>
                 After securing employment as a greaser in New Orleans, Oswald asked his wife to join him, while he misled them about his job, claiming to work as a commercial photographer. He lost that job due to unsatisfactory work and spending excessive time in the garage reading magazines. His activities with the Fair Play for Cuba Committee complicated his employment prospects, leading to negative references from previous employers. Eventually, he found work with the Texas School Book Depository.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 The Commission concluded that on April 10, 1963, Oswald shot at Maj. Gen. Edwin A. Walker, reflecting his inclination towards dramatic and violent action to express his beliefs. This shooting was planned in advance, with Oswald studying bus schedules and preparing his attack meticulously. He even posed for photographs with his rifle and relevant publications shortly before the incident.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="405">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>I kept the note to use against him if something like that should be repeated again.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>He forgot about it. But apparently after he thought that what he had written in his book might be proof against him, and he destroyed it.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="405">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>I kept the note to use against him if something like that should be repeated again.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>He forgot about it. But apparently after he thought that what he had written in his book might be proof against him, and he destroyed it.</content>
+                </quote>
+            </quotes>
+            <texts>
                 After his attack on General Walker, Oswald left a note for Marina outlining what to do if he were apprehended, along with a notebook and photos of himself with the rifle. Marina discovered the note after becoming worried about his absence and testified that she was agitated and angry when Oswald revealed his actions to her. She insisted he promise not to repeat such behavior and kept the note as leverage.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 Marina noted that Oswald later burned his notebook, despite her advice to discard it beforehand. This indicates a lack of concern about keeping incriminating evidence, as he left behind material that could easily have implicated him had he been captured. His behavior suggested he might have wanted to be caught, or at least wanted his involvement known if he was apprehended.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="406">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>I asked him what for he was making all these entries in the book and he answered that he wanted to leave a complete record so that all the details would be in it.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>He was a very bad man, that he was a fascist, that he was the leader of a fascist organization.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="406">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>I asked him what for he was making all these entries in the book and he answered that he wanted to leave a complete record so that all the details would be in it.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>He was a very bad man, that he was a fascist, that he was the leader of a fascist organization.</content>
+                </quote>
+            </quotes>
+            <texts>
                 The attempt on General Walker's life reveals insights into Oswald's motives for the assassination of Kennedy. There are notable differences in his planning and actions, but similarities also exist that warrant examination. The items Oswald left behind during his attack on Walker indicate a strong desire to document his place in history. If the attack had succeeded, the photographs of him with his rifle, alongside Communist and Socialist Worker's Party newspapers, would likely have received significant media coverage, paralleling the aftermath of the Kennedy assassination.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 This concern for legacy suggests that Oswald viewed his actions as historically significant. Despite perceptions that he was not dangerous, the Walker incident demonstrates Oswald's willingness and determination to carry out a planned assassination if he deemed it justified. His rationale for attacking Walker reflects a mindset that equated the general with figures like Adolf Hitler, suggesting that he believed violent action against perceived fascists could be justified to save lives.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="407">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>V. T. Lee</Character>
-                <Character>Carlos Bringuier</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>He threatened to beat her if she did not sign.</Content>
-                </Quote>
-            </Quotes>
-            <Text>
+    
+    <page number="407">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>V. T. Lee</character>
+                <character>Carlos Bringuier</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>He threatened to beat her if she did not sign.</content>
+                </quote>
+            </quotes>
+            <texts>
                 Lee Oswald's involvement with the Fair Play for Cuba Committee (FPCC) began in earnest in New Orleans, where he printed handbills under the pseudonym "Lee Osborne." These handbills called for "Hands Off Cuba" and promoted membership in the local FPCC chapter. He distributed this literature without incident on June 16, 1963, but later engaged in confrontations with anti-Castro exiles, leading to his arrest on multiple occasions in August 1963.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 Despite his public activities, Oswald's chapter was a figment of his imagination, with a fictitious president named A. J. Hidell—also the name he used to purchase the rifle used in the assassination. Marina Oswald testified that she was coerced into signing the membership card under threat. The chapter had no formal charter from the national FPCC, and Oswald's claims about its membership and operations were exaggerated.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 Oswald's FPCC activities reflected a desire for self-promotion and manipulation of public perception. His letters to the national director of the FPCC were often misleading, claiming substantial activity and support that did not exist. He described the closure of a supposed FPCC office in vague terms and inflated the number of circulars distributed, portraying himself as a dedicated activist despite operating in isolation.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="408">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>V. T. Lee</Character>
-                <Character>Carlos Bringuier</Character>
-                <Character>William Stuckey</Character>
-            </Characters>
-            <Text>
+    
+    <page number="408">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>V. T. Lee</character>
+                <character>Carlos Bringuier</character>
+                <character>William Stuckey</character>
+            </characters>
+            <texts>
                 Despite Oswald's claims of street demonstrations being attacked, the Commission found no evidence supporting such incidents apart from the confrontation with Carlos Bringuier, which occurred after Oswald wrote to V. T. Lee. Bringuier, familiar with anti-Castro activities, was unaware of any such events, and police reports only documented Oswald's earlier, uneventful literature distribution in June.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 Oswald's subsequent letter to V. T. Lee indicated that he may have exaggerated his experiences, especially regarding the street demonstration. While he had stamped literature with "FPCC 544 Camp St. NEW ORLEANS, LA.," investigations failed to link him to that address, although an anti-Castro organization had operated there until early 1962. The Commission found no evidence that Oswald rented an office in New Orleans, nor did his claims of distributing "thousands" of circulars hold up, as he had printed only 1,000.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 In another letter dated August 17, 1963, Oswald claimed he had appeared on a television program called "Latin American Focus" and was subsequently inundated with calls and invitations to debate. However, WDSU did not air such a program; Oswald was instead briefly featured on "Latin Listening Post." His claim of receiving numerous calls was also exaggerated, with only one known caller being an associate of Bringuier trying to uncover the reality of Oswald's FPCC involvement.
-            </Text>
-            <Text>
+            </texts>
+            <texts>
                 Oswald's aspirations for attention mirrored his earlier experiences in the Soviet Union and reflected his desire for notoriety upon returning to the U.S. However, the limited recognition he received from his activities in New Orleans left him unsatisfied, prompting him to embellish his accomplishments in communications with V. T. Lee.
-            </Text>
-        </page>
-    </Discussion>
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="409">
-            <Text>
+    
+    <page number="409">
+    <discussion>
+            <texts>
                 This page reproduces a photograph of Oswald distributing Fair Play for Cuba handbills in New Orleans on August 16, 1963. Insets show samples of his handbills, which feature his name and the name "A. J. Hidell." (COMMISSION EXHIBIT 2966 A, COMMISSION EXHIBIT 2966 B, and GARNER DEPOSITION EXHIBIT 1.)
-            </Text>
-                <Handbill>
-                    <Content>
+            </texts>
+                <handbill>
+                    <content>
                         HANDS OFF CUBA! Join the Fair Play for Cuba Committee. 
                         NEW ORLEANS CHARTER MEMBER BRANCH. 
                         Free Literature, Lectures 
                         LOCATION: [Stamps of Oswald/Hidell address]. 
                         EVERYONE WELCOME!
-                    </Content>
-                </Handbill>
-        </page>
-    </Discussion>
+                    </content>
+                </handbill>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="410">
-            <Text>
+    
+    <page number="410">
+    <discussion>
+            <texts>
                 His attempt to express himself through his Fair Play for Cuba activities, however, was greatly impeded by the fact that the radio debate over WDSU on August 21, 1963, brought out the history of his defection to the Soviet Union. The basic facts of the event were uncovered independently by William Stuckey, who arranged the debate, and Edward Butler, executive director of the Information Council of the Americas, who also appeared on the program. Oswald was confronted with those facts at the beginning of the debate and was so thrown on the defensive by this that he was forced to state that Fair Play for Cuba was "not at all Communist controlled regardless of the fact that I had the experience of living in Russia."
-            </Text>
-            <Quote>
-                <Content>
+            </texts>
+            <quote>
+                <content>
                     Stuckey testified that uncovering Oswald's defection was very important:
                     "I think that we finished him on that program... because we had publicly linked the Fair Play for Cuba Committee with a fellow who had lived in Russia for 3 years and who was an admitted Marxist."
-                </Content>
-            </Quote>
-            <Text>
+                </content>
+            </quote>
+            <texts>
                 The interesting thing, or rather the danger involved, was the fact that Oswald seemed like such a nice, bright boy and was extremely believable before this. We thought the fellow could probably get quite a few members if he was really indeed serious about getting members. We figured after this broadcast of August 21, why, that was no longer possible.
-            </Text>
-            <Quote>
-                <Content>
+            </texts>
+            <quote>
+                <content>
                     In spite of the fact that Oswald had been surprised and was on the defensive throughout the debate, according to Stuckey: "Mr. Oswald handled himself very well, as usual." Stuckey thought Oswald "appeared to be a very logical, intelligent fellow," and "was arrested by his cleancutness." He did not think Oswald looked like the "type" that he would have expected to find associating with a group such as the Fair Play for Cuba Committee.
-                </Content>
-            </Quote>
-            <Text>
+                </content>
+            </quote>
+            <texts>
                 Following the disclosure of his defection, Oswald sought advice from the Communist Party, U.S.A., concerning his Fair Play for Cuba activity. He had previously sent, apparently unsolicited, to the Party newspaper, the Worker, samples of his photographic work, offering to contribute that sort of service without charge. The Worker replied: "Your kind offer is most welcomed and from time to time we shall call on you." He later wrote to another official of the Worker, seeking employment, and mentioning the praise he had received for submitting his photographic work.
-            </Text>
-            <Quote>
-                <Content>
+            </texts>
+            <quote>
+                <content>
                     He presented Arnold Johnson, Gus Hall, and Benjamin J. Davis honorary membership cards in his nonexistent New Orleans chapter of the Fair Play for Cuba Committee, and advised them of some of his activities on behalf of the organization.
-                </Content>
-            </Quote>
-        </page>
-    </Discussion>
-    
-    <Discussion>
-        <page number="411">
-            <Text>
-                formation and lecture bureau of the Communist Party, U.S.A., replied stating:
-            </Text>
-            <Quote>
-                <Content>
-                    "It is good to know that movements in support of fair play for Cuba have developed in New Orleans as well as in other cities. We do not have any organizational ties with the Committee, and yet there is much material that we issue from time to time that is important for anybody who is concerned about developments in Cuba."
-                </Content>
-            </Quote>
-            <Text>
-                Marina Oswald said that such correspondence from people he considered important meant much to Oswald. After he had begun his Cuban activity in New Orleans, "he received a letter from somebody in New York, some Communist--probably from New York--I am not sure from where--from some Communist leader and he was very happy, he felt that this was a great man that he had received the letter from." Since he seemed to feel that no one else understood his political views, the letter was of great value to him for it "was proof ... that there were people who understood his activity."
-            </Text>
-            <Quote>
-                <Content>
-                    He anticipated that the full disclosure of his defection would hinder him in "the struggle for progress and freedom in the United States" into which Oswald, in his own words, had "thrown" himself. He sought advice from the central committee of the Communist Party, U.S.A., in a letter dated August 28, 1963, about whether he could "continue to fight, handicapped as it were, by my past record ... [and] compete with anti-progressive forces, above-ground or whether in your opinion I should always remain in the background, i.e. underground."
-                </Content>
-            </Quote>
-            <Text>
-                Stating that he had used his "position" with what he claimed to be the local branch of the Fair Play for Cuba Committee to "foster communist ideals," Oswald wrote that he felt that he might have compromised the FPCC and expressed concern lest "Our opponents could use my background of residence in the U.S.S.R. against any cause which I join, by association, they could say the organization of which I am a member, is Russian controlled, etc."
-            </Text>
-            <Quote>
-                <Content>
-                    In reply Arnold Johnson advised Oswald that, while as an American citizen he had a right to participate in such organizations as he wished, "there are a number of organizations, including possibly Fair Play, which are of a very broad character, and often it is advisable for some people to remain in the background, not underground."
-                </Content>
-            </Quote>
-            <Text>
-                By August of 1963, after a short 3 months in New Orleans, the city in which he had been born and had lived most of his early life, Oswald had fallen on difficult times. He had not liked his job as a greaser of coffee processing machinery and he held it for only a little over 2 months. He had not found another job. His wife was expecting their second child in October and there was concern about the cost which would be involved. His brief foray on behalf of the Fair Play for Cuba Committee had failed to win any support.
-            </Text>
-        </page>
-    </Discussion>
-    
-    <Discussion>
-        <page number="412">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>V. T. Lee</Character>
-                <Character>Arnold Johnson</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>He became less active, he cooled off a little.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I want to return to the Soviet Union with you.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>His basic desire was to get to Cuba by any means.</Content>
-                </Quote>
-            </Quotes>
-        </page>
-    </Discussion>
-    
-    <Discussion>
-        <page number="413">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>Ruth Paine</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>He wanted to be arrested. I think he wanted to get into the newspapers.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I should be accepted as a 'friend' of the Cuban Revolution.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Consul</Speaker>
-                    <Content>A person like him is doing the Cuban Revolution harm.</Content>
-                </Quote>
-            </Quotes>
-        </page>
-    </Discussion>
-    
-    <Discussion>
-    <page number="414">
-        <Characters>
-            <Character>Lee Oswald</Character>
-            <Character>President Kennedy</Character>
-            <Character>Fidel Castro</Character>
-            <Character>Michael Paine</Character>
-            <Character>Ruth Paine</Character>
-        </Characters>
-        <Quotes>
-            <Quote>
-                <Speaker>Lee Oswald</Speaker>
-                <Content>You could tell what they wanted you to do by reading between the lines.</Content>
-            </Quote>
-            <Quote>
-                <Speaker>Fidel Castro</Speaker>
-                <Content>Cuba could not accept a situation where the United States was trying to ease world tensions while tightening the noose around Cuba.</Content>
-            </Quote>
-            <Quote>
-                <Speaker>President Kennedy</Speaker>
-                <Content>All but invited the Cuban people to overthrow Fidel Castro's Communist regime.</Content>
-            </Quote>
-        </Quotes>
+                </content>
+            </quote>
+    </discussion>
     </page>
-    </Discussion>
     
-    <Discussion>
-        <page number="415">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>President Kennedy</Character>
-                <Character>Fidel Castro</Character>
-                <Character>Arnold Johnson</Character>
-                <Character>Adlai Stevenson</Character>
-                <Character>Lyndon Johnson</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Witness</Speaker>
-                    <Content>Oswald had expressed approval of President Kennedy's active role in the area of civil rights.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I have lost my desire to go to Cuba because of the bureaucracy and red tape.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Letter to Arnold Johnson</Speaker>
-                    <Content>[Content of the letter not provided in the excerpt.]</Content>
-                </Quote>
-            </Quotes>
-        </page>
-    </Discussion>
     
-    <Discussion>
-        <page number="416">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>General Edwin A. Walker</Character>
-                <Character>A. E. Stevenson</Character>
-                <Character>Ruth Paine</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I attended a ultra-right meeting headed by General Edwin A. Walker.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>After his return from Mexico, he changed for the better. He began to treat me better.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I found myself in love with Marina.</Content>
-                </Quote>
-            </Quotes>
-        </page>
-    </Discussion>
+    <page number="411">
+    <discussion>
+            <texts>
+                formation and lecture bureau of the Communist Party, U.S.A., replied stating:
+            </texts>
+            <quote>
+                <content>
+                    "It is good to know that movements in support of fair play for Cuba have developed in New Orleans as well as in other cities. We do not have any organizational ties with the Committee, and yet there is much material that we issue from time to time that is important for anybody who is concerned about developments in Cuba."
+                </content>
+            </quote>
+            <texts>
+                Marina Oswald said that such correspondence from people he considered important meant much to Oswald. After he had begun his Cuban activity in New Orleans, "he received a letter from somebody in New York, some Communist--probably from New York--I am not sure from where--from some Communist leader and he was very happy, he felt that this was a great man that he had received the letter from." Since he seemed to feel that no one else understood his political views, the letter was of great value to him for it "was proof ... that there were people who understood his activity."
+            </texts>
+            <quote>
+                <content>
+                    He anticipated that the full disclosure of his defection would hinder him in "the struggle for progress and freedom in the United States" into which Oswald, in his own words, had "thrown" himself. He sought advice from the central committee of the Communist Party, U.S.A., in a letter dated August 28, 1963, about whether he could "continue to fight, handicapped as it were, by my past record ... [and] compete with anti-progressive forces, above-ground or whether in your opinion I should always remain in the background, i.e. underground."
+                </content>
+            </quote>
+            <texts>
+                Stating that he had used his "position" with what he claimed to be the local branch of the Fair Play for Cuba Committee to "foster communist ideals," Oswald wrote that he felt that he might have compromised the FPCC and expressed concern lest "Our opponents could use my background of residence in the U.S.S.R. against any cause which I join, by association, they could say the organization of which I am a member, is Russian controlled, etc."
+            </texts>
+            <quote>
+                <content>
+                    In reply Arnold Johnson advised Oswald that, while as an American citizen he had a right to participate in such organizations as he wished, "there are a number of organizations, including possibly Fair Play, which are of a very broad character, and often it is advisable for some people to remain in the background, not underground."
+                </content>
+            </quote>
+            <texts>
+                By August of 1963, after a short 3 months in New Orleans, the city in which he had been born and had lived most of his early life, Oswald had fallen on difficult times. He had not liked his job as a greaser of coffee processing machinery and he held it for only a little over 2 months. He had not found another job. His wife was expecting their second child in October and there was concern about the cost which would be involved. His brief foray on behalf of the Fair Play for Cuba Committee had failed to win any support.
+            </texts>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="417">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>Ruth Paine</Character>
-                <Character>Katherine Ford</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>If he wanted me to go to Russia, that meant he didn't love me.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I am just waiting for an opportunity to hurt him.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lieutenant Martello</Speaker>
-                    <Content>Oswald stated that he did not speak English in his family because he did not want them to become Americanized.</Content>
-                </Quote>
-            </Quotes>
-        </page>
-    </Discussion>
     
-    <Discussion>
-        <page number="418">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>George De Mohrenschildt</Character>
-                <Character>Jeanne De Mohrenschildt</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>I was very lonely in the United States.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>Generally, I think that was right, for such things that is the right thing to do.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>George De Mohrenschildt</Speaker>
-                    <Content>She was annoying him all the time—"Why don't you make some money?"</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Jeanne De Mohrenschildt</Speaker>
-                    <Content>Marina Oswald said things that will hurt men's pride.</Content>
-                </Quote>
-            </Quotes>
-        </page>
-    </Discussion>
+    <page number="412">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>V. T. Lee</character>
+                <character>Arnold Johnson</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>He became less active, he cooled off a little.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I want to return to the Soviet Union with you.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>His basic desire was to get to Cuba by any means.</content>
+                </quote>
+            </quotes>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="419">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>Ruth Paine</Character>
-                <Character>Michael Paine</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>I told him that he shouldn't come every week.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>If you don't want me to come, I won't.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I did not want his landlady to know his real name.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>He exaggerated their concern for him to emphasize his importance.</Content>
-                </Quote>
-            </Quotes>
-        </page>
-    </Discussion>
     
-    <Discussion>
-        <page number="420">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-                <Character>FBI Agent Hosty</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>The F.B.I. will again take an 'interest' in me.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>After all, when will all your foolishness come to an end?</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>He tried very hard to please me.</Content>
-                </Quote>
-            </Quotes>
-            <Events>
-                <Event>
-                    <Description>Oswald returned home on November 21, 1963, feeling lonely after not visiting the previous weekend.</Description>
-                </Event>
-            </Events>
-        </page>
-    </Discussion>
+    <page number="413">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>Ruth Paine</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>He wanted to be arrested. I think he wanted to get into the newspapers.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I should be accepted as a 'friend' of the Cuban Revolution.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Consul</spokesperson>
+                    <content>A person like him is doing the Cuban Revolution harm.</content>
+                </quote>
+            </quotes>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="421">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>I said it would be better if I remained with Ruth until the holidays.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Lee Oswald</Speaker>
-                    <Content>I will buy you a washing machine.</Content>
-                </Quote>
-            </Quotes>
-            <Events>
-                <Event>
-                    <Description>Oswald suggested renting an apartment in Dallas, wanting to live with his wife.</Description>
-                </Event>
-                <Event>
-                    <Description>Oswald left his wedding ring and $170 in a drawer, taking only $13.87 and a long brown package to work.</Description>
-                </Event>
-            </Events>
-        </page>
-    </Discussion>
     
-    <Discussion>
-        <page number="422">
-            <Characters>
-                <Character>Lee Oswald</Character>
-                <Character>Marina Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>He suggested that we rent an apartment in Dallas. He said that he was tired of living alone.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>I told him that it would be better if I remained with Ruth until the holidays.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Marina Oswald</Speaker>
-                    <Content>He wanted me to live with him in Dallas.</Content>
-                </Quote>
-            </Quotes>
-            <Summary>
-                <Content>Oswald's feelings of loneliness and desire for reconciliation with his wife were evident when he returned home, hoping to improve their relationship.</Content>
-            </Summary>
-        </page>
-    </Discussion>
+    <page number="414">
+    <discussion>
+    <characters>
+            <character>Lee Oswald</character>
+            <character>President Kennedy</character>
+            <character>Fidel Castro</character>
+            <character>Michael Paine</character>
+            <character>Ruth Paine</character>
+    </characters>
+    <quotes>
+            <quote>
+                <spokesperson>Lee Oswald</spokesperson>
+                <content>You could tell what they wanted you to do by reading between the lines.</content>
+            </quote>
+            <quote>
+                <spokesperson>Fidel Castro</spokesperson>
+                <content>Cuba could not accept a situation where the United States was trying to ease world tensions while tightening the noose around Cuba.</content>
+            </quote>
+            <quote>
+                <spokesperson>President Kennedy</spokesperson>
+                <content>All but invited the Cuban people to overthrow Fidel Castro's Communist regime.</content>
+            </quote>
+    </quotes>
+    </discussion>
+    </page>
     
-    <Discussion>
-        <page number="423">
-            <Characters>
-                <Character>Lee Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Commission</Speaker>
-                    <Content>The Commission does not believe that the relations between Oswald and his wife caused him to assassinate the President.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Commission</Speaker>
-                    <Content>Oswald was moved by an overriding hostility to his environment.</Content>
-                </Quote>
-                <Quote>
-                    <Speaker>Commission</Speaker>
-                    <Content>He sought for himself a place in history--a role as the "great man" who would be recognized as having been in advance of his times.</Content>
-                </Quote>
-            </Quotes>
-            <Summary>
-                <Content>The Commission concludes that Oswald's assassination of President Kennedy was driven by deep-seated hostility and a quest for significance, rather than simple personal grievances.</Content>
-            </Summary>
-        </page>
-    </Discussion>
     
-    <Discussion>
-        <page number="424">
-            <Characters>
-                <Character>Lee Oswald</Character>
-            </Characters>
-            <Quotes>
-                <Quote>
-                    <Speaker>Commission</Speaker>
-                    <Content>Oswald also had demonstrated a capacity to act decisively and without regard to the consequences when such action would further his aims of the moment.</Content>
-                </Quote>
-            </Quotes>
-            <Summary>
-                <Content>The Commission concludes that various factors shaped Oswald's character, enabling him to carry out the assassination of President Kennedy.</Content>
-            </Summary>
-        </page>
-    </Discussion>
-</Chapter>
-</root>
+    <page number="415">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>President Kennedy</character>
+                <character>Fidel Castro</character>
+                <character>Arnold Johnson</character>
+                <character>Adlai Stevenson</character>
+                <character>Lyndon Johnson</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Witness</spokesperson>
+                    <content>Oswald had expressed approval of President Kennedy's active role in the area of civil rights.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I have lost my desire to go to Cuba because of the bureaucracy and red tape.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Letter to Arnold Johnson</spokesperson>
+                    <content>[Content of the letter not provided in the excerpt.]</content>
+                </quote>
+            </quotes>
+    </discussion>
+    </page>
+    
+    
+    <page number="416">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>General Edwin A. Walker</character>
+                <character>A. E. Stevenson</character>
+                <character>Ruth Paine</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I attended a ultra-right meeting headed by General Edwin A. Walker.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>After his return from Mexico, he changed for the better. He began to treat me better.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I found myself in love with Marina.</content>
+                </quote>
+            </quotes>
+    </discussion>
+    </page>
+    
+    
+    <page number="417">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>Ruth Paine</character>
+                <character>Katherine Ford</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>If he wanted me to go to Russia, that meant he didn't love me.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I am just waiting for an opportunity to hurt him.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lieutenant Martello</spokesperson>
+                    <content>Oswald stated that he did not speak English in his family because he did not want them to become Americanized.</content>
+                </quote>
+            </quotes>
+    </discussion>
+    </page>
+    
+    
+    <page number="418">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>George De Mohrenschildt</character>
+                <character>Jeanne De Mohrenschildt</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>I was very lonely in the United States.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>Generally, I think that was right, for such things that is the right thing to do.</content>
+                </quote>
+                <quote>
+                    <spokesperson>George De Mohrenschildt</spokesperson>
+                    <content>She was annoying him all the time—"Why don't you make some money?"</content>
+                </quote>
+                <quote>
+                    <spokesperson>Jeanne De Mohrenschildt</spokesperson>
+                    <content>Marina Oswald said things that will hurt men's pride.</content>
+                </quote>
+            </quotes>
+    </discussion>
+    </page>
+    
+    
+    <page number="419">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>Ruth Paine</character>
+                <character>Michael Paine</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>I told him that he shouldn't come every week.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>If you don't want me to come, I won't.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I did not want his landlady to know his real name.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>He exaggerated their concern for him to emphasize his importance.</content>
+                </quote>
+            </quotes>
+    </discussion>
+    </page>
+    
+    
+    <page number="420">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+                <character>FBI Agent Hosty</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>The F.B.I. will again take an 'interest' in me.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>After all, when will all your foolishness come to an end?</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>He tried very hard to please me.</content>
+                </quote>
+            </quotes>
+            <events>
+                <event>
+                    <description>Oswald returned home on November 21, 1963, feeling lonely after not visiting the previous weekend.</description>
+                </event>
+            </events>
+    </discussion>
+    </page>
+    
+    
+    <page number="421">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>I said it would be better if I remained with Ruth until the holidays.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Lee Oswald</spokesperson>
+                    <content>I will buy you a washing machine.</content>
+                </quote>
+            </quotes>
+            <events>
+                <event>
+                    <description>Oswald suggested renting an apartment in Dallas, wanting to live with his wife.</description>
+                </event>
+                <event>
+                    <description>Oswald left his wedding ring and $170 in a drawer, taking only $13.87 and a long brown package to work.</description>
+                </event>
+            </events>
+    </discussion>
+    </page>
+    
+    
+    <page number="422">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+                <character>Marina Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>He suggested that we rent an apartment in Dallas. He said that he was tired of living alone.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>I told him that it would be better if I remained with Ruth until the holidays.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Marina Oswald</spokesperson>
+                    <content>He wanted me to live with him in Dallas.</content>
+                </quote>
+            </quotes>
+            <summary>
+                <content>Oswald's feelings of loneliness and desire for reconciliation with his wife were evident when he returned home, hoping to improve their relationship.</content>
+            </summary>
+    </discussion>
+    </page>
+    
+    
+    <page number="423">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Commission</spokesperson>
+                    <content>The Commission does not believe that the relations between Oswald and his wife caused him to assassinate the President.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Commission</spokesperson>
+                    <content>Oswald was moved by an overriding hostility to his environment.</content>
+                </quote>
+                <quote>
+                    <spokesperson>Commission</spokesperson>
+                    <content>He sought for himself a place in history--a role as the "great man" who would be recognized as having been in advance of his times.</content>
+                </quote>
+            </quotes>
+            <summary>
+                <content>The Commission concludes that Oswald's assassination of President Kennedy was driven by deep-seated hostility and a quest for significance, rather than simple personal grievances.</content>
+            </summary>
+    </discussion>
+    </page>
+    
+    
+    <page number="424">
+    <discussion>
+            <characters>
+                <character>Lee Oswald</character>
+            </characters>
+            <quotes>
+                <quote>
+                    <spokesperson>Commission</spokesperson>
+                    <content>Oswald also had demonstrated a capacity to act decisively and without regard to the consequences when such action would further his aims of the moment.</content>
+                </quote>
+            </quotes>
+            <summary>
+                <content>The Commission concludes that various factors shaped Oswald's character, enabling him to carry out the assassination of President Kennedy.</content>
+            </summary>
+    </discussion>
+    </page>
+</wrstart>

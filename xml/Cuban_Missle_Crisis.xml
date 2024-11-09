@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cuban_missile_crisis>
+<wrstart>
     <overview>
         <date>October 1962</date>
         <duration>13 days</duration>
@@ -12,14 +12,14 @@
         <outcome>Peaceful resolution</outcome>
     </overview>
     
-    <kennedy_response>
+    <topic subject="kennedy_response">
         <action>Secret meetings with advisors</action>
         <decision>Place naval blockade (quarantine) around Cuba</decision>
         <objective>Prevent Soviet military supplies from reaching Cuba</objective>
         <demand>Removal of Soviet missiles from Cuba and destruction of missile sites</demand>
-    </kennedy_response>
+    </topic>
     
-    <kennedy_address>
+    <topic subject="kennedy_address">
         <date>October 22, 1962</date>
         <medium>Televised address</medium>
         <content>
@@ -27,9 +27,9 @@
             <tone>Firm, but aimed at avoiding escalation</tone>
         </content>
         <link>JFKWHA-142-001</link>
-    </kennedy_address>
+    </topic>
     
-    <soviet_response>
+    <topic subject="soviet_response">
         <leader>Nikita Khrushchev</leader>
         <action>Negotiation for a peaceful resolution</action>
         <agreement>
@@ -38,9 +38,9 @@
             <secret_deal>Remove US missiles from Turkey (kept secret for 25 years)</secret_deal>
         </agreement>
         <consequence>Escalation of the Soviet military arsenal, but no nuclear war</consequence>
-    </soviet_response>
+    </topic>
     
-    <resolution>
+    <topic subject="resolution">
         <date>October 1962</date>
         <outcome>End of the Cuban Missile Crisis</outcome>
         <key_elements>
@@ -49,9 +49,9 @@
             <element>Secret removal of US missiles from Turkey</element>
         </key_elements>
         <arms_race>Continued escalation despite resolution</arms_race>
-    </resolution>
+    </topic>
     
-    <aftermath>
+    <topic subject="aftermath">
         <year>1963</year>
         <actions>
             <action>Commencement address at American University</action>
@@ -66,10 +66,10 @@
             <treaty>Limited Nuclear Test Ban Treaty signed</treaty>
             <goal>Reduce nuclear arms testing</goal>
         </nuclear_test_ban>
-    </aftermath>
+    </topic>
     
-    <kennedy_message>
+    <topic subject="kennedy_message">
         <quote>“For, in the final analysis, our most basic common link is that we all inhabit this small planet. We all breathe the same air. We all cherish our children's future. And we are all mortal.”</quote>
         <date>June 1963</date>
-    </kennedy_message>
-</cuban_missile_crisis>
+    </topic>
+</wrstart>

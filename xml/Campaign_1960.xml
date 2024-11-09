@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<campaign_1960>
+<wrstart>
     <overview>
         <cold_war_tensions>
             <event>Soviets launch Sputnik</event>
@@ -17,7 +17,7 @@
         </public_opinion>
     </overview>
     
-    <candidates>
+    <topic subject="candidates">
         <kennedy>
             <name>John Fitzgerald Kennedy</name>
             <party>Democratic</party>
@@ -46,9 +46,9 @@
             <campaign_message>Maintain American prestige, leadership, and military strength</campaign_message>
             <polls>Led after conventions</polls>
         </nixon>
-    </candidates>
+    </topic>
     
-    <debates>
+    <topic subject="debates">
         <first_debate>
             <date>September 26, 1960</date>
             <viewership>
@@ -63,9 +63,9 @@
             </nixon>
             <impact>Reshaped campaign, issues of experience and maturity faded</impact>
         </first_debate>
-    </debates>
+    </topic>
     
-    <key_issues>
+    <topic subject="key_issues">
         <religion>
             <kennedy_statement>
                 "I believe in an America where the separation of church and state is absolute..."
@@ -81,14 +81,14 @@
             <endorsement>Martin Luther King Sr. endorsed Kennedy</endorsement>
             <outcome>Increased support from Black voters</outcome>
         </civil_rights>
-    </key_issues>
+    </topic>
     
-    <final_days>
+    <topic subject="final_days">
         <eisenhower_campaigning>President Eisenhower campaigned for Republican candidates</eisenhower_campaigning>
         <polls>Election declared a toss-up</polls>
-    </final_days>
+    </topic>
     
-    <election_results>
+    <topic subject="election_results">
         <date>November 8, 1960</date>
         <popular_vote_margin>118,550 votes</popular_vote_margin>
         <total_votes>69 million</total_votes>
@@ -100,5 +100,5 @@
             <youngest_president>First Catholic president</youngest_president>
             <born_in_20th_century>First president born in the 20th century</born_in_20th_century>
         </historical_significance>
-    </election_results>
-</campaign_1960>
+    </topic>
+</wrstart>
