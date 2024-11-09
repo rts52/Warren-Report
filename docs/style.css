@@ -1,0 +1,102 @@
+/* Curb your "amazement", I ripped most of this off from my old webdev course ~Daniel*/
+body {
+  background-color: grey;
+/*background-image: url("background image here");*/
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+}
+header, nav, main, footer 
+{
+    background-color:white;
+    display:block;
+    margin:25px 100px;
+}
+nav{
+   background-color: lightblue;
+   font-weight:bold;
+   width:100%;
+   margin:0 0 1em 0;
+   padding:0;
+   float:left;
+   text-align:center;
+}
+nav a{
+text-decoration:none;
+}
+nav ul{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+nav li{
+display:inline-block;
+}
+main {
+  font-size:90%;
+  margin:0;
+  padding:2em;
+  }
+h1, h2, h3, h4, h5, h6, p{
+    margin:35px 10px;
+}
+/*Got that only HTML and CSS, early 2000s, chique ~Daniel (I'm sorry)*/
+#wrapper
+{background-color: #ffffff;
+ width:80%;
+ min-width:700px;
+ max-width:1024px;
+ margin-right:auto;
+ margin-left:auto; 
+ box-shadow:4px 4px;}
+/*a{
+    color: (link color here);
+}*/
+
+/* Mobile/Small screen support pending ~Daniel
+ * "Here Lies Madness." Venture at your own risk.
+ * 
+ * @media only screen and (max-width: 1024px)
+{body
+ {background-image: none;
+  margin: 0;}
+ #wrapper
+ {box-shadow:none;
+  margin:0;
+  min-width:0;
+  width:auto;}
+    h1 {
+     background-position: center;
+     background-repeat: no-repeat;
+     height: 80px;}
+ nav{float:none;
+     margin-top:0;
+     padding-top:0;
+     width:auto;}
+ nav li
+ {display:inline-block;}
+ nav ul
+ {margin:0;
+  padding:0;}
+ main
+ {font-size:90%;
+  margin:0;
+  padding:2em;}}
+@media only screen and (max-width: 768px)
+{h2
+ {padding:.5em 0em 0em .5em;
+  margin-right:.5em;}
+ nav a{border-bottom:1px #330000;
+       display:block;
+       padding:0.2em;
+       width:auto;}
+ nav li
+ {display:block}
+ .details
+ {padding-left:0;
+  padding-right:0;}
+ .floatright
+ {display:none;}
+ .floatleft
+ {padding-left:.5em;
+  padding-right:.5em;}} */
