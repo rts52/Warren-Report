@@ -1,0 +1,34 @@
+ALL THE CHANGES I MADE:
+
+- In general root has been changed to wrstart, no particular reason for this.
+
+CHAPTER 7:
+- Changed all the elements so that they are all lowercase to account for the schema
+- There is one discussion element outside of page elements, so I changed it to <starter> to avoid overlaps
+- About halfway through the XML, discussion elements were made outside of the page elements whereas before they were 
+inside the page elements. !!I DID NOT CHANGE THIS YET AS I DON'T KNOW HOW TO!!
+-changed <text> to <texts>
+
+
+CHAPTER 5:
+- This one is planned to reworked from the ground up so don't account for it just yet
+
+
+LHOBIOPT2
+- Quote spelled correctly
+
+KENNEDY_ASSASINATION
+- elements named after events have been simplified to <topic subject="[ORIGINAL ELEMENT]">
+
+CUBAN_MISSLE_CRISIS
+- elements named after events have been simplified to <topic subject="[ORIGINAL ELEMENT]">
+
+COLD_WAR
+- elements named after events have been simplified to <topic subject="[ORIGINAL ELEMENT]">
+
+CAMPAIGN_1960
+- elements named after events have been simplified to <topic subject="[ORIGINAL ELEMENT]">
+
+BAY_OF_PIGS
+- elements named after events have been simplified to <topic subject="[ORIGINAL ELEMENT]">
+
