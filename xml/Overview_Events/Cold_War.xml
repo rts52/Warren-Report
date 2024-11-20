@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wrstart>
+    <overview>
+        <definition>The Cold War was a decades-long struggle for global supremacy between the United States and its allies, and the Soviet Union and its satellite states.</definition>
+        <key_elements>
+            <tension_types>
+                <type>Political maneuvering</type>
+                <type>Military coalitions</type>
+                <type>Espionage</type>
+                <type>Propaganda</type>
+                <type>Arms buildups</type>
+                <type>Economic aid</type>
+                <type>Proxy wars</type>
+            </tension_types>
+            <direct_conflict>false</direct_conflict>
+            <superpowers>
+                <superpower>
+                    <name>United States</name>
+                    <alliances>Western allies</alliances>
+                </superpower>
+                <superpower>
+                    <name>Soviet Union</name>
+                    <alliances>Soviet satellite states</alliances>
+                </superpower>
+            </superpowers>
+        </key_elements>
+    </overview>
+    
+    <topic subject="from_allies_to_adversaries">
+        <world_war_ii_alliance>
+            <countries>
+                <country>United States</country>
+                <country>Soviet Union</country>
+            </countries>
+            <enemy>Nazi Germany</enemy>
+        </world_war_ii_alliance>
+        
+        <post_wwii_tensions>
+            <event>Potsdam Conference</event>
+            <date>July 1945</date>
+            <outcome>Tensions over the occupation of Germany</outcome>
+        </post_wwii_tensions>
+        
+        <soviet_expansion>
+            <region>Eastern Europe</region>
+            <countries>
+                <country>Poland</country>
+                <country>Hungary</country>
+                <country>Bulgaria</country>
+                <country>Czechoslovakia</country>
+                <country>Romania</country>
+                <country>Albania</country>
+                <country>East Germany</country>
+            </countries>
+        </soviet_expansion>
+        
+        <us_containment_policy>
+            <goal>Prevent spread of Soviet influence in Western Europe</goal>
+            <actions>
+                <action>Truman Doctrine (1947)</action>
+                <action>Marshall Plan (1947)</action>
+            </actions>
+        </us_containment_policy>
+    </topic>
+    
+    <topic subject="cold_war_international_conflict">
+        <asia>
+            <event>Communists win Chinese Civil War</event>
+            <year>1949</year>
+            <country>China</country>
+            <outcome>Soviet-China alliance</outcome>
+        </asia>
+        
+        <korean_war>
+            <start_year>1950</start_year>
+            <conflict>North Korea invades South Korea</conflict>
+            <us_involvement>UN and US troops intervene</us_involvement>
+            <soviet_involvement>China supports North Korea</soviet_involvement>
+            <end_year>1953</end_year>
+            <outcome>Truce</outcome>
+        </korean_war>
+        
+        <vietnam_war>
+            <event>French colonial regime falls</event>
+            <year>1954</year>
+            <us_involvement>Supports South Vietnam's military government</us_involvement>
+            <goal>Prevent communist expansion in Southeast Asia</goal>
+        </vietnam_war>
+        
+        <cuba>
+            <event>Fidel Castro overthrows Batista regime</event>
+            <year>1959</year>
+            <result>Cuba becomes a Soviet ally</result>
+        </cuba>
+    </topic>
+    
+    <topic subject="kennedy_and_the_cold_war">
+        <campaign_1960>
+            <cold_war_rhetoric>
+                <kennedy>Promised a tough stance on the Soviet Union</kennedy>
+                <nixon>Also pledged military strength and anti-communism</nixon>
+            </cold_war_rhetoric>
+            <nuclear_concerns>Soviet missile buildup</nuclear_concerns>
+            <criticism_of_eisenhower>Allowed pro-Soviet government in Cuba</criticism_of_eisenhower>
+        </campaign_1960>
+        
+        <kennedy_inaugural_address>
+            <date>January 1961</date>
+            <quote>"Pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and success of liberty."</quote>
+        </kennedy_inaugural_address>
+        
+        <bay_of_pigs>
+            <date>April 17, 1961</date>
+            <operation>Plan to train Cuban exiles for invasion</operation>
+            <result>Failure, force killed or captured</result>
+            <kennedy_response>Assumed full responsibility</kennedy_response>
+        </bay_of_pigs>
+        
+        <arms_race>
+            <first_meeting>
+                <leaders>
+                    <leader>John F. Kennedy</leader>
+                    <leader>Nikita Khrushchev</leader>
+                </leaders>
+                <location>Vienna, Austria</location>
+                <date>June 1961</date>
+                <outcome>Increased tensions, Khrushchev threatened Berlin access</outcome>
+            </first_meeting>
+            
+            <berlin_wall>
+                <date>August 1961</date>
+                <event>Soviets build the Berlin Wall</event>
+            </berlin_wall>
+            
+            <nuclear_buildup>
+                <kennedy_action>Increased American missile and air power</kennedy_action>
+                <soviet_reaction>Resumed nuclear testing</soviet_reaction>
+            </nuclear_buildup>
+        </arms_race>
+        
+        <cuban_missile_crisis>
+            <year>1962</year>
+            <event>US discovers Soviet missiles in Cuba</event>
+            <kennedy_response>
+                <action>Naval blockade ("quarantine")</action>
+                <demand>Remove missiles and destroy sites</demand>
+                <result>Soviets agree to withdraw missiles</result>
+            </kennedy_response>
+            <aftermath>Escalation in arms race</aftermath>
+        </cuban_missile_crisis>
+        
+        <peace_initiatives>
+            <speech>
+                <date>June 1963</date>
+                <location>American University, Washington, DC</location>
+                <message>Call for peace, reduce Cold War stereotypes</message>
+            </speech>
+            
+            <limited_nuclear_test_ban_treaty>
+                <date>1963</date>
+                <goal>Reduce nuclear testing</goal>
+                <result>Treaty signed</result>
+            </limited_nuclear_test_ban_treaty>
+            
+            <hotline>
+                <date>1963</date>
+                <purpose>Direct communication line between Washington and Moscow</purpose>
+                <goal>Reduce risk of miscalculation leading to war</goal>
+            </hotline>
+        </peace_initiatives>
+        
+        <vietnam>
+            <us_commitment>
+                <date>May 1961</date>
+                <action>500 Special Forces sent to South Vietnam</action>
+                <additional_support>12,000 military advisers by 1962</additional_support>
+                <statement>JFK: "It's their war, but we must help"</statement>
+            </us_commitment>
+            
+            <escalation>
+                <date>November 1963</date>
+                <troops>16,000 advisers</troops>
+                <kennedy_ambivalence>
+                    <quote>"We may not like it, but we have to participate in the defense of Asia."</quote>
+                    <decision>Uncertain about future US involvement</decision>
+                </kennedy_ambivalence>
+            </escalation>
+        </vietnam>
+    </topic>
+</wrstart>

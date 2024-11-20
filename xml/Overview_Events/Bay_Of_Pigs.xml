@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wrstart>
+    <overview>
+        <year>1959</year>
+        <leader>Fidel Castro</leader>
+        <overthrow>Fulgencio Batista</overthrow>
+        <us_reaction>
+            <government>Distrusted Castro</government>
+            <relationship_with_khrushchev>Wary of Soviet ties</relationship_with_khrushchev>
+        </us_reaction>
+    </overview>
+    
+    <topic subject="training">
+        <approval>
+            <president>Dwight D. Eisenhower</president>
+            <month>March</month>
+            <year>1960</year>
+        </approval>
+        <location>Guatemala</location>
+        <forces_trained>
+            <force_size>1400</force_size>
+            <mission>Assault landing and guerilla warfare</mission>
+        </forces_trained>
+        <leader>
+            <name>José Miró Cardona</name>
+            <role>Head of Cuban Revolutionary Council</role>
+            <description>Former member of Castro's government</description>
+        </leader>
+        <covert>
+            <exiles_in_miami>Common knowledge</exiles_in_miami>
+            <castro_intelligence>Aware of camps by October 1960</castro_intelligence>
+        </covert>
+    </topic>
+    
+    <topic subject="plan">
+        <authorization>
+            <president>John F. Kennedy</president>
+            <month>February</month>
+            <year>1961</year>
+        </authorization>
+        <deception>
+            <landing_point>Bay of Pigs</landing_point>
+            <reason>Hide U.S. involvement</reason>
+            <terrain>Remote swampy area</terrain>
+        </deception>
+        <invasion_details>
+            <air_strikes>Two against Cuban air bases</air_strikes>
+            <support_forces>Smaller force on east coast</support_forces>
+            <main_force_mission>Advance to Matanzas</main_force_mission>
+            <provisional_government>Established by Cuban exiles</provisional_government>
+        </invasion_details>
+    </topic>
+    
+    <topic subject="invasion">
+        <date>April 15, 1961</date>
+        <bombing_mishap>
+            <description>Obsolete B-26 bombers missed targets</description>
+            <consequence>Exposed U.S. involvement</consequence>
+            <president_decision>Cancelled second airstrike</president_decision>
+        </bombing_mishap>
+        <date_of_landings>April 17, 1961</date_of_landings>
+        <brigade>Brigade 2506</brigade>
+        <landing_outcome>Heavy fire, ships sunk, air support destroyed</landing_outcome>
+        <weather_effects>Soggy equipment, insufficient ammo</weather_effects>
+    </topic>
+    
+    <topic subject="counterattack">
+        <date>April 19, 1961</date>
+        <troops_committed>Cuban forces: 20,000</troops_committed>
+        <air_support>
+            <planes>Six unmarked U.S. fighter planes</planes>
+            <failure>Arrived late, shot down</failure>
+        </air_support>
+        <outcome>Invasion crushed, most exiles captured or killed</outcome>
+    </topic>
+    
+    <topic subject="aftermath">
+        <ceremony>
+            <date>December 29, 1962</date>
+            <location>Orange Bowl, Miami</location>
+            <flag_handling>
+                <flag_hand_over_to>President Kennedy</flag_hand_over_to>
+                <promise>"This flag will be returned to this brigade in a free Havana"</promise>
+            </flag_handling>
+        </ceremony>
+        <lasting_impact>
+            <effect>Initiated Operation Mongoose</effect>
+            <goal>Sabotage and destabilize Cuba</goal>
+        </lasting_impact>
+    </topic>
+</wrstart>

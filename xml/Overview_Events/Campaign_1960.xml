@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wrstart>
+    <overview>
+        <cold_war_tensions>
+            <event>Soviets launch Sputnik</event>
+            <year>1957</year>
+            <american_reaction>Warnings about falling behind in science and technology</american_reaction>
+            <incident>U-2 spy plane shot down</incident>
+            <consequence>Cancellation of Eisenhower's trip to Moscow</consequence>
+        </cold_war_tensions>
+        <cuba>
+            <event>Castro's regime allied with Soviet Union</event>
+            <reaction>Heightened fears of communist subversion in the Western Hemisphere</reaction>
+        </cuba>
+        <public_opinion>
+            <concern>More than half believed war with the Soviet Union was inevitable</concern>
+        </public_opinion>
+    </overview>
+    
+    <topic subject="candidates">
+        <kennedy>
+            <name>John Fitzgerald Kennedy</name>
+            <party>Democratic</party>
+            <challenges>
+                <youth>Young, perceived lack of experience in foreign affairs</youth>
+                <faith>Catholic, controversial among some voters</faith>
+            </challenges>
+            <primary_victory>
+                <state>West Virginia</state>
+                <date>May 10, 1960</date>
+            </primary_victory>
+            <convention_victory>
+                <location>Los Angeles</location>
+                <ballot_number>Final state - Wyoming</ballot_number>
+            </convention_victory>
+            <running_mate>Lyndon Johnson</running_mate>
+            <campaign_message>Strength to resist communism worldwide</campaign_message>
+        </kennedy>
+        
+        <nixon>
+            <name>Richard M. Nixon</name>
+            <party>Republican</party>
+            <role>Vice President</role>
+            <age>47</age>
+            <running_mate>Henry Cabot Lodge</running_mate>
+            <campaign_message>Maintain American prestige, leadership, and military strength</campaign_message>
+            <polls>Led after conventions</polls>
+        </nixon>
+    </topic>
+    
+    <topic subject="debates">
+        <first_debate>
+            <date>September 26, 1960</date>
+            <viewership>
+                <percent>88%</percent>
+                <audience>70 million Americans</audience>
+            </viewership>
+            <kennedy>
+                <appearance>Blue suit, sharp focus, direct address to camera</appearance>
+            </kennedy>
+            <nixon>
+                <appearance>Gray suit, blended into set, appeared to respond to Kennedy</appearance>
+            </nixon>
+            <impact>Reshaped campaign, issues of experience and maturity faded</impact>
+        </first_debate>
+    </topic>
+    
+    <topic subject="key_issues">
+        <religion>
+            <kennedy_statement>
+                "I believe in an America where the separation of church and state is absolute..."
+            </kennedy_statement>
+            <challenge>Anti-Catholic sentiment</challenge>
+        </religion>
+        <civil_rights>
+            <key_event>Martin Luther King Jr. arrested in Atlanta</key_event>
+            <kennedy_intervention>
+                <personal_intervention>Phone call to Coretta Scott King</personal_intervention>
+                <brother_intervention>Robert Kennedy's call to judge</brother_intervention>
+            </kennedy_intervention>
+            <endorsement>Martin Luther King Sr. endorsed Kennedy</endorsement>
+            <outcome>Increased support from Black voters</outcome>
+        </civil_rights>
+    </topic>
+    
+    <topic subject="final_days">
+        <eisenhower_campaigning>President Eisenhower campaigned for Republican candidates</eisenhower_campaigning>
+        <polls>Election declared a toss-up</polls>
+    </topic>
+    
+    <topic subject="election_results">
+        <date>November 8, 1960</date>
+        <popular_vote_margin>118,550 votes</popular_vote_margin>
+        <total_votes>69 million</total_votes>
+        <electoral_votes>
+            <kennedy>303</kennedy>
+            <nixon>219</nixon>
+        </electoral_votes>
+        <historical_significance>
+            <youngest_president>First Catholic president</youngest_president>
+            <born_in_20th_century>First president born in the 20th century</born_in_20th_century>
+        </historical_significance>
+    </topic>
+</wrstart>
