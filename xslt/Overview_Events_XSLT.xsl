@@ -21,14 +21,16 @@
                         <!-- <a href="index.html"><img src="image/*header image here*"/></a> --><h2>The Warren Project</h2>
                     </header>
                     <nav>
-                        <ul>
-                            <!--<li><a href="index.html">Timelines</a></li>-->
-                            <li><a href="overviewEvents.html">Events</a></li>
-                            <li><a href="">Kennedy</a></li>
-                            <li><a href="">Oswald</a></li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="members.html">Members</a></li>
-                        </ul>
+                            <ul>
+                                <!--<li><a href="index.html">Timelines</a></li>-->
+                                <!-- <li><a href="">Graphical</a></li> -->
+                                <li><a href="overviewEvents.html">Events</a></li>
+                                <li><a href="">Kennedy</a></li>
+                                <li><a href="">Oswald</a></li>
+                                <!-- Above will be merged into one hover/dropdown link when I figuire out how to do that-->
+                                <li><a href="about.html">About</a></li>
+                                <li><a href="members.html">Members</a></li>
+                            </ul>
                     </nav>
                     <main>
                 <h1>Overview of Major World Events Effecting JFKs Presidency</h1>
