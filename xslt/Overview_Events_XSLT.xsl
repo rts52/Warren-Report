@@ -17,8 +17,26 @@
             </head>
             <body>
                 <div id="wrapper">
+                    <header>
+                        <!-- <a href="index.html"><img src="image/*header image here*"/></a> --><h2>The Warren Project</h2>
+                    </header>
+                    <nav>
+                        <ul>
+                            <!--<li><a href="index.html">Timelines</a></li>-->
+                            <li><a href="overviewEvents.html">Events</a></li>
+                            <li><a href="">Kennedy</a></li>
+                            <li><a href="">Oswald</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="members.html">Members</a></li>
+                        </ul>
+                    </nav>
+                    <main>
                 <h1>Overview of Major World Events Effecting JFKs Presidency</h1>
                 <xsl:apply-templates select="$input/wrstart"/>
+                    </main>
+                    <footer>
+                        <h6>Placeholder footer <br/> Project of UPG Digital Humanities Class Fall 2024</h6>
+                    </footer>
                 </div>
             </body>
         </html>
