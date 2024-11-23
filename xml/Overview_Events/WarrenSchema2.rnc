@@ -22,9 +22,18 @@ us_reaction=element us_reaction{(government|relationship_with_khrushcev)*}
 tension_types=element tension_types{type}
 direct_conflict=element direct_conflict{text}
 superpowers=element superpowers{superpower}
+american_reaction=element american_reaction{text}
+incident=element incident{text}
+consequence=element consequence{text}
+government=element government{text}
+relationship_with_khrushcev=element relationship_with_khrushcev{text}
+reaction=element reaction{text}
+concern=element concern{text}
 
 type=element type{text}
 superpower=element superpower{(name|alliances)*}
+name=element name{text}
+alliances=element alliances{text}
 
 topic=element topic{(subject|date|approval|location|forces_trained|leader|covert|authorization|deception|invasion_details|bombing_mishap|date_of_landings|brigade|landing_outcome|weather_effects|troops_committed|air_support|outcome|ceremony|lasting_impact
 |kennedy|nixon|first_debate|religion|civil_rights|eisenhower_campaigning|polls|popular_vote_margin|total_votes|electoral_votes|historical_significance
@@ -33,3 +42,6 @@ topic=element topic{(subject|date|approval|location|forces_trained|leader|covert
 |locations|purpose|events|location|weather|event|breakfast|details|time|incident|final_grave_site|findings|legislation)*}
 
 subject=attribute subject{text}
+approval=element approval{(president|date)*}
+location=element location{text}
+forces_trained=element forced_trained{
