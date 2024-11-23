@@ -1,16 +1,25 @@
-/* Curb your "amazement", I ripped most of this off from my old webdev course ~Daniel*/
+/* Curb your "amazement", I ripped most of this off from an old webdev course ~Daniel*/
 body {
   background-color: grey;
 /*background-image: url("background image here");*/
   background-repeat: no-repeat;
   background-attachment: fixed;
   margin: 0;
+  font-family:sans-serif;
 }
 header, nav, main, footer 
 {
     background-color:white;
     display:block;
     margin:25px 100px;
+}
+header{
+    background-color:lightblue;
+    width:100%;
+    margin:0 0em 0em 0;
+    padding:0;
+    float:left;
+    text-align:left;
 }
 nav{
    background-color: lightblue;
@@ -32,15 +41,24 @@ padding:0;
 nav li{
 display:inline-block;
 }
+footer{
+    background-color:lightblue;
+    width:100%;
+    margin:0 0 5em 0;
+    padding:0;
+    float:left;
+    text-align:left;
+}
 main {
   font-size:90%;
   margin:0;
   padding:2em;
   }
 h1, h2, h3, h4, h5, h6, p{
-    margin:35px 10px;
+    margin-left:5px;
 }
-/*Got that only HTML and CSS, early 2000s, chique ~Daniel (I'm sorry)*/
+
+/*It's got that, only HTML and CSS, early 2000s, chique ~Daniel (I'm sorry)*/
 #wrapper
 {background-color: #ffffff;
  width:80%;
@@ -48,7 +66,7 @@ h1, h2, h3, h4, h5, h6, p{
  max-width:1024px;
  margin-right:auto;
  margin-left:auto; 
- box-shadow:4px 4px;}
+ box-shadow:1px 1px;}
 /*a{
     color: (link color here);
 }*/
