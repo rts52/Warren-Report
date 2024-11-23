@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?>
 <wrstart>
     <overview>
         <cold_war_tensions>
             <event>Soviets launch Sputnik</event>
-            <year>1957</year>
+            <date>1957</date>
             <american_reaction>Warnings about falling behind in science and technology</american_reaction>
             <incident>U-2 spy plane shot down</incident>
             <consequence>Cancellation of Eisenhower's trip to Moscow</consequence>

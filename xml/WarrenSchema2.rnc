@@ -1,0 +1,35 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start=wrstart
+wrstart=element wrstart{(text|overview|topic)*}
+overview=element overview{(date|duration|event|key_leaders|risk|outcome|definition|key_elements|cold_war_tensions|cuba|public_opinion|leader|overthrow|us_reaction)*}
+
+date=element date{text}
+duration=element duration{text}
+event=element event{text}
+key_leaders=element key_leaders{leader}
+risk=element risk{text}
+outcome=element outcome{text}
+definition=element definition{text}
+key_elements=element key_elements{(tension_types|direct_conflict|superpowers)*}
+cold_war_tensions=element cold_war_tensions{(event|date|american_reaction|incident|consequence)*}
+cuba=element cuba{(event|reaction)*}
+public_opinion=element public_opinion{concern}
+leader=element leader{text}
+overthrow=element overthrow{text}
+us_reaction=element us_reaction{(government|relationship_with_khrushcev)*}
+
+tension_types=element tension_types{type}
+direct_conflict=element direct_conflict{text}
+superpowers=element superpowers{superpower}
+
+type=element type{text}
+superpower=element superpower{(name|alliances)*}
+
+topic=element topic{(subject|date|approval|location|forces_trained|leader|covert|authorization|deception|invasion_details|bombing_mishap|date_of_landings|brigade|landing_outcome|weather_effects|troops_committed|air_support|outcome|ceremony|lasting_impact
+|kennedy|nixon|first_debate|religion|civil_rights|eisenhower_campaigning|polls|popular_vote_margin|total_votes|electoral_votes|historical_significance
+|world_war_ii_alliance|post_wwii_tensions|soviet_expansion|us_containment_policy|asia|korean_war|vietnam_war|cuba|campaign_1960|kennedy_inaugural_address|bay_of_pigs|arms_race|cuban_missile_crisis|peace_initiatives|vietnam
+|action|decision|objective|demand|medium|content|link|action|agreement|consequence|outcome|key_elements|arms_race|actions|teletype_hotline|nuclear_test_ban|quote
+|locations|purpose|events|location|weather|event|breakfast|details|time|incident|final_grave_site|findings|legislation)*}
+
+subject=attribute subject{text}

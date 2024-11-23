@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?>
 <wrstart>
     <overview>
         <date>October 1962</date>
