@@ -45,21 +45,21 @@
         <date>October 1962</date>
         <outcome>End of the Cuban Missile Crisis</outcome>
         <key_elements>
-            <element>Soviet missile removal from Cuba</element>
-            <element>US pledge not to invade Cuba</element>
-            <element>Secret removal of US missiles from Turkey</element>
+            <key_element>Soviet missile removal from Cuba</key_element>
+            <key_element>US pledge not to invade Cuba</key_element>
+            <key_element>Secret removal of US missiles from Turkey</key_element>
         </key_elements>
         <arms_race>Continued escalation despite resolution</arms_race>
     </topic>
     
     <topic subject="aftermath">
-        <year>1963</year>
+        <date>1963</date>
         <actions>
             <action>Commencement address at American University</action>
             <message>Urged reexamination of Cold War myths and stereotypes, and called for a strategy of peace</message>
         </actions>
         <teletype_hotline>
-            <year>1963</year>
+            <date>1963</date>
             <description>Establishment of a direct communication link ("Hotline") between the Kremlin and the White House</description>
         </teletype_hotline>
         <nuclear_test_ban>

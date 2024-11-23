@@ -98,8 +98,8 @@
     <topic subject="kennedy_and_the_cold_war">
         <campaign_1960>
             <cold_war_rhetoric>
-                <kennedy>Promised a tough stance on the Soviet Union</kennedy>
-                <nixon>Also pledged military strength and anti-communism</nixon>
+                <kennedy_promise>Promised a tough stance on the Soviet Union</kennedy_promise>
+                <nixon_promise>Also pledged military strength and anti-communism</nixon_promise>
             </cold_war_rhetoric>
             <nuclear_concerns>Soviet missile buildup</nuclear_concerns>
             <criticism_of_eisenhower>Allowed pro-Soviet government in Cuba</criticism_of_eisenhower>

@@ -94,8 +94,8 @@
         <popular_vote_margin>118,550 votes</popular_vote_margin>
         <total_votes>69 million</total_votes>
         <electoral_votes>
-            <kennedy>303</kennedy>
-            <nixon>219</nixon>
+            <kennedy_votes>303</kennedy_votes>
+            <nixon_votes>219</nixon_votes>
         </electoral_votes>
         <historical_significance>
             <youngest_president>First Catholic president</youngest_president>
