@@ -18,13 +18,13 @@ public_opinion=element public_opinion{concern}
 overthrow=element overthrow{text}
 us_reaction=element us_reaction{(government|relationship_with_khrushchev)*}
 
-tension_types=element tension_types{type}
+tension_types=element tension_types{type*}
 direct_conflict=element direct_conflict{text}
-superpowers=element superpowers{superpower}
+superpowers=element superpowers{superpower*}
 american_reaction=element american_reaction{text}
 consequence=element consequence{text}
 government=element government{text}
-relationship_with_khrushchev=element relationship_with_khrushcev{text}
+relationship_with_khrushchev=element relationship_with_khrushchev{text}
 reaction=element reaction{text}
 concern=element concern{text}
 
@@ -42,7 +42,7 @@ topic=element topic{(subject|date|approval|location|forces_trained|leader|covert
 subject=attribute subject{text}
 approval=element approval{(president|date)*}
 location=element location{text}
-forces_trained=element forced_trained{(force_size|mission)*}
+forces_trained=element forces_trained{(force_size|mission)*}
 leader=element leader{(text|name|role|description)*}
 covert=element covert{(exiles_in_miami|castro_intelligence)*}
 authorization=element authorization{(president|date)*}
@@ -83,8 +83,8 @@ result=element result{text}
 
 
 
-kennedy=element kenendy{(name|party|challenges|primary_victory|convention_victory|running_mate|campaign_message)*}
-nixon=element nixon{(name|party|role|age|running_mate|campaign_message|polls)*}
+kennedy=element kennedy{(appearance|name|party|challenges|primary_victory|convention_victory|running_mate|campaign_message)*}
+nixon=element nixon{(appearance|name|party|role|age|running_mate|campaign_message|polls)*}
 first_debate=element first_debate{(date|viewership|kennedy|nixon|impact)*}
 religion=element religion{(kennedy_statement|challenge)*}
 civil_rights=element civil_rights{(key_event|kennedy_intervention|endorsement|outcome)*}
@@ -122,7 +122,7 @@ ballot_number=element ballot_number{text}
 state=element state{text}
 youth=element youth{text}
 faith=element faith{text}
-
+appearance=element appearance{text}
 
 
 world_war_ii_alliance=element world_war_ii_alliance{(countries|enemy)*}
@@ -142,7 +142,7 @@ vietnam=element vietnam{(us_commitment|escalation)*}
 
 enemy=element enemy{text}
 region=element region{text}
-countries=element countries{country}
+countries=element countries{country*}
 start_year=element start_year{text}
 conflict=element conflict{text}
 us_involvement=element us_involvement{text}
@@ -152,10 +152,10 @@ cold_war_rhetoric=element cold_war_rhetoric{(kennedy_promise|nixon_promise)*}
 nuclear_concerns=element nuclear_concerns{text}
 criticism_of_eisenhower=element criticism_of_eisenhower{text}
 operation=element operation{text}
-first_meeting=element first_meetup{(leaders|location|date|outcome)*}
+first_meeting=element first_meeting{(leaders|location|date|outcome)*}
 berlin_wall=element berlin_wall{(date|event)*}
 nuclear_buildup=element nuclear_buildup{(kennedy_action|soviet_reaction)*}
-kennedy_response=element kennedy_response{(action|demand|result)*}
+kennedy_response=element kennedy_response{(text|action|demand|result)*}
 aftermath=element aftermath{text}
 speech=element speech{(date|location|message)*}
 limited_nuclear_test_ban_treaty=element limited_nuclear_test_ban_treaty{(date|goal|result)*}
@@ -167,8 +167,8 @@ kennedy_ambivalence=element kennedy_ambivalence{(quote|decision)*}
 additional_support=element additional_support{text}
 statement=element statement{text}
 soviet_reaction=element soviet_reaction{text}
-kennedy_action=element kenendy_action{text}
-leaders=element leaders{leader}
+kennedy_action=element kennedy_action{text}
+leaders=element leaders{leader*}
 kennedy_promise=element kennedy_promise{text}
 nixon_promise=element nixon_promise{text}
 
@@ -196,7 +196,7 @@ treaty=element treaty{text}
 
 
 locations=element locations{(location|description)*}
-purpose=element purpose{description}
+purpose=element purpose{(text|description)*}
 events=element events{event}
 weather=element weather{text}
 breakfast=element breakfast{description}
