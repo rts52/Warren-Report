@@ -4,7 +4,7 @@ start=wrstart
 wrstart=element wrstart{(text|overview|topic)*}
 overview=element overview{(date|duration|event|key_leaders|risk|outcome|definition|key_elements|cold_war_tensions|cuba|public_opinion|leader|overthrow|us_reaction)*}
 
-date=element date{text}
+date=element date{(text|daid)*}
 duration=element duration{text}
 event=element event{(text|date|location|description|officiator|consequence|commission_chairman)*}
 key_leaders=element key_leaders{leader*}
@@ -27,13 +27,14 @@ government=element government{text}
 relationship_with_khrushchev=element relationship_with_khrushchev{text}
 reaction=element reaction{text}
 concern=element concern{text}
+daid=attribute daid{text}
 
 type=element type{text}
 superpower=element superpower{(name|alliances)*}
 name=element name{text}
 alliances=element alliances{text}
 
-topic=element topic{(subject|date|approval|location|forces_trained|leader|covert|authorization|deception|invasion_details|bombing_mishap|date_of_landings|brigade|landing_outcome|weather_effects|troops_committed|air_support|outcome|ceremony|lasting_impact
+topic=element topic{(subject|date|approval|location|forces_trained|leader|covert|authorization|deception|invasion_details|bombing_mishap|brigade|landing_outcome|weather_effects|troops_committed|air_support|outcome|ceremony|lasting_impact
 |kennedy|nixon|first_debate|religion|civil_rights|eisenhower_campaigning|polls|popular_vote_margin|total_votes|electoral_votes|historical_significance
 |world_war_ii_alliance|post_wwii_tensions|soviet_expansion|us_containment_policy|asia|korean_war|vietnam_war|cuba|campaign_1960|kennedy_inaugural_address|bay_of_pigs|arms_race|cuban_missile_crisis|peace_initiatives|vietnam
 |action|decision|objective|demand|medium|content|link|action|agreement|consequence|outcome|key_elements|arms_race|actions|teletype_hotline|nuclear_test_ban|quote
@@ -49,7 +50,6 @@ authorization=element authorization{(president|date)*}
 deception=element deception{(landing_point|reason|terrain)*}
 invasion_details=element invasion_details{(air_strikes|support_forces|main_force_mission|provisional_government)*}
 bombing_mishap=element bombing_mishap{(description|consequence|president_decision)*}
-date_of_landings=element date_of_landings{text}
 brigade=element brigade{text}
 landing_outcome=element landing_outcome{text}
 weather_effects=element weather_effects{text}
@@ -63,7 +63,7 @@ force_size=element force_size{text}
 mission=element mission{text}
 role=element role{text}
 exiles_in_miami=element exiles_in_miami{text}
-castro_intelligence=element castro_intelligence{text}
+castro_intelligence=element castro_intelligence{(text|date)*}
 landing_point=element landing_point{text}
 reason=element reason{text}
 terrain=element terrain{text}
@@ -164,7 +164,7 @@ us_commitment=element us_commitment{(date|action|additional_support|statement)*}
 escalation=element escalation{(date|troops|kennedy_ambivalence)*}
 troops=element troops{text}
 kennedy_ambivalence=element kennedy_ambivalence{(quote|decision)*}
-additional_support=element additional_support{text}
+additional_support=element additional_support{(text|date)*}
 statement=element statement{text}
 soviet_reaction=element soviet_reaction{text}
 kennedy_action=element kennedy_action{text}

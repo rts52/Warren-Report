@@ -2,7 +2,7 @@
 <?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?>
 <wrstart>
     <overview>
-        <date>1959</date>
+        <date daid="1959_00_00">1959_00_00</date>
         <leader>Fidel Castro</leader>
         <overthrow>Fulgencio Batista</overthrow>
         <us_reaction>
@@ -14,7 +14,7 @@
     <topic subject="training">
         <approval>
             <president>Dwight D. Eisenhower</president>
-            <date>March 1960</date>
+            <date daid="1960_03_00">1960_03_00</date>
         </approval>
         <location>Guatemala</location>
         <forces_trained>
@@ -28,14 +28,14 @@
         </leader>
         <covert>
             <exiles_in_miami>Common knowledge</exiles_in_miami>
-            <castro_intelligence>Aware of camps by October 1960</castro_intelligence>
+            <castro_intelligence>Aware of camps by <date daid="1960_10_00">1960_10_00</date></castro_intelligence>
         </covert>
     </topic>
     
     <topic subject="plan">
         <authorization>
             <president>John F. Kennedy</president>
-            <date>February 1961</date>
+            <date daid="1961_02_00">1961_02_00</date>
         </authorization>
         <deception>
             <landing_point>Bay of Pigs</landing_point>
@@ -51,20 +51,20 @@
     </topic>
     
     <topic subject="invasion">
-        <date>April 15, 1961</date>
+        <date daid="1961_04_15">1961_04_15</date>
         <bombing_mishap>
             <description>Obsolete B-26 bombers missed targets</description>
             <consequence>Exposed U.S. involvement</consequence>
             <president_decision>Cancelled second airstrike</president_decision>
         </bombing_mishap>
-        <date_of_landings>April 17, 1961</date_of_landings>
+        <date daid="1961_04_17">1961_04_17</date>
         <brigade>Brigade 2506</brigade>
         <landing_outcome>Heavy fire, ships sunk, air support destroyed</landing_outcome>
         <weather_effects>Soggy equipment, insufficient ammo</weather_effects>
     </topic>
     
     <topic subject="counterattack">
-        <date>April 19, 1961</date>
+        <date daid="1961_04_19">1961_04_19</date>
         <troops_committed>Cuban forces: 20,000</troops_committed>
         <air_support>
             <planes>Six unmarked U.S. fighter planes</planes>
@@ -75,7 +75,7 @@
     
     <topic subject="aftermath">
         <ceremony>
-            <date>December 29, 1962</date>
+            <date daid="1962_12_29">1962_12_29</date>
             <location>Orange Bowl, Miami</location>
             <flag_handling>
                 <flag_hand_over_to>President Kennedy</flag_hand_over_to>

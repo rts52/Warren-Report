@@ -1,7 +1,7 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start=wrstart
-wrstart=element wrstart{(text|person|place|event|date|quote|page|starter|sections|header)*}
+wrstart=element wrstart{(text|person|place|event|date|quote|page|starter|sections|header|texts)*}
 
 header=element header{text}
 person=element person{(text|perid)*}
@@ -25,7 +25,7 @@ daid=attribute daid{text}
 speaker=attribute speaker{text}
 number=attribute number{text}
 section=element section{(text|title|texts)*}
-texts=element texts{text,handbill*}
+texts=element texts{(text|handbill|person|page|date|time|place)*}
 character=element character{text}
 title=attribute title{text}
 summary=element summary{content}
@@ -35,3 +35,4 @@ commissionExhibit=element commissionExhibit{text}
 description=element description{text}
 spokesperson=element spokesperson{text}
 handbill=element handbill{content}
+time=element time{text}

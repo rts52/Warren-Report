@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="WRProjectSchemaBasic.rnc" type="application/relax-ng-compact-syntax"?>
 <wrstart>
 		<page number="196">Page 196</page>
 		<texts>
@@ -199,10 +200,10 @@
 		<texts>
 		Then, I talked to Fritz about when he thought he would transfer the prisoner, and he didn't think it was a good idea to transfer him at night because of the fact you couldn't see, and if anybody tried to cause them any trouble, they needed to see who they were and where it was coming from and so forth, and he suggested that we wait until daylight, so this was normal procedure, I mean, for Fritz to determine when he is going to transfer his prisoners, so I told him "Okay." I asked him, I said, "What time do you think you will be ready tomorrow?" And he didn't know exactly and I said, "Do you think about 10 o'clock," and he said, "I believe so," and then is when I went out and told the newspaper people ... "I believe if you are back here by 10 o'clock you will be back in time to observe anything you care to observe." 96</texts>
 		<texts>
-		During the night, between 2:30 and<time> 3 a.m.</time>, the local office of the FBI and the sheriff's office received telephone calls from an unidentified man who warned that a committee had decided "to kill the man that killed the President." 97 Shortly after, an FBI agent notified the Dallas police of the anonymous threat. The police department and ultimately Chief Curry were informed of both threats.98
+			During the night, <time>between 2:30 and 3 a.m.</time>, the local office of the FBI and the sheriff's office received telephone calls from an unidentified man who warned that a committee had decided "to kill the man that killed the President." 97 Shortly after, an FBI agent notified the Dallas police of the anonymous threat. The police department and ultimately Chief Curry were informed of both threats.98
 		</texts>
 		<texts>
-		Immediately after his arrival at the building on Sunday morning between 8:30 and <time>8:45 a.m.</time>, Curry spoke by telephone with Sheriff J. E. Decker about the transfer. When Decker indicated that he would leave to Curry the decision on whether the sheriff's office or the police would move <person perid="oswald">Oswald</person>, Curry decided that the police would handle it because "we had so much involved here, we were the ones that were investigating the case and we had the officers set up down stairs to handle it." 99
+			Immediately after his arrival at the building on Sunday morning <time>between 8:30 and 8:45 a.m.</time>, Curry spoke by telephone with Sheriff J. E. Decker about the transfer. When Decker indicated that he would leave to Curry the decision on whether the sheriff's office or the police would move <person perid="oswald">Oswald</person>, Curry decided that the police would handle it because "we had so much involved here, we were the ones that were investigating the case and we had the officers set up down stairs to handle it." 99
 		</texts>
 		<texts>
 		After talking with Decker, Curry began to discuss plans for the transfer. With the threats against <person perid="oswald">Oswald</person> in mind, Curry suggested to Batchelor and Deputy Chief Stevenson that <person perid="oswald">Oswald</person> be transported to the county jail in an armored truck, to which they agreed. While Batchelor made arrangements to have an armored truck brought to the building, Curry and Stevenson tentatively agreed on the route the armored truck would follow from the building to the county jail.100

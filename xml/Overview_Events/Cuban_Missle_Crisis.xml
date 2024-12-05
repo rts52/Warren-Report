@@ -2,7 +2,7 @@
 <?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?>
 <wrstart>
     <overview>
-        <date>October 1962</date>
+        <date daid="1962_10_00">1962_10_00</date>
         <duration>13 days</duration>
         <event>American U-2 spy plane discovers Soviet nuclear missile sites in Cuba</event>
         <key_leaders>
@@ -21,7 +21,7 @@
     </topic>
     
     <topic subject="kennedy_address">
-        <date>October 22, 1962</date>
+        <date daid="1962_10_22">1962_10_22</date>
         <medium>Televised address</medium>
         <content>
             <message>Announced naval blockade and demands for missile removal</message>
@@ -42,7 +42,7 @@
     </topic>
     
     <topic subject="resolution">
-        <date>October 1962</date>
+        <date daid="1962_10_00">1962_10_00</date>
         <outcome>End of the Cuban Missile Crisis</outcome>
         <key_elements>
             <key_element>Soviet missile removal from Cuba</key_element>
@@ -53,17 +53,17 @@
     </topic>
     
     <topic subject="aftermath">
-        <date>1963</date>
+        <date daid="1963_00_00">1963_00_00</date>
         <actions>
             <action>Commencement address at American University</action>
             <message>Urged reexamination of Cold War myths and stereotypes, and called for a strategy of peace</message>
         </actions>
         <teletype_hotline>
-            <date>1963</date>
+            <date daid="1963_00_00">1963_00_00</date>
             <description>Establishment of a direct communication link ("Hotline") between the Kremlin and the White House</description>
         </teletype_hotline>
         <nuclear_test_ban>
-            <date>July 25, 1963</date>
+            <date daid="1963_07_25">1963_07_25</date>
             <treaty>Limited Nuclear Test Ban Treaty signed</treaty>
             <goal>Reduce nuclear arms testing</goal>
         </nuclear_test_ban>
@@ -71,6 +71,6 @@
     
     <topic subject="kennedy_message">
         <quote>“For, in the final analysis, our most basic common link is that we all inhabit this small planet. We all breathe the same air. We all cherish our children's future. And we are all mortal.”</quote>
-        <date>June 1963</date>
+        <date daid="1963_06_00">1963_06_00</date>
     </topic>
 </wrstart>
