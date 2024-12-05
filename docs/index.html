@@ -13,16 +13,20 @@
 	<header>
 		<!-- <a href="index.html"><img src="image/*header image here*"/></a> --><h2>The Warren Project</h2>
 	</header>
-	<nav>
+	<nav style="position: sticky; top:0">
 		<ul>
-			<!--<li><a href="index.html">Timelines</a></li>-->
-			<!-- <li><a href="">Graphical</a></li> -->
-			<li><a href="overviewEvents.html">Events</a></li>
-			<li><a href="">Kennedy</a></li>
-			<li><a href="">Oswald</a></li>
-			<!-- Above will be merged into one hover/dropdown link when I figuire out how to do that-->
-			<li><a href="about.html">About</a></li>
-			<li><a href="members.html">Members</a></li>
+			<li><a href="index.html" class="button">Home</a></li>
+			<li>
+				<div class="dropdown">
+					<button class="dropbtn">Timelines</button>
+					<div class="dropdown-contewnts">
+					<a href="overviewEvents.html">Text</a>
+					<a href="timneline.html">Graphical</a>
+					</div>
+				</div>
+			</li>
+			<!--<li><a href="about.html" class="button">About</a></li>-->
+			<li><a href="members.html" class="button">Members</a></li>
 		</ul>
 	</nav>
 	<main>
