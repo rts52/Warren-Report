@@ -58,8 +58,8 @@
         <us_containment_policy>
             <goal>Prevent spread of Soviet influence in Western Europe</goal>
             <actions>
-                <action>Truman Doctrine (1947)</action>
-                <action>Marshall Plan (1947)</action>
+                <action>Truman Doctrine <date daid="1947_00_00">1947</date></action>
+                <action>Marshall Plan <date daid="1947_00_00">1947</date></action>
             </actions>
         </us_containment_policy>
     </topic>
@@ -73,11 +73,11 @@
         </asia>
         
         <korean_war>
-            <start_year>1950_00_00</start_year>
+            <start_year yrstrt="1950_00_00">1950_00_00</start_year>
             <conflict>North Korea invades South Korea</conflict>
             <us_involvement>UN and US troops intervene</us_involvement>
             <soviet_involvement>China supports North Korea</soviet_involvement>
-            <end_year>1953_00_00</end_year>
+            <end_year yrend="1953_00_00">1953_00_00</end_year>
             <outcome>Truce</outcome>
         </korean_war>
         
