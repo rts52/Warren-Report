@@ -33,7 +33,7 @@
                             </ul>
                     </nav>
                     <main>
-                <h1>Overview of Major World Events Effecting JFKs Presidency</h1>
+                <h1>Overview of Major World Events Affecting JFKs Presidency</h1>
                 <xsl:apply-templates select="$input/wrstart"/>
                     </main>
                     <footer>

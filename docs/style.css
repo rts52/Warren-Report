@@ -72,13 +72,12 @@ nav {
     display: flex;
     width: 100%;
     overflow: hidden;
-    background-color: #1F0F5F;
     z-index: 500;
 }
 nav a {
     float: left;
     font-size: 16px;
-    color: White;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -92,11 +91,14 @@ nav a {
     font-size: 16px;
     border: none;
     outline: none;
-    color: White;
+    color: Black;
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
     margin: 0;
+}
+.dropbtn{
+    font-weight:bold;
 }
 nav a:hover, .dropdown:hover .dropbtn {
     background-color: #6699ff;
