@@ -46,7 +46,7 @@
                         <h2>Timeline of Events</h2>
                         <!-- Table of Contents Here *Maybe*-->
                         <h3>Overview of Major World Events Affecting JFKs Presidency</h3>
-                        <ul><xsl:apply-templates select="$overview/wrstart"/></ul>
+                        <ul><xsl:apply-templates select="$overview/wrstart" mode="overview"/></ul>
                         <h3>John F. Kenedy Timeline</h3>
                         <!--<xsl:apply-templates select="$JFK/*root*"/>-->
                         <h3>Lee Harvey Oswald Timeline</h3>
@@ -61,16 +61,16 @@
         </xsl:result-document>
     </xsl:template>  
     
-    <xsl:template match="overview">
+    <xsl:template match="overview" mode="overview">
         <li><xsl:apply-templates/></li>
     </xsl:template>
 
-    <xsl:template match="topic">
+    <xsl:template match="topic" mode="overview">
                 <li> <xsl:apply-templates/> </li>
         </xsl:template>  
 
     <!-- Continuation of above linking ~Daniel-->
-    <xsl:template match="date">
+    <xsl:template match="wrstart//date">
         <!-- Probably a better way to do the id here. Oh well. ~Daniel-->
         <!-- There was ~Daniel-->
        <h4 id="{concat(document-uri(),((../date/@daid)!replace(.,'_',''))!replace(.,' ',''),count(preceding::date))}">
