@@ -32,7 +32,7 @@
                                 <div class="dropdown">
                                     <button class="dropbtn">Timelines</button>
                                     <div class="dropdown-content">
-                                        <a href="overviewEvents.html">Text</a>
+                                        <a href="textTimline.html">Text</a>
                                         <a href="timeline.html">Graphical</a>
                                     </div>
                                 </div>
@@ -46,7 +46,7 @@
                         <h2>Timeline of Events</h2>
                         <!-- Table of Contents Here *Maybe*-->
                         <h3>Overview of Major World Events Affecting JFKs Presidency</h3>
-                        <xsl:apply-templates select="$overview/wrstart"/>
+                        <ul><xsl:apply-templates select="$overview/wrstart"/></ul>
                         <h3>John F. Kenedy Timeline</h3>
                         <!--<xsl:apply-templates select="$JFK/*root*"/>-->
                         <h3>Lee Harvey Oswald Timeline</h3>
@@ -59,21 +59,23 @@
             </body>
         </html>
         </xsl:result-document>
-    </xsl:template>    
+    </xsl:template>  
+    
+    <xsl:template match="overview">
+        <li><xsl:apply-templates/></li>
+    </xsl:template>
 
     <xsl:template match="topic">
-            <ul> 
                 <li> <xsl:apply-templates/> </li>
-            </ul>    
         </xsl:template>  
 
     <!-- Continuation of above linking ~Daniel-->
     <xsl:template match="date">
         <!-- Probably a better way to do the id here. Oh well. ~Daniel-->
         <!-- There was ~Daniel-->
-        <h4 id="{(../date)!replace(.,' _','')}">
+       <h4 id="{concat(document-uri(),((../date/@daid)!replace(.,'_',''))!replace(.,' ',''),count(preceding::date))}">
             <xsl:apply-templates/>
-        </h4>
+       </h4>
     </xsl:template>
 
 
