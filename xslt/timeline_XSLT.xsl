@@ -3,8 +3,8 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="xs math"
-    version="3.0">
-    
+    xmlns="http://www.w3.org/1999/xhtml" version="3.0">
+    <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes" indent="true"/>
 
     <xsl:variable name="overview" select="collection('../xml/Overview_Events/?select=*.xml')"/>
     <!--<xsl:variable name="JFK" select="collection('../xml/JFK/?select=*.xml')"/>-->
@@ -23,7 +23,7 @@
             <body>
                 <div id="wrapper">
                     <header>
-                        <!-- <a href="index.html"><img src="image/*header image here*"/></a> --><h2>The Warren Project</h2>
+                        <!-- <a href="index.html"><img src="image/*header image here*"/></a> --><h2>The Warren Project Text Timeline</h2>
                     </header>
                     <nav>
                         <ul>
@@ -43,11 +43,13 @@
                         </ul>
                     </nav>
                     <main>
-                        <h1>Overview of Major World Events Affecting JFKs Presidency</h1>
+                        <h2>Timeline of Events</h2>
+                        <!-- Table of Contents Here *Maybe*-->
+                        <h3>Overview of Major World Events Affecting JFKs Presidency</h3>
                         <xsl:apply-templates select="$overview/wrstart"/>
-                        <h1>John F. Kenedy Timeline</h1>
+                        <h3>John F. Kenedy Timeline</h3>
                         <!--<xsl:apply-templates select="$JFK/*root*"/>-->
-                        <h1>Lee Harvey Oswald Timeline</h1>
+                        <h3>Lee Harvey Oswald Timeline</h3>
                         <!--<xsl:apply-templates select="$LHO/*root*"/>-->
                     </main>
                     <footer>
@@ -68,7 +70,8 @@
     <!-- Continuation of above linking ~Daniel-->
     <xsl:template match="date">
         <!-- Probably a better way to do the id here. Oh well. ~Daniel-->
-        <h4 id="{(../date)!replace(.,'_','')}">
+        <!-- There was ~Daniel-->
+        <h4 id="{(../date)!replace(.,' _','')}">
             <xsl:apply-templates/>
         </h4>
     </xsl:template>
