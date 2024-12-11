@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <links>
-    <link1>https://www.jfklibrary.org/learn/about-jfk/jfk-in-history</link1>
-    <link2>https://www.archives.gov/research/jfk/warren-commission-report</link2>
+    <link>https://www.jfklibrary.org/learn/about-jfk/jfk-in-history</link>
+    <link>https://www.archives.gov/research/jfk/warren-commission-report</link>
+    <link>https://commons.wikimedia.org/wiki/File:John_and_Jacqueline_Kennedy_27_March_1963.jpg</link>
 </links>
 

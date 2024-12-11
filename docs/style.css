@@ -1,7 +1,9 @@
-/* Curb your "amazement", I ripped most of this off from an old webdev course ~Daniel*/
+/*I guess we're sticking with the Argentinean Flag Aesthetic for now. ~Daniel*/
 body {
   background-color: grey;
-/*background-image: url("background image here");*/
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  background-position:center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   margin: 0;
@@ -58,7 +60,7 @@ h1, h2, h3, h4, h5, h6, p{
     margin-left:5px;
 }
 
-/*It's got that, only HTML and CSS, early 2000s, chique ~Daniel (I'm sorry)*/
+/*It's got that early 2000s, only HTML/CSS, chique ~Daniel (I'm sorry)*/
 #wrapper
 {background-color: #ffffff;
  width:80%;
@@ -129,8 +131,9 @@ nav a:hover, .dropdown:hover .dropbtn {
     color: (link color here);
 }*/
 
-/* Mobile/Small screen support pending ~Daniel
+/* Mobile/Small screen support pending
  * "Here Lies Madness." Venture at your own risk.
+ * ~Daniel
  * 
  * @media only screen and (max-width: 1024px)
 {body
