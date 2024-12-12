@@ -6,7 +6,13 @@
     xmlns="http://www.w3.org/1999/xhtml" version="3.0">
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes" indent="true"/>
 
-    <xsl:variable name="overview" select="collection('../xml/Overview_Events/?select=*.xml')"/>
+    <!--<xsl:variable name="overview" select="collection('../xml/Overview_Events/?select=*.xml')"/>-->
+    <xsl:variable name="BoP" select="'../xml/Overview_Events/Bay_Of_Pigs.xml/wrstart'"/>
+    <xsl:variable name="Campa1960" select="'../xml/Overview_Events/Campaign_1960.xml'"/>
+    <xsl:variable name="CW" select="'../xml/Overview_Events/Cold_War.xml'"/>
+    <xsl:variable name="CMC" select="'../xml/Overview_Events/?select=Cuban_Missile_Crisis.xml'"/>
+    <xsl:variable name="KA" select="'../xml/Overview_Events/?select=Kennedy_Assassination'"/>
+    <xsl:variable name="overviewitems" select="($BoP//overview/*[.//date]|$BoP//topic/*[.//date])"/>
     <!--<xsl:variable name="JFK" select="collection('../xml/JFK/?select=*.xml')"/>-->
     <!--<xsl:variable name="LHO" select="collection('../xml/LHO/?select=*.xml')"/>-->
 
@@ -46,7 +52,13 @@
                         <h2>Timeline of Events</h2>
                         <!-- Table of Contents Here *Maybe*-->
                         <h3>Overview of Major World Events Affecting JFKs Presidency</h3>
-                        <ul><xsl:apply-templates select="$overview/wrstart" mode="overview"/></ul>
+                        <!--<ul><xsl:apply-templates select="$overview/wrstart" mode="overview"/></ul> -->
+                        <ul>
+                            <xsl:for-each select="$overviewitems">
+                                <xsl:sort select="((.//date[1]/@daid)!replace(.,'_',''))!replace(.,' ','')"/>
+                                <li><xsl:apply-templates/></li>
+                            </xsl:for-each> 
+                        </ul>
                         <h3>John F. Kenedy Timeline</h3>
                         <!--<xsl:apply-templates select="$JFK/*root*"/>-->
                         <h3>Lee Harvey Oswald Timeline</h3>
@@ -61,13 +73,17 @@
         </xsl:result-document>
     </xsl:template>  
     
-    <xsl:template match="overview" mode="overview">
+    <!--<xsl:template match="overview" mode="overview">
         <li><xsl:apply-templates/></li>
     </xsl:template>
 
     <xsl:template match="topic" mode="overview">
                 <li> <xsl:apply-templates/> </li>
-        </xsl:template>  
+        </xsl:template> 
+    <xsl:template match="$overviewitems" mode="overview">
+        
+        <li><xsl:apply-templates/></li>
+    </xsl:template>-->
 
     <!-- Continuation of above linking ~Daniel-->
     <xsl:template match="wrstart//date">
