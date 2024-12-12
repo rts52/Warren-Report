@@ -7,12 +7,12 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes" indent="true"/>
 
     <!--<xsl:variable name="overview" select="collection('../xml/Overview_Events/?select=*.xml')"/>-->
-    <xsl:variable name="BoP" select="'../xml/Overview_Events/Bay_Of_Pigs.xml/wrstart'"/>
+    <xsl:variable name="BoP" select="document('../xml/Overview_Events/Bay_Of_Pigs.xml')"/>
     <xsl:variable name="Campa1960" select="'../xml/Overview_Events/Campaign_1960.xml'"/>
     <xsl:variable name="CW" select="'../xml/Overview_Events/Cold_War.xml'"/>
     <xsl:variable name="CMC" select="'../xml/Overview_Events/?select=Cuban_Missile_Crisis.xml'"/>
     <xsl:variable name="KA" select="'../xml/Overview_Events/?select=Kennedy_Assassination'"/>
-    <xsl:variable name="overviewitems" select="($BoP//overview/*[.//date]|$BoP//topic/*[.//date])"/>
+    <xsl:variable name="overviewitems" select="($BoP//overview/*[.//date] | $BoP//topic/*[.//date])"/>
     <!--<xsl:variable name="JFK" select="collection('../xml/JFK/?select=*.xml')"/>-->
     <!--<xsl:variable name="LHO" select="collection('../xml/LHO/?select=*.xml')"/>-->
 
