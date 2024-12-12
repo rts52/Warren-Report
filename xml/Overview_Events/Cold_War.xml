@@ -73,7 +73,7 @@
         </asia>
         
         <korean_war>
-            <start_year yrstrt="1950_00_00">1950_00_00</start_year>
+            <date daid="1950_00_00">1950_00_00</date>
             <conflict>North Korea invades South Korea</conflict>
             <us_involvement>UN and US troops intervene</us_involvement>
             <soviet_involvement>China supports North Korea</soviet_involvement>

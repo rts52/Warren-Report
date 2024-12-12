@@ -8,14 +8,25 @@
 
     <!--<xsl:variable name="overview" select="collection('../xml/Overview_Events/?select=*.xml')"/>-->
     <xsl:variable name="BoP" select="document('../xml/Overview_Events/Bay_Of_Pigs.xml')"/>
-    <xsl:variable name="Campa1960" select="'../xml/Overview_Events/Campaign_1960.xml'"/>
-    <xsl:variable name="CW" select="'../xml/Overview_Events/Cold_War.xml'"/>
-    <xsl:variable name="CMC" select="'../xml/Overview_Events/?select=Cuban_Missile_Crisis.xml'"/>
-    <xsl:variable name="KA" select="'../xml/Overview_Events/?select=Kennedy_Assassination'"/>
-    <xsl:variable name="overviewitems" select="($BoP//overview/*[.//date] | $BoP//topic/*[.//date])"/>
-    <!--<xsl:variable name="JFK" select="collection('../xml/JFK/?select=*.xml')"/>-->
-    <!--<xsl:variable name="LHO" select="collection('../xml/LHO/?select=*.xml')"/>-->
+    <xsl:variable name="Campa1960" select="document('../xml/Overview_Events/Campaign_1960.xml')"/>
+    <xsl:variable name="CW" select="document('../xml/Overview_Events/Cold_War.xml')"/>
+    <xsl:variable name="CMC" select="document('../xml/Overview_Events/Cuban_Missle_Crisis.xml')"/>
+    <xsl:variable name="KA" select="document('../xml/Overview_Events/Kennedy_Assassination.xml')"/>
 
+    <xsl:variable name="items" select="(
+          $BoP//overview/*[.//date[1]] | $BoP//topic/*[.//date[1]]
+        | $CW//topic/post_war_ii_tensions/*[.//date[1]] | $CW//actions/*[.//date[1]]
+        | $CW//asia/*[.//date[1]] | $CW//korean_war/*[.//date[1]] | $CW//vietnam_war/*[.//date[1]]
+        | $CW//cuba/*[.//date[1]] | $CW//topic/*[.//date[1]] | $CW//peace_initiatives/*[.//date[1]]
+        | $CW//limited_nuclear_test_ban_treaty[date[1]] | $CW//hotline[date[1]]
+        | $CW//us_commitment[date[1]] | $CW//escalation[date[1]]
+        | $Campa1960//overview/*[.//date[1]] |$Campa1960//topic[date[1]]
+        | $Campa1960//topic/*[.//date[1]] | $Campa1960//topic/*/*[.//date[1]]/..
+        | $CMC//overview[date[1]] | $CMC//overview/*[.//date[1]]
+        | $CMC//topic[date[1]] | $CMC//topic/*[.//date[1]]
+        | $KA/topic[date[1]] | $KA//topic/*[.//date[1]]
+        )"/>
+    
     <xsl:template match="/">
         <xsl:result-document method="xhtml" indent="yes" href="../docs/textTimeline.html">
         <html>
@@ -54,8 +65,8 @@
                         <h3>Overview of Major World Events Affecting JFKs Presidency</h3>
                         <!--<ul><xsl:apply-templates select="$overview/wrstart" mode="overview"/></ul> -->
                         <ul>
-                            <xsl:for-each select="$overviewitems">
-                                <xsl:sort select="((.//date[1]/@daid)!replace(.,'_',''))!replace(.,' ','')"/>
+                            <xsl:for-each select="$items">
+                                <xsl:sort select="((.//date[1]/@daid[1])!replace(.,'_','')!replace(.,' ',''))"/>
                                 <li><xsl:apply-templates/></li>
                             </xsl:for-each> 
                         </ul>
