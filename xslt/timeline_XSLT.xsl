@@ -66,7 +66,7 @@
                         <!--<ul><xsl:apply-templates select="$overview/wrstart" mode="overview"/></ul> -->
                         <ul>
                             <xsl:for-each select="$items">
-                                <xsl:sort select="((.//date[1]/@daid[1])!replace(.,'_','')!replace(.,' ',''))"/>
+                                <xsl:sort select="(((.//date)[1]/@daid[1])!replace(.,'_','')!replace(.,' ',''))"/>
                                 <li><xsl:apply-templates/></li>
                             </xsl:for-each> 
                         </ul>
