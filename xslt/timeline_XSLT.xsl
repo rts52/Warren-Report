@@ -14,7 +14,7 @@
     <xsl:variable name="KA" select="document('../xml/Overview_Events/Kennedy_Assassination.xml')"/>
 
     <xsl:variable name="items" select="(
-          $BoP//overview/*[.//date[1]] | $BoP//topic/*[.//date[1]]
+          $BoP//overview[date] | $BoP//overview/*[.//date[1]] | $BoP//topic[date] | $BoP//topic/*[.//date[1]]
         | $CW//topic/post_war_ii_tensions/*[.//date[1]] | $CW//actions/*[.//date[1]]
         | $CW//asia/*[.//date[1]] | $CW//korean_war/*[.//date[1]] | $CW//vietnam_war/*[.//date[1]]
         | $CW//cuba/*[.//date[1]] | $CW//topic/*[.//date[1]] | $CW//peace_initiatives/*[.//date[1]]
@@ -76,7 +76,29 @@
                         <!--<xsl:apply-templates select="$LHO/*root*"/>-->
                     </main>
                     <footer>
-                        <!-- <img src="image/"></img> --><h6>Placeholder for CC Copyright Designation<br/>Project of UPG Digital Humanities Class Fall 2024</h6>
+                        <p xmlns:cc="http://creativecommons.org/ns#" 
+                           xmlns:dct="http://purl.org/dc/terms/">
+                            <a property="dct:title" rel="cc:attributionURL" 
+                               href="https://rts52.github.io/Warren-Report/index.html">
+                                The Warren Project
+                            </a> by 
+                            <span property="cc:attributionName">
+                                UPG Digital Humanities Class, Fall 2024
+                            </span>is licensed under 
+                            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" 
+                               target="_blank" rel="license noopener noreferrer" 
+                               style="display:inline-block;">
+                                CC BY-NC-SA 4.0
+                                <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" 
+                                     src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""/>
+                                <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" 
+                                     src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""/>
+                                <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" 
+                                     src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""/>
+                                <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" 
+                                     src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""/>
+                            </a>
+                        </p>
                     </footer>
                 </div>
             </body>
