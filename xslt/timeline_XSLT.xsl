@@ -54,9 +54,8 @@
                                     </div>
                                 </div>
                             </li>
-                            <!--<li><a href="about.html" class="button">About</a></li>-->
                             <li><a href="members.html" class="button">Members</a></li>
-                            <li><a href="Sources.html" class="button">Sources</a></li>
+                            <li><a href="sources.html" class="button">Sources</a></li>
                         </ul>
                     </nav>
                     <main>
