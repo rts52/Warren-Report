@@ -2,7 +2,7 @@
 <?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?>
 <wrstart>
     <topic subject="campaign_travel">
-        <date daid="1963_11_21">1963_11_21</date>
+        <date daid="1963_11_21">November 21st, 1963</date>
         <locations>
             <location>Texas</location>
             <description>President Kennedy and First Lady Jacqueline Kennedy travel to Texas for a two-day, five-city tour</description>
@@ -12,7 +12,7 @@
         </purpose>
         <events>
             <event>
-                <date daid="1963_11_21">1963_11_21</date>
+                <date daid="1963_11_21">November 21st, 1963</date>
                 <location>San Antonio, Houston, Fort Worth</location>
                 <description>Campaign stops for military preparedness and economic growth, with a breakfast at the Fort Worth Chamber of Commerce</description>
             </event>
@@ -20,7 +20,7 @@
     </topic>
     
     <topic subject="morning_in_fort_worth">
-        <date daid="1963_11_22">1963_11_22</date>
+        <date daid="1963_11_22">November 22nd, 1963</date>
         <location>Texas Hotel, Fort Worth</location>
         <weather>Light rain</weather>
         <event>
@@ -32,7 +32,7 @@
     </topic>
     
     <topic subject="on_to_dallas">
-        <date daid="1963_11_22">1963_11_22</date>
+        <date daid="1963_11_22">November 22nd, 1963</date>
         <location>Dallas, Texas</location>
         <event>
             <description>President and Mrs. Kennedy board a motorcade from Love Field Airport to the Trade Mart in downtown Dallas, waving to the crowd along the way</description>
@@ -43,7 +43,7 @@
     </topic>
     
     <topic subject="assassination">
-        <date daid="1963_11_22">1963_11_22</date>
+        <date daid="1963_11_22">November 22nd, 1963</date>
         <time>12:30 p.m.</time>
         <location>Dealey Plaza, Dallas, Texas</location>
         <incident>
@@ -57,7 +57,7 @@
     </topic>
     
     <topic subject="transition_of_power">
-        <date daid="1963_11_22">1963_11_22</date>
+        <date daid="1963_11_22">November 22nd, 1963</date>
         <time>2:38 p.m.</time>
         <location>Love Field, Dallas</location>
         <event>
@@ -67,7 +67,7 @@
     </topic>
     
     <topic subject="lee_harvey_oswald">
-        <date daid="1963_11_22">1963_11_22</date>
+        <date daid="1963_11_22">November 22nd, 1963</date>
         <location>Dallas, Texas</location>
         <incident>
             <description>Lee Harvey Oswald is arrested for the assassination of President Kennedy and the murder of Patrolman J.D. Tippit.</description>
@@ -75,7 +75,7 @@
     </topic>
     
     <topic subject="jack_ruby">
-        <date daid="1963_11_24">1963_11_24</date>
+        <date daid="1963_11_24">November 24th, 1963</date>
         <event>
             <description>Jack Ruby, a nightclub owner, shoots and kills Lee Harvey Oswald while he is being transferred to the county jail.</description>
             <consequence>Oswald dies two hours later at Parkland Hospital.</consequence>
@@ -83,7 +83,7 @@
     </topic>
     
     <topic subject="president_kennedy_funeral">
-        <date daid="1963_11_25">1963_11_25</date>
+        <date daid="1963_11_25">November 25th, 1963</date>
         <location>Arlington National Cemetery</location>
         <event>
             <description>President Kennedy's funeral is held with heads of state from around the world in attendance. His flag-draped casket is transported on a caisson, accompanied by a riderless black horse.</description>
@@ -93,7 +93,7 @@
         </final_grave_site>
     </topic>
     <topic subject="warren_commission">
-        <date daid="1963_11_29">1963_11_29</date>
+        <date daid="1963_11_29">November 29th, 1963</date>
         <event>
             <description>President Lyndon B. Johnson appoints the Warren Commission to investigate the assassination of President Kennedy.</description>
             <commission_chairman>Chief Justice Earl Warren</commission_chairman>
@@ -104,7 +104,7 @@
     </topic>
     
     <topic subject="house_select_committee_on_assassinations">
-        <date daid="1976_00_00">1976_00_00</date>
+        <date daid="1976_00_00">1976</date>
         <event>
             <description>The US House of Representatives establishes the House Select Committee on Assassinations to re-investigate the Kennedy assassination.</description>
         </event>
@@ -114,7 +114,7 @@
     </topic>
     
     <topic subject="assassination_records_collection">
-        <date daid="1992_00_00">1992_00_00</date>
+        <date daid="1992_00_00">1992</date>
         <legislation>
             <description>The President John F. Kennedy Assassination Records Collection Act mandates the declassification and release of assassination-related documents.</description>
             <location>National Archives and Records Administration</location>

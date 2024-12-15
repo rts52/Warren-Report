@@ -4,7 +4,7 @@
     <overview>
         <cold_war_tensions>
             <event>Soviets launch Sputnik</event>
-            <date daid="1957_00_00">1957_00_00</date>
+            <date daid="1957_00_00">1957</date>
             <american_reaction>Warnings about falling behind in science and technology</american_reaction>
             <incident>U-2 spy plane shot down</incident>
             <consequence>Cancellation of Eisenhower's trip to Moscow</consequence>
@@ -28,7 +28,7 @@
             </challenges>
             <primary_victory>
                 <state>West Virginia</state>
-                <date daid="1960_05_10">1960_05_10</date>
+                <date daid="1960_05_10">May 10th, 1960</date>
             </primary_victory>
             <convention_victory>
                 <location>Los Angeles</location>
@@ -51,7 +51,7 @@
     
     <topic subject="debates">
         <first_debate>
-            <date daid="1960_09_26">1960_09_26</date>
+            <date daid="1960_09_26">September 26th, 1960</date>
             <viewership>
                 <percent>88%</percent>
                 <audience>70 million Americans</audience>
@@ -90,7 +90,7 @@
     </topic>
     
     <topic subject="election_results">
-        <date daid="1960_11_08">1960_11_08</date>
+        <date daid="1960_11_08">Novemebr 8th, 1960</date>
         <popular_vote_margin>118,550 votes</popular_vote_margin>
         <total_votes>69 million</total_votes>
         <electoral_votes>

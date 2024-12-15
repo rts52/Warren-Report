@@ -35,7 +35,7 @@
     <topic subject="plan">
         <authorization>
             <president>John F. Kennedy</president>
-            <date daid="1961_02_00">1961_02_00</date>
+            <date daid="1961_02_00">February 1961</date>
         </authorization>
         <deception>
             <landing_point>Bay of Pigs</landing_point>
@@ -51,20 +51,20 @@
     </topic>
     
     <topic subject="invasion">
-        <date daid="1961_04_15">1961_04_15</date>
+        <date daid="1961_04_15">April 15th, 1961</date>
         <bombing_mishap>
             <description>Obsolete B-26 bombers missed targets</description>
             <consequence>Exposed U.S. involvement</consequence>
             <president_decision>Cancelled second airstrike</president_decision>
         </bombing_mishap>
-<!--        <date daid="1961_04_17">1961_04_17</date>-->
+<!--        <date daid="1961_04_17">April 17th, 1961</date>-->
         <brigade>Brigade 2506</brigade>
         <landing_outcome>Heavy fire, ships sunk, air support destroyed</landing_outcome>
         <weather_effects>Soggy equipment, insufficient ammo</weather_effects>
     </topic>
     
     <topic subject="counterattack">
-        <date daid="1961_04_19">1961_04_19</date>
+        <date daid="1961_04_19">April 19th, 1961</date>
         <troops_committed>Cuban forces: 20,000</troops_committed>
         <air_support>
             <planes>Six unmarked U.S. fighter planes</planes>
@@ -75,7 +75,7 @@
     
     <topic subject="aftermath">
         <ceremony>
-            <date daid="1962_12_29">1962_12_29</date>
+            <date daid="1962_12_29">December 29th, 1962</date>
             <location>Orange Bowl, Miami</location>
             <flag_handling>
                 <flag_hand_over_to>President Kennedy</flag_hand_over_to>
