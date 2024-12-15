@@ -16,7 +16,7 @@ header, nav, main, footer
     margin:25px 100px;
 }
 header{
-    background-color:lightblue;
+    background-color:#00008B;
     width:100%;
     margin:0 0em 0em 0;
     padding:0;
@@ -24,7 +24,7 @@ header{
     text-align:left;
 }
 nav{
-   background-color: lightblue;
+   background-color: navy;
    font-weight:bold;
    width:100%;
    margin:0 0 1em 0;
@@ -44,7 +44,7 @@ nav li{
 display:inline-block;
 }
 footer{
-    background-color:lightblue;
+    background-color:navy;
     width:100%;
     margin:0 0 5em 0;
     padding:0;
