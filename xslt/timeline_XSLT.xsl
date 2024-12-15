@@ -40,7 +40,7 @@
             <body>
                 <div id="wrapper">
                     <header>
-                        <!-- <a href="index.html"><img src="image/*header image here*"/></a> --><h2>The Warren Project Text Timeline</h2>
+                        <h1>Timeline</h1>
                     </header>
                     <nav>
                         <ul>
@@ -98,6 +98,7 @@
                                      src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""/>
                             </a>
                         </p>
+                        <a href="https://github.com/rts52/Warren-Report">Click here to see our GitHub Repo</a>
                     </footer>
                 </div>
             </body>
