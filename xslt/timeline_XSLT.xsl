@@ -47,6 +47,7 @@
                 <meta name="viewport" content="width-device-width, initial-scale=1,.0"/>
                 <link rel="icon" type="image/x-icon" href="favicon.jpg"/>
                 <link rel="stylesheet" type="text/css" href="style.css"/>
+                <style>ul{list-style-type:none;}</style>
             </head>
             <body>
                 <div id="wrapper">
@@ -54,7 +55,7 @@
                         <h1>Timeline</h1>
                     </header>
                     <nav>
-                        <ul style="list-style-type:none;">
+                        <ul>
                             <li><a href="index.html" class="button">Home</a></li>
                             <li>
                                 <div class="dropdown">
