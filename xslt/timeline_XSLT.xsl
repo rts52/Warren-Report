@@ -54,7 +54,7 @@
                         <h1>Timeline</h1>
                     </header>
                     <nav>
-                        <ul>
+                        <ul style="list-style-type:none;">
                             <li><a href="index.html" class="button">Home</a></li>
                             <li>
                                 <div class="dropdown">
