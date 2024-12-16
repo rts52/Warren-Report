@@ -6,19 +6,26 @@
     xmlns="http://www.w3.org/1999/xhtml" version="3.0">
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes" indent="true"/>
 
-    <!--<xsl:variable name="overview" select="collection('../xml/Overview_Events/?select=*.xml')"/>-->
-    <xsl:variable name="BoP" select="document('../xml/Overview_Events/Bay_Of_Pigs.xml')"/>
+    <xsl:variable name="overview" select="collection('../xml/Overview_Events/?select=*.xml')"/>
+    <xsl:variable name="WR" select="collection('../xml/Warren-Report/?select=*.xml')"/>
+    
+    <xsl:variable name="ch5" select="document('../xml/Warren-Report/WarrenChapter5.xml')"/>
+    <xsl:variable name="ch7" select="document('../xml/Warren-Report/Warren_Report_Chapter_7.xml')"/>
+    <xsl:variable name="LHO1" select="document('../xml/Warren-Report/LHObiopt1.xml')"/>
+    <xsl:variable name="LHO2" select="document('../xml/Warren-Report/LHOBioPt2.xml')"/>
+    
+    <!--<xsl:variable name="BoP" select="document('../xml/Overview_Events/Bay_Of_Pigs.xml')"/>
     <xsl:variable name="Campa1960" select="document('../xml/Overview_Events/Campaign_1960.xml')"/>
     <xsl:variable name="CW" select="document('../xml/Overview_Events/Cold_War.xml')"/>
     <xsl:variable name="CMC" select="document('../xml/Overview_Events/Cuban_Missle_Crisis.xml')"/>
-    <xsl:variable name="KA" select="document('../xml/Overview_Events/Kennedy_Assassination.xml')"/>
+    <xsl:variable name="KA" select="document('../xml/Overview_Events/Kennedy_Assassination.xml')"/>-->
     
-    <!-- If you made the mistake of trying to continue this project... -->
+    <!-- 
     <xsl:variable name="items" select="(
           $BoP//overview[date[1]] | $BoP//overview/*[.//date[1]] | $BoP//topic[date[1]] | $BoP//topic/*[.//date[1]]
-        | $CW//topic/post_war_ii_tensions/*[.//date[1]] | $CW//actions/*[.//date[1]]
+        | $CW//topic/post_war_ii_tensions/*[.//date[1]] | $CW//action[date[1]]
         | $CW//asia/*[.//date[1]] | $CW//korean_war/*[.//date[1]] | $CW//vietnam_war/*[.//date[1]]
-        | $CW//cuba/*[.//date[1]] | $CW//topic/*[.//date[1]] | $CW//peace_initiatives/*[.//date[1]]
+        | $CW//cuba/*[.//date[1]] | $CW//topic/*[./date[1]] | $CW//peace_initiatives/*[.//date[1]]
         | $CW//limited_nuclear_test_ban_treaty[date[1]] | $CW//hotline[date[1]]
         | $CW//us_commitment[date[1]] | $CW//escalation[date[1]]
         | $Campa1960//overview/*[.//date[1]] |$Campa1960//topic[date[1]]
@@ -27,7 +34,7 @@
         | $CMC//topic[date[1]] | $CMC//topic/*[.//date[1]]
         | $KA/topic[date[1]] | $KA//topic/*[.//date[1]]
         )"/>
-    <!-- God help you with ^THAT. ~Daniel-->
+    -->
     
     <xsl:template match="/">
         <xsl:result-document method="xhtml" indent="yes" href="../docs/textTimeline.html">
@@ -74,15 +81,19 @@
                         <h3>Overview of Major World Events Affecting JFKs Presidency</h3>
                         <!--<ul><xsl:apply-templates select="$overview/wrstart" mode="overview"/></ul> -->
                         <ul>
-                            <xsl:for-each select="$items">
-                                <xsl:sort select="(((.//date)[1]/@daid[1])!replace(.,'_','')!replace(.,' ',''))"/>
+                            <xsl:for-each select="$overview//topic">
+                                <xsl:sort select="((date[1]/@daid[1])!replace(.,'_','')!replace(.,' ',''))"/>
                                 <li><xsl:apply-templates/></li>
                             </xsl:for-each> 
                         </ul>
-                        <h3>John F. Kenedy Timeline</h3>
-                        <!--<xsl:apply-templates select="$JFK/*root*"/>-->
-                        <h3>Lee Harvey Oswald Timeline</h3>
-                        <!--<xsl:apply-templates select="$LHO/*root*"/>-->
+                        <h3>The Warren Commision Report</h3>
+                        <h4 id="ch5">Chapter 5</h4>
+                        <xsl:apply-templates select="$ch5/wrstart"/>
+                        <h4 id="ch7">Chapter 7</h4>
+                        <xsl:apply-templates select="$ch7/wrstart"/>
+                        <h4 id="A13">Appendix 13</h4>
+                        <xsl:apply-templates select="$LHO1/wrstart"/>
+                        <xsl:apply-templates select="$LHO2/wrstart"/>
                     </main>
                     <footer>
                         <p xmlns:cc="http://creativecommons.org/ns#" 
@@ -114,29 +125,20 @@
             </body>
         </html>
         </xsl:result-document>
-    </xsl:template>  
-    
-    <!--<xsl:template match="overview" mode="overview">
-        <li><xsl:apply-templates/></li>
     </xsl:template>
 
-    <xsl:template match="topic" mode="overview">
-                <li> <xsl:apply-templates/> </li>
-        </xsl:template> 
-    <xsl:template match="$overviewitems" mode="overview">
-        
-        <li><xsl:apply-templates/></li>
-    </xsl:template>-->
-
-    <!-- Continuation of above linking ~Daniel-->
-    <xsl:template match="wrstart//date[1]">
-        <!-- Probably a better way to do the id here. Oh well. ~Daniel-->
-        <!-- There was ~Daniel-->
-        <h4 id="{concat((tokenize(base-uri(.),'/'))[last()],((../date/@daid)!replace(.,'_',''))!replace(.,' ',''),count(../date/preceding::date))}">
+    
+    <xsl:template match="$overview/wrstart//date[1]">
+        <h4 id="{concat((tokenize(base-uri(.),'/'))[last()],((../date/@daid)!replace(.,'_',''))!replace(.,' ',''),count(preceding::date))}">
             <xsl:apply-templates/>
        </h4>
     </xsl:template>
 
+    <xsl:template match="$WR/wrstart//date[1]">
+        <h4 id="{concat((tokenize(base-uri(.),'/'))[last()],((/@daid)!replace(.,'_',''))!replace(.,' ',''),count(preceding::date))}">
+            <xsl:apply-templates/>
+        </h4>
+    </xsl:template>
 
 </xsl:stylesheet>
 

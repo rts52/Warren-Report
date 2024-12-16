@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?>
+<!-- <?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?> -->
 <wrstart>
     <overview>
         <definition>The Cold War was a decades-long struggle for global supremacy between the United States and its allies, and the Soviet Union and its satellite states.</definition>
@@ -27,7 +27,7 @@
         </key_elements>
     </overview>
     
-    <topic subject="from_allies_to_adversaries">
+    
         <world_war_ii_alliance>
             <countries>
                 <country>United States</country>
@@ -36,11 +36,11 @@
             <enemy>Nazi Germany</enemy>
         </world_war_ii_alliance>
         
-        <post_wwii_tensions>
+        <topic>
             <event>Potsdam Conference</event>
             <date daid="1945_07_00">July 1945</date>
             <outcome>Tensions over the occupation of Germany</outcome>
-        </post_wwii_tensions>
+        </topic>
         
         <soviet_expansion>
             <region>Eastern Europe</region>
@@ -58,44 +58,43 @@
         <us_containment_policy>
             <goal>Prevent spread of Soviet influence in Western Europe</goal>
             <actions>
-                <action>Truman Doctrine <date daid="1947_00_00">1947</date></action>
-                <action>Marshall Plan <date daid="1947_00_00">1947</date></action>
+                <topic>Truman Doctrine <date daid="1947_00_00">1947</date></topic>
+                <topic>Marshall Plan <date daid="1947_00_00">1947</date></topic>
             </actions>
         </us_containment_policy>
-    </topic>
     
-    <topic subject="cold_war_international_conflict">
-        <asia>
+    
+        <topic>
             <event>Communists win Chinese Civil War</event>
             <date daid="1949_00_00">1949_00_00</date>
             <country>China</country>
             <outcome>Soviet-China alliance</outcome>
-        </asia>
+        </topic>
         
-        <korean_war>
+        <topic>
             <date daid="1950_00_00">1950_00_00</date>
             <conflict>North Korea invades South Korea</conflict>
             <us_involvement>UN and US troops intervene</us_involvement>
             <soviet_involvement>China supports North Korea</soviet_involvement>
             <end_year yrend="1953_00_00">1953_00_00</end_year>
             <outcome>Truce</outcome>
-        </korean_war>
+        </topic>
         
-        <vietnam_war>
+        <topic>
             <event>French colonial regime falls</event>
             <date daid="1954_00_00">1954</date>
             <us_involvement>Supports South Vietnam's military government</us_involvement>
             <goal>Prevent communist expansion in Southeast Asia</goal>
-        </vietnam_war>
+        </topic>
         
-        <cuba>
+        <topic>
             <event>Fidel Castro overthrows Batista regime</event>
             <date daid="1959_00_00">1959</date>
             <result>Cuba becomes a Soviet ally</result>
-        </cuba>
-    </topic>
+        </topic>
     
-    <topic subject="kennedy_and_the_cold_war">
+    
+    
         <campaign_1960>
             <cold_war_rhetoric>
                 <kennedy_promise>Promised a tough stance on the Soviet Union</kennedy_promise>
@@ -105,20 +104,20 @@
             <criticism_of_eisenhower>Allowed pro-Soviet government in Cuba</criticism_of_eisenhower>
         </campaign_1960>
         
-        <kennedy_inaugural_address>
+        <topic>
             <date daid="1961_01_00">January 1961</date>
             <quote>"Pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and success of liberty."</quote>
-        </kennedy_inaugural_address>
+        </topic>
         
-        <bay_of_pigs>
+        <topic>
             <date daid="1961_04_17">April 17th, 1961</date>
             <operation>Plan to train Cuban exiles for invasion</operation>
             <result>Failure, force killed or captured</result>
             <kennedy_response>Assumed full responsibility</kennedy_response>
-        </bay_of_pigs>
+        </topic>
         
         <arms_race>
-            <first_meeting>
+            <topic>
                 <leaders>
                     <leader>John F. Kennedy</leader>
                     <leader>Nikita Khrushchev</leader>
@@ -126,12 +125,12 @@
                 <location>Vienna, Austria</location>
                 <date daid="1961_06_00">June 1961</date>
                 <outcome>Increased tensions, Khrushchev threatened Berlin access</outcome>
-            </first_meeting>
+            </topic>
             
-            <berlin_wall>
+            <topic>
                 <date daid="1961_08_00">August 1961</date>
                 <event>Soviets build the Berlin Wall</event>
-            </berlin_wall>
+            </topic>
             
             <nuclear_buildup>
                 <kennedy_action>Increased American missile and air power</kennedy_action>
@@ -139,7 +138,7 @@
             </nuclear_buildup>
         </arms_race>
         
-        <cuban_missile_crisis>
+        <topic>
             <date daid="1962_00_00">1962</date>
             <event>US discovers Soviet missiles in Cuba</event>
             <kennedy_response>
@@ -148,44 +147,43 @@
                 <result>Soviets agree to withdraw missiles</result>
             </kennedy_response>
             <aftermath>Escalation in arms race</aftermath>
-        </cuban_missile_crisis>
+        </topic>
         
         <peace_initiatives>
-            <speech>
+            <topic>
                 <date daid="1963_08_00">August 1963</date>
                 <location>American University, Washington, DC</location>
                 <message>Call for peace, reduce Cold War stereotypes</message>
-            </speech>
+            </topic>
             
-            <limited_nuclear_test_ban_treaty>
+            <topic>
                 <date daid="1963_00_00">1963</date>
                 <goal>Reduce nuclear testing</goal>
                 <result>Treaty signed</result>
-            </limited_nuclear_test_ban_treaty>
+            </topic>
             
-            <hotline>
+            <topic>
                 <date daid="1963_00_00">1963</date>
                 <purpose>Direct communication line between Washington and Moscow</purpose>
                 <goal>Reduce risk of miscalculation leading to war</goal>
-            </hotline>
+            </topic>
         </peace_initiatives>
         
-        <vietnam>
-            <us_commitment>
+        
+            <topic>
                 <date daid="1961_05_00">May 1961</date>
                 <action>500 Special Forces sent to South Vietnam</action>
                 <additional_support>12,000 military advisers by 1962</additional_support>
                 <statement>JFK: "It's their war, but we must help"</statement>
-            </us_commitment>
+            </topic>
             
-            <escalation>
+            <topic>
                 <date daid="1963_11_00">November 1963</date>
                 <troops>16,000 advisers</troops>
                 <kennedy_ambivalence>
                     <quote>"We may not like it, but we have to participate in the defense of Asia."</quote>
                     <decision>Uncertain about future US involvement</decision>
                 </kennedy_ambivalence>
-            </escalation>
-        </vietnam>
-    </topic>
+            </topic>
+        
 </wrstart>

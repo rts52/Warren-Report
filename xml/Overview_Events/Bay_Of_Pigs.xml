@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?>
+<!-- <?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?> -->
 <wrstart>
     <overview>
-        <date daid="1959_00_00">1959_00_00</date>
+        <date daid="1959_00_00">1959</date>
         <leader>Fidel Castro</leader>
         <overthrow>Fulgencio Batista</overthrow>
         <us_reaction>
@@ -12,10 +12,10 @@
     </overview>
     
     <topic subject="training">
-        <approval>
+        
             <president>Dwight D. Eisenhower</president>
-            <date daid="1960_03_00">1960_03_00</date>
-        </approval>
+            <date daid="1960_03_00">March 1960</date>
+        
         <location>Guatemala</location>
         <forces_trained>
             <force_size>1400</force_size>
@@ -28,15 +28,15 @@
         </leader>
         <covert>
             <exiles_in_miami>Common knowledge</exiles_in_miami>
-            <castro_intelligence>Aware of camps by <date daid="1960_10_00">1960_10_00</date></castro_intelligence>
+            <castro_intelligence>Aware of camps by <!--<date daid="1960_10_00">1960_10_00</date>--></castro_intelligence>
         </covert>
     </topic>
     
     <topic subject="plan">
-        <authorization>
+        
             <president>John F. Kennedy</president>
             <date daid="1961_02_00">February 1961</date>
-        </authorization>
+        
         <deception>
             <landing_point>Bay of Pigs</landing_point>
             <reason>Hide U.S. involvement</reason>
@@ -74,14 +74,14 @@
     </topic>
     
     <topic subject="aftermath">
-        <ceremony>
+        
             <date daid="1962_12_29">December 29th, 1962</date>
             <location>Orange Bowl, Miami</location>
             <flag_handling>
                 <flag_hand_over_to>President Kennedy</flag_hand_over_to>
                 <promise>"This flag will be returned to this brigade in a free Havana"</promise>
             </flag_handling>
-        </ceremony>
+        
         <lasting_impact>
             <effect>Initiated Operation Mongoose</effect>
             <goal>Sabotage and destabilize Cuba</goal>

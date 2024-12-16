@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?>
+<!-- <?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?> -->
 <wrstart>
     <topic subject="campaign_travel">
         <date daid="1963_11_21">November 21st, 1963</date>
@@ -10,14 +10,14 @@
         <purpose>
             <description>Political campaigning for the 1964 presidential election, with a focus on winning key states, including Texas and Florida</description>
         </purpose>
-        <events>
-            <event>
+    </topic>  
+            <topic>
                 <date daid="1963_11_21">November 21st, 1963</date>
                 <location>San Antonio, Houston, Fort Worth</location>
                 <description>Campaign stops for military preparedness and economic growth, with a breakfast at the Fort Worth Chamber of Commerce</description>
-            </event>
-        </events>
-    </topic>
+            </topic>
+        
+    
     
     <topic subject="morning_in_fort_worth">
         <date daid="1963_11_22">November 22nd, 1963</date>

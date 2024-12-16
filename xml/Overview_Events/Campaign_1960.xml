@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?>
+<!-- <?xml-model href="WarrenSchema2.rnc" type="application/relax-ng-compact-syntax"?> -->
 <wrstart>
     <overview>
-        <cold_war_tensions>
+        
             <event>Soviets launch Sputnik</event>
             <date daid="1957_00_00">1957</date>
             <american_reaction>Warnings about falling behind in science and technology</american_reaction>
             <incident>U-2 spy plane shot down</incident>
             <consequence>Cancellation of Eisenhower's trip to Moscow</consequence>
-        </cold_war_tensions>
+        
         <cuba>
             <event>Castro's regime allied with Soviet Union</event>
             <reaction>Heightened fears of communist subversion in the Western Hemisphere</reaction>
@@ -19,6 +19,7 @@
     </overview>
     
     <topic subject="candidates">
+        <date daid="1960_05_10">May 10th, 1960</date>
         <kennedy>
             <name>John Fitzgerald Kennedy</name>
             <party>Democratic</party>
@@ -28,7 +29,7 @@
             </challenges>
             <primary_victory>
                 <state>West Virginia</state>
-                <date daid="1960_05_10">May 10th, 1960</date>
+                
             </primary_victory>
             <convention_victory>
                 <location>Los Angeles</location>
@@ -50,8 +51,9 @@
     </topic>
     
     <topic subject="debates">
+        <date daid="1960_09_26">September 26th, 1960</date>
         <first_debate>
-            <date daid="1960_09_26">September 26th, 1960</date>
+            
             <viewership>
                 <percent>88%</percent>
                 <audience>70 million Americans</audience>
