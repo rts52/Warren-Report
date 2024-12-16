@@ -151,7 +151,8 @@
     </xsl:template>
     
     <xsl:template match="qoute">
-        &quot;<xsl:apply-templates/>&quot;
+        &quot;<xsl:apply-templates select="content"/>&quot; <br/>
+        <h4>~<xsl:apply-templates select="spokesperson"/></h4>
     </xsl:template>
 
 </xsl:stylesheet>
