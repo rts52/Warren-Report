@@ -66,13 +66,13 @@
     
         <topic>
             <event>Communists win Chinese Civil War</event>
-            <date daid="1949_00_00">1949_00_00</date>
+            <date daid="1949_00_00">1949</date>
             <country>China</country>
             <outcome>Soviet-China alliance</outcome>
         </topic>
         
         <topic>
-            <date daid="1950_00_00">1950_00_00</date>
+            <date daid="1950_00_00">1950</date>
             <conflict>North Korea invades South Korea</conflict>
             <us_involvement>UN and US troops intervene</us_involvement>
             <soviet_involvement>China supports North Korea</soviet_involvement>

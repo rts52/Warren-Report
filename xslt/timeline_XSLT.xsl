@@ -6,13 +6,15 @@
     xmlns="http://www.w3.org/1999/xhtml" version="3.0">
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes" indent="true"/>
 
-    <xsl:variable name="overview" select="collection('../xml/Overview_Events/?select=*.xml')"/>
+    <xsl:variable name="OV" select="collection('../xml/Overview_Events/?select=*.xml')"/>
     <xsl:variable name="WR" select="collection('../xml/Warren-Report/?select=*.xml')"/>
     
     <xsl:variable name="ch5" select="document('../xml/Warren-Report/WarrenChapter5.xml')"/>
     <xsl:variable name="ch7" select="document('../xml/Warren-Report/Warren_Report_Chapter_7.xml')"/>
     <xsl:variable name="LHO1" select="document('../xml/Warren-Report/LHObiopt1.xml')"/>
     <xsl:variable name="LHO2" select="document('../xml/Warren-Report/LHOBioPt2.xml')"/>
+    
+    <xsl:variable name="items" select="($OV//overview | $OV//topic)"/>
     
     <!--<xsl:variable name="BoP" select="document('../xml/Overview_Events/Bay_Of_Pigs.xml')"/>
     <xsl:variable name="Campa1960" select="document('../xml/Overview_Events/Campaign_1960.xml')"/>
@@ -81,7 +83,7 @@
                         <h3>Overview of Major World Events Affecting JFKs Presidency</h3>
                         <!--<ul><xsl:apply-templates select="$overview/wrstart" mode="overview"/></ul> -->
                         <ul>
-                            <xsl:for-each select="$overview//topic">
+                            <xsl:for-each select="$OV//$items[date/@daid]">
                                 <xsl:sort select="((date[1]/@daid[1])!replace(.,'_','')!replace(.,' ',''))"/>
                                 <li><xsl:apply-templates/></li>
                             </xsl:for-each> 
@@ -128,7 +130,7 @@
     </xsl:template>
 
     
-    <xsl:template match="$overview/wrstart//date[1]">
+    <xsl:template match="$OV/wrstart//date[1]">
         <h4 id="{concat((tokenize(base-uri(.),'/'))[last()],((../date/@daid)!replace(.,'_',''))!replace(.,' ',''),count(preceding::date))}">
             <xsl:apply-templates/>
        </h4>
@@ -140,11 +142,11 @@
         </h4>
     </xsl:template>
     
-    <xsl:template match="page">
+    <!--<xsl:template match="page">
         <br/>
         <b>[<xsl:apply-templates/>]</b>
         <br/>
-    </xsl:template>
+    </xsl:template>-->
     
     <xsl:template match="texts">
         <p><xsl:apply-templates/></p>
