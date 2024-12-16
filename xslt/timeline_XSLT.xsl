@@ -139,6 +139,10 @@
             <xsl:apply-templates/>
         </h4>
     </xsl:template>
+    
+    <xsl:template match="$WR/wrstart//page">
+        <br/><xsl:apply-templates/>
+    </xsl:template>
 
 </xsl:stylesheet>
 
