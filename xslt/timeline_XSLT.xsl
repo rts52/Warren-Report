@@ -140,8 +140,18 @@
         </h4>
     </xsl:template>
     
-    <xsl:template match="$WR/wrstart//page">
-        <br/><xsl:apply-templates/>
+    <xsl:template match="page">
+        <br/>
+        <b>[<xsl:apply-templates/>]</b>
+        <br/>
+    </xsl:template>
+    
+    <xsl:template match="texts">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    
+    <xsl:template match="qoute">
+        &quot;<xsl:apply-templates/>&quot;
     </xsl:template>
 
 </xsl:stylesheet>
