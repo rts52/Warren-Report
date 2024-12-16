@@ -174,12 +174,12 @@
             <us_commitment>
                 <date daid="1961_05_00">May 1961</date>
                 <action>500 Special Forces sent to South Vietnam</action>
-                <additional_support>12,000 military advisers by <date>1962</date></additional_support>
+                <additional_support>12,000 military advisers by 1962</additional_support>
                 <statement>JFK: "It's their war, but we must help"</statement>
             </us_commitment>
             
             <escalation>
-                <date daid="November 1963">1963_11_00</date>
+                <date daid="1963_11_00">November 1963</date>
                 <troops>16,000 advisers</troops>
                 <kennedy_ambivalence>
                     <quote>"We may not like it, but we have to participate in the defense of Asia."</quote>

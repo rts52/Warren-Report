@@ -12,9 +12,10 @@
     <xsl:variable name="CW" select="document('../xml/Overview_Events/Cold_War.xml')"/>
     <xsl:variable name="CMC" select="document('../xml/Overview_Events/Cuban_Missle_Crisis.xml')"/>
     <xsl:variable name="KA" select="document('../xml/Overview_Events/Kennedy_Assassination.xml')"/>
-
+    
+    <!-- If you made the mistake of trying to continue this project... -->
     <xsl:variable name="items" select="(
-          $BoP//overview[date] | $BoP//overview/*[.//date[1]] | $BoP//topic[date] | $BoP//topic/*[.//date[1]]
+          $BoP//overview[date[1]] | $BoP//overview/*[.//date[1]] | $BoP//topic[date[1]] | $BoP//topic/*[.//date[1]]
         | $CW//topic/post_war_ii_tensions/*[.//date[1]] | $CW//actions/*[.//date[1]]
         | $CW//asia/*[.//date[1]] | $CW//korean_war/*[.//date[1]] | $CW//vietnam_war/*[.//date[1]]
         | $CW//cuba/*[.//date[1]] | $CW//topic/*[.//date[1]] | $CW//peace_initiatives/*[.//date[1]]
@@ -26,12 +27,13 @@
         | $CMC//topic[date[1]] | $CMC//topic/*[.//date[1]]
         | $KA/topic[date[1]] | $KA//topic/*[.//date[1]]
         )"/>
+    <!-- God help you with ^THAT. ~Daniel-->
     
     <xsl:template match="/">
         <xsl:result-document method="xhtml" indent="yes" href="../docs/textTimeline.html">
         <html>
             <head>
-                <title>Text</title>
+                <title>Timeline</title>
                 <meta charset="UTF-8" />
                 <meta name="viewport" content="width-device-width, initial-scale=1,.0"/>
                 <link rel="icon" type="image/x-icon" href="favicon.jpg"/>
@@ -127,13 +129,17 @@
     </xsl:template>-->
 
     <!-- Continuation of above linking ~Daniel-->
-    <xsl:template match="wrstart//date">
+    <xsl:template match="wrstart//date[1]">
         <!-- Probably a better way to do the id here. Oh well. ~Daniel-->
         <!-- There was ~Daniel-->
-       <h4 id="{concat(document-uri(),((../date/@daid)!replace(.,'_',''))!replace(.,' ',''),count(preceding::date))}">
+        <h4 id="{concat((tokenize(base-uri(.),'/'))[last()],((../date/@daid)!replace(.,'_',''))!replace(.,' ',''),count(../date/preceding::date))}">
             <xsl:apply-templates/>
        </h4>
     </xsl:template>
 
 
 </xsl:stylesheet>
+
+<!-- THEY'RE COMING TO TAKE ME AWAY HAHAA! THEY'RE COMING TO TAKE ME AWAY HAHAA! 
+     THOSE NICE YOUNG MEN WITH THE CLEAN WHITE COATS AND THEY'RE COMING TO TAKE ME AWAY HAHAA! 
+     ~Daniel                                                                                 -->
