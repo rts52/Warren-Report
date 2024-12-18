@@ -1,0 +1,15 @@
+FINAL REVIEW
+
+Warren Report Project
+
+Fall 2024
+
+This project aimed to take sections of the Warren Report (the government report into the assassination of President Kennedy in 1963) and other relevant sources and create a coherent, sequential narrative of the events in the lives of JFK and assassin Lee Harvey Oswald in the few years leading up to the fateful day in Dallas. It is, at best, partially realized.
+
+Some projects are demonstrations of the possibilities of the medium. Others are rabbits pulled out of hats at the last minute. A few stand as cautionary tales. This project falls into the last category.
+
+The original sin, as it were, of this project is the schema. The whole point of a schema is to force everyone to standardize their XML markup. Instead, different team members wrote their XML according to different standards, in particular using unique (rather than standardized) element names for the events that were to be the cornerstone of the timeline. Rather than there being (say) an element called <cold_war_tensions>, there should have been a standard element tag with an attribute and value, such as <event desc="cold_war_tensions">. When an XML did not conform to the schema, the schema was simply altered to fit the XML, rather than the XML being adjusted to bring it into conformity with the schema. This was a huge mistake as it led to nightmarish and frustrating last-minute coding in the XSLT to try to adapt it to the messy state in which the XML existed, followed ultimately by a mad (but successful) dash to rewrite the XML manually to make it possible to get the XSLT to work. 
+
+Unfortunately, this meant that there was not time to complete other aspects of the project, such as the graphical timeline.
+
+
